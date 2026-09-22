@@ -1,162 +1,198 @@
-# Sales Data Analysis & Beginner ETL Pipeline
+# Sales Analytics & Business Intelligence Dashboard
 
-A beginner-friendly portfolio project that analyzes **synthetic sales transaction data** and demonstrates a simple end-to-end workflow: data generation, cleaning, exploratory analysis, business insights, visualization, SQL practice, and a basic ETL pipeline into SQLite.
+An end-to-end sales analytics and business intelligence project that demonstrates data generation, data cleaning, ETL processing, SQL analysis, business intelligence, interactive visualization, and dashboard deployment using Python, Pandas, SQLite, Plotly, and Streamlit.
 
-This project is intended for learners preparing for roles such as:
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analysis-4479A1?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
 
-- Data Analyst
-- Junior Data Engineer
-- Entry-Level AI/ML Engineer
+---
 
-The dataset is **synthetic** and was generated for learning and portfolio purposes. It does not come from a real company.
+## Live Dashboard
+
+[Open Live Dashboard](YOUR_STREAMLIT_URL)
+
+<!-- Replace YOUR_STREAMLIT_URL after deploying to Streamlit Community Cloud -->
+
+## GitHub Repository
+
+[View Source Code](https://github.com/GopiKrishnaMuppineni/sales-data-analysis)
 
 ---
 
 ## 1. Project Overview
 
-This project walks through a realistic beginner analytics and data engineering workflow using Python and SQL.
-
-It demonstrates:
-
-- Synthetic sales data generation
-- Data cleaning and validation
-- Exploratory data analysis (EDA)
-- Business analysis with Pandas
-- Data visualization with Matplotlib
-- SQL analysis practice
-- A simple ETL pipeline
-- Loading cleaned data into a SQLite database
-
-The focus is on clear, readable, beginner-friendly work rather than advanced production systems.
-
----
-
-## 2. Business Objective
-
-The goal is to analyze sales transactions to understand:
-
-- Overall revenue performance
-- Product and category contribution
-- Regional performance
-- Customer concentration
-- Monthly sales trends
-
-The project also shows how raw CSV data can be cleaned, transformed, and loaded into a database for SQL-based analysis.
-
----
-
-## 3. Project Workflow
+This project demonstrates an end-to-end analytics workflow:
 
 ```text
-CSV Dataset
-    ↓
-Python / Pandas
-    ↓
-Data Cleaning
-    ↓
-Business Analysis
-    ↓
-Visualization
-    ↓
-SQLite ETL Pipeline
-    ↓
-SQL Analysis
+Data Generation
+→ Data Cleaning
+→ Data Validation
+→ ETL
+→ SQLite
+→ SQL Analysis
+→ Business Insights
+→ Interactive Dashboard
 ```
 
-**Stage summary**
+The Streamlit dashboard enables exploration of:
 
-| Stage | What happens |
+- Revenue
+- Orders
+- Units sold
+- Products
+- Customers
+- Categories
+- Regions
+- Monthly performance
+
+The project uses **2,000 synthetic sales records**.
+
+**The dataset used in this project is synthetic and was created for portfolio and learning purposes.**
+
+---
+
+## 2. Dashboard Features
+
+The current Version 2 dashboard (`app.py`) includes:
+
+- Executive KPI cards
+  - Total Revenue
+  - Total Orders
+  - Units Sold
+  - Average Order Value
+- Filters for date range, region, category, and product
+- Monthly revenue trend
+- Sales by category
+- Regional performance
+- Top 10 products
+- Top 10 customers
+- Dynamic business insights
+- Data quality validation
+- Filtered data exploration
+
+Dashboard metrics and insights are **dynamically calculated** from the selected filter context. Defaults open to the full dataset.
+
+---
+
+## 3. Key Metrics
+
+The dashboard calculates:
+
+- Total Revenue
+- Total Orders
+- Total Units Sold
+- Average Order Value
+
+These values change based on the active filters and are not fixed constants.
+
+---
+
+## 4. Data Pipeline
+
+```text
+CSV Sales Data
+      ↓
+Data Validation & Cleaning
+      ↓
+Transformation
+      ↓
+SQLite Database
+      ↓
+SQL Analysis
+      ↓
+Business Insights
+      ↓
+Streamlit Dashboard
+```
+
+| Stage | Role |
 |---|---|
-| CSV Dataset | Synthetic sales records are stored in `data/sales.csv` |
-| Python / Pandas | Data is loaded into a DataFrame for analysis |
-| Data Cleaning | Missing values, duplicates, types, and invalid values are checked |
-| Business Analysis | Revenue, products, regions, customers, and trends are calculated |
-| Visualization | Charts are created to communicate findings |
-| SQLite ETL Pipeline | Cleaned data is loaded into `data/sales.db` |
-| SQL Analysis | Practice queries analyze the `sales` table |
+| CSV Sales Data | Source transaction file (`data/sales.csv`) |
+| Data Validation & Cleaning | Checks types, missing values, duplicates, and invalid records |
+| Transformation | Prepares analysis-ready fields and calculations |
+| SQLite Database | Stores processed sales data in `data/sales.db` |
+| SQL Analysis | Answers business questions with structured queries |
+| Business Insights | Summarizes performance from filtered analytics |
+| Streamlit Dashboard | Interactive BI interface for exploration and presentation |
 
 ---
 
-## 4. Technologies Used
+## 5. ETL Pipeline
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- SQL
-- SQLite
-- Jupyter Notebook
-- Git / GitHub
+Implementation: `src/load_to_sqlite.py`
 
----
+**Extract**  
+Reads sales data from `data/sales.csv`.
 
-## 5. Dataset
+**Transform**
+- Validates data
+- Handles data types
+- Checks missing values
+- Checks duplicates
+- Validates sales calculations
+- Prepares analysis-ready data
 
-The dataset contains approximately **2,000 synthetic sales records**.
-
-| Column | Description |
-|---|---|
-| `OrderID` | Unique order identifier |
-| `OrderDate` | Date the order was placed |
-| `CustomerName` | Name of the customer |
-| `Product` | Product purchased |
-| `Category` | Product category (for example, Electronics or Furniture) |
-| `Region` | Sales region (East, West, North, South) |
-| `Quantity` | Number of units sold in the order |
-| `UnitPrice` | Price per unit |
-| `Sales` | Revenue for the row (`Quantity * UnitPrice`) |
+**Load**  
+Loads the processed dataset into a SQLite `sales` table in `data/sales.db`.
 
 ---
 
-## 6. Data Cleaning
+## 6. Data Quality
 
-Before trusting the analysis, the project checks data quality, including:
+The project performs validation across the notebook, ETL script, and dashboard, including:
 
-- Missing values
-- Duplicate rows
-- Data types
-- Invalid quantities
-- Invalid prices
-- Invalid sales values
-- Sales calculation validation (`Sales` vs `Quantity * UnitPrice`)
-- Date range validation
+- Missing value checks
+- Duplicate checks
+- Data type validation
+- Quantity validation
+- Unit price validation
+- Sales validation
+- Sales calculation validation
+- Date validation
 
-The original source file `data/sales.csv` is preserved. Cleaning and preparation are performed in the notebook and ETL script rather than overwriting the raw CSV.
+Quality results depend on the current dataset and filter context and are surfaced in the dashboard’s Data Quality section.
 
 ---
 
-## 7. Business Analysis
+## 7. SQL Analysis
 
-The analysis answers practical sales questions such as:
+SQL practice queries are stored in:
 
-- What is total revenue?
-- How many orders were placed?
-- How many units were sold?
-- What is the average order value?
-- Which products generate the most revenue?
-- Which categories generate the most revenue?
-- Which regions generate the most revenue?
-- What are monthly sales trends?
-- Which customers generate the most revenue?
-- Which products sell the most units?
-- What percentage of revenue comes from each category?
+`sql/sales_queries.sql`
 
-Detailed calculations live in:
+They cover:
 
-`notebooks/sales_analysis.ipynb`
+- Total revenue
+- Order counts
+- Units sold
+- Average order value
+- Sales by product
+- Sales by category
+- Sales by region
+- Top products
+- Top customers
+- Monthly sales
+- Category revenue percentage
+- Regional performance
+- High-value orders
 
 ---
 
 ## 8. Visualizations
 
-The project includes six Matplotlib charts saved in `output/charts/`:
+### Static charts (`output/charts/`)
 
-1. Monthly Sales Trend
-2. Sales by Category
-3. Sales by Region
-4. Top 10 Products by Revenue
-5. Top 10 Customers by Revenue
-6. Units Sold by Category
+Matplotlib charts generated during exploratory analysis:
+
+- Monthly Sales
+- Sales by Category
+- Sales by Region
+- Top Products
+- Top Customers
+- Units by Category
 
 ![Monthly Sales](output/charts/monthly_sales.png)
 
@@ -170,95 +206,47 @@ The project includes six Matplotlib charts saved in `output/charts/`:
 
 ![Units by Category](output/charts/units_by_category.png)
 
----
+### Interactive dashboard charts
 
-## 9. SQL Analysis
-
-The file:
-
-`sql/sales_queries.sql`
-
-contains **15 beginner-friendly SQL queries** written against a table named `sales`.
-
-Concepts practiced include:
-
-- `SELECT`
-- `WHERE`
-- `GROUP BY`
-- `ORDER BY`
-- `LIMIT`
-- `SUM`
-- `AVG`
-- `COUNT`
-- `COUNT(DISTINCT ...)`
-- Subqueries
-- `DATE_TRUNC` (PostgreSQL-style monthly grouping)
-- Window functions
-
-These queries represent analysis that can be run once sales data is available in a database table.
+The Streamlit application provides interactive Plotly visualizations for revenue trends, category share, regional performance, products, and customers.
 
 ---
 
-## 10. ETL Pipeline
+## 9. Technology Stack
 
-A simple ETL pipeline is implemented in:
-
-`src/load_to_sqlite.py`
-
-**Extract**
-
-- Read `data/sales.csv` into a Pandas DataFrame
-
-**Transform**
-
-- Convert dates
-- Validate numeric fields
-- Check duplicates
-- Validate/recalculate sales when needed
-- Remove only clearly invalid rows when necessary
-
-**Load**
-
-- Write the cleaned DataFrame into a SQLite table named `sales`
-
-This is intentionally a beginner ETL example (CSV → Python → SQLite), not a production orchestration platform.
+| Technology | Purpose |
+|---|---|
+| Python | Data processing and application development |
+| Pandas | Data cleaning and analysis |
+| NumPy | Numerical processing |
+| SQL | Data analysis |
+| SQLite | Relational database |
+| Matplotlib | Static visualizations |
+| Plotly | Interactive visualizations |
+| Streamlit | Interactive dashboard |
+| Jupyter Notebook | Exploratory analysis |
+| Git/GitHub | Version control and source management |
 
 ---
 
-## 11. Database
-
-`data/sales.db` is a SQLite database file containing a `sales` table.
-
-SQLite was chosen because:
-
-- It is beginner-friendly
-- It stores the database as a single local file
-- It does not require installing or managing a separate database server
-
----
-
-## 12. Project Structure
+## 10. Project Structure
 
 ```text
 sales-data-analysis/
 │
+├── app.py                      # Streamlit BI dashboard
 ├── data/
-│   ├── sales.csv
-│   └── sales.db
-│
+│   ├── sales.csv               # Synthetic sales dataset
+│   └── sales.db                # SQLite database
 ├── notebooks/
-│   └── sales_analysis.ipynb
-│
+│   └── sales_analysis.ipynb    # Exploratory analysis notebook
 ├── src/
-│   ├── generate_sales_data.py
-│   └── load_to_sqlite.py
-│
+│   ├── generate_sales_data.py  # Synthetic data generator
+│   └── load_to_sqlite.py       # ETL pipeline (CSV → SQLite)
 ├── sql/
-│   └── sales_queries.sql
-│
+│   └── sales_queries.sql       # SQL analysis queries
 ├── output/
-│   └── charts/
-│
+│   └── charts/                 # Static Matplotlib charts
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -266,108 +254,132 @@ sales-data-analysis/
 
 ---
 
-## 13. How to Run the Project
+## 11. How to Run Locally
 
-These instructions use **Windows PowerShell**.
-
-### 1) Clone the repository
+Windows PowerShell:
 
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/GopiKrishnaMuppineni/sales-data-analysis.git
 cd sales-data-analysis
-```
 
-`git clone` downloads the project. `cd` moves you into the project folder.
-
-### 2) Create and activate a virtual environment
-
-```powershell
 python -m venv venv
 .\venv\Scripts\Activate.ps1
-```
 
-A virtual environment keeps this project's packages separate from other Python projects.
-
-### 3) Install requirements
-
-```powershell
 pip install -r requirements.txt
+streamlit run app.py
 ```
 
-This installs Pandas, NumPy, Matplotlib, Jupyter, and openpyxl.
+The dashboard typically opens at:
 
-### 4) Generate the dataset (only if needed)
+`http://localhost:8501`
+
+This is a local development URL and is not publicly accessible by default.
+
+---
+
+## 12. Run the ETL Pipeline
+
+Generate the dataset (if needed):
 
 ```powershell
 python src/generate_sales_data.py
 ```
 
-Use this if `data/sales.csv` is missing. If the CSV already exists, you can skip this step.
-
-### 5) Run the ETL script
+Load into SQLite:
 
 ```powershell
 python src/load_to_sqlite.py
 ```
 
-### 6) Open the Jupyter notebook
+Launch the dashboard:
+
+```powershell
+streamlit run app.py
+```
+
+Optional exploratory notebook:
 
 ```powershell
 jupyter notebook notebooks/sales_analysis.ipynb
 ```
 
-Then run the notebook cells from top to bottom.
+---
+
+## 13. Business Questions
+
+This project can answer:
+
+- What is total revenue?
+- How many orders were placed?
+- How many units were sold?
+- What is the average order value?
+- Which categories generate the most revenue?
+- Which regions generate the most revenue?
+- Which products perform best?
+- Which customers generate the most revenue?
+- How does revenue change over time?
 
 ---
 
-## 14. Run ETL
+## 14. Skills Demonstrated
 
-```powershell
-python src/load_to_sqlite.py
-```
+### Data Engineering
+- ETL pipeline development
+- Data validation
+- Data transformation
+- SQLite database loading
+- SQL querying
 
-This command:
-
-1. Extracts data from `data/sales.csv`
-2. Transforms and validates the data
-3. Loads it into `data/sales.db` as the `sales` table
-4. Prints verification queries (row count, sample rows, sales by category)
-
----
-
-## 15. Future Improvements
-
-Possible next steps (not implemented yet):
-
-- Move from SQLite to PostgreSQL
-- Build a Power BI dashboard
-- Schedule the ETL job automatically
-- Add automated data quality tests
-- Expand to a larger dataset
-- Store raw/processed files in cloud storage
-- Load into a cloud data warehouse
-- Add a basic machine learning sales prediction model
-
----
-
-## 16. Learning Outcomes
-
-This project provides hands-on practice with:
-
-- Python
-- Pandas
-- SQL
-- Data cleaning
+### Data Analytics
 - Exploratory data analysis
-- Visualization
-- ETL fundamentals
-- SQLite
-- Basic data engineering concepts (extract, transform, load)
+- Aggregation
+- GroupBy analysis
+- KPI development
+- Business insights
+
+### Data Visualization
+- Matplotlib
+- Plotly
+- Interactive dashboards
+
+### Software Development
+- Python
+- Project organization
+- Git/GitHub
+- Streamlit application development
 
 ---
 
-## Resume Project Description
+## 15. Project Outcomes
 
-- Built a beginner sales analytics project in Python using Pandas to clean synthetic transaction data and answer business questions on revenue, products, regions, customers, and monthly trends.
-- Created 15 SQL practice queries covering aggregation, grouping, filtering, subqueries, and window-function concepts for sales performance analysis.
-- Designed a simple ETL pipeline that extracts CSV data, validates and transforms it with Pandas, and loads it into a SQLite `sales` table for database querying.
+This project demonstrates the ability to take a dataset through an end-to-end analytics workflow and turn it into an interactive business intelligence application—from source data and quality checks through SQL analysis and dashboard delivery.
+
+---
+
+## 16. Future Improvements
+
+Planned enhancements (not implemented yet):
+
+- Connect to a production database
+- Add automated scheduled ETL
+- Add cloud data warehouse integration
+- Add automated data quality tests
+- Add authentication
+- Add additional business KPIs
+- Add machine learning-based sales forecasting
+- Deploy using cloud infrastructure
+
+---
+
+## Author
+
+**Gopi Krishna**
+
+M.S. Computer Science  
+University of North Texas
+
+Areas of interest:
+- Data Engineering
+- Data Analytics
+- Machine Learning
+- AI/ML
