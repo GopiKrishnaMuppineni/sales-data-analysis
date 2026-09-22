@@ -12,9 +12,7 @@ An end-to-end sales analytics and business intelligence project that demonstrate
 
 ## Live Dashboard
 
-[Open Live Dashboard](YOUR_STREAMLIT_URL)
-
-<!-- Replace YOUR_STREAMLIT_URL after deploying to Streamlit Community Cloud -->
+[Live Dashboard](https://sales-data-analysis-hb7tgrbcw5hd9gwrchphle.streamlit.app/)
 
 ## GitHub Repository
 
