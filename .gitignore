@@ -1,0 +1,10 @@
+# Virtual environment (never upload this to GitHub)
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

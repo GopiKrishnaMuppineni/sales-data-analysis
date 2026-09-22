@@ -1,0 +1,2001 @@
+OrderID,OrderDate,CustomerName,Product,Category,Region,Quantity,UnitPrice,Sales
+ORD-10001,2024-05-05,Avery Chen,Monitor,Electronics,West,3,238.12,714.36
+ORD-10002,2024-02-14,Rowan Pierce,Monitor,Electronics,South,5,254.41,1272.05
+ORD-10003,2024-04-29,Emerson Walsh,Laptop,Electronics,East,2,857.67,1715.34
+ORD-10004,2024-08-02,Avery Chen,Notebook Pack,Office Supplies,South,5,12.6,63.0
+ORD-10005,2024-03-22,Quinn Harper,Desk Lamp,Office Supplies,North,1,34.21,34.21
+ORD-10006,2024-02-22,Sam Patel,Headphones,Accessories,South,3,77.23,231.69
+ORD-10007,2024-11-05,Jamie Torres,Monitor,Electronics,East,3,246.46,739.38
+ORD-10008,2024-02-10,Finley Grant,Printer,Office Supplies,North,4,130.46,521.84
+ORD-10009,2024-10-22,Riley Quinn,Desk Lamp,Office Supplies,East,3,36.34,109.02
+ORD-10010,2024-02-10,Avery Chen,Laptop,Electronics,East,3,914.5,2743.5
+ORD-10011,2024-03-24,Parker Kim,Chair,Furniture,North,3,146.66,439.98
+ORD-10012,2024-11-07,Morgan Ellis,Mouse,Accessories,West,1,25.42,25.42
+ORD-10013,2024-11-23,Finley Grant,Keyboard,Accessories,West,3,49.8,149.4
+ORD-10014,2024-04-27,Jordan Lee,Desk,Furniture,North,1,206.85,206.85
+ORD-10015,2024-10-17,Drew Santos,Chair,Furniture,West,2,146.51,293.02
+ORD-10016,2024-03-14,Jamie Torres,Printer,Office Supplies,West,4,128.63,514.52
+ORD-10017,2024-05-14,Rowan Pierce,Mouse,Accessories,South,5,25.6,128.0
+ORD-10018,2024-03-11,Emerson Walsh,Desk Lamp,Office Supplies,South,2,34.64,69.28
+ORD-10019,2024-03-19,Morgan Ellis,Monitor,Electronics,South,1,256.38,256.38
+ORD-10020,2024-11-01,Skyler Adams,Desk Lamp,Office Supplies,North,4,33.46,133.84
+ORD-10021,2024-12-14,Taylor Brooks,Notebook Pack,Office Supplies,North,1,13.46,13.46
+ORD-10022,2024-03-21,Skyler Adams,Desk,Furniture,East,4,192.22,768.88
+ORD-10023,2024-09-16,Taylor Brooks,Headphones,Accessories,North,2,83.76,167.52
+ORD-10024,2024-07-10,Morgan Ellis,Notebook Pack,Office Supplies,East,2,13.13,26.26
+ORD-10025,2024-02-27,Parker Kim,Desk Lamp,Office Supplies,North,1,34.37,34.37
+ORD-10026,2024-02-10,Sam Patel,Mouse,Accessories,South,5,23.89,119.45
+ORD-10027,2024-03-05,Casey Nguyen,Monitor,Electronics,South,5,261.94,1309.7
+ORD-10028,2024-11-06,Quinn Harper,Notebook Pack,Office Supplies,West,5,12.55,62.75
+ORD-10029,2024-06-08,Reese Morgan,Notebook Pack,Office Supplies,North,2,13.32,26.64
+ORD-10030,2024-03-02,Avery Chen,Printer,Office Supplies,West,4,135.18,540.72
+ORD-10031,2024-10-10,Avery Chen,Monitor,Electronics,West,5,245.94,1229.7
+ORD-10032,2024-04-27,Sam Patel,Laptop,Electronics,East,1,861.38,861.38
+ORD-10033,2024-05-22,Hayden Cole,Desk,Furniture,West,2,191.41,382.82
+ORD-10034,2024-10-22,Hayden Cole,Notebook Pack,Office Supplies,West,5,12.51,62.55
+ORD-10035,2024-02-18,Taylor Brooks,Printer,Office Supplies,South,2,133.99,267.98
+ORD-10036,2024-01-28,Taylor Brooks,Desk,Furniture,East,4,198.46,793.84
+ORD-10037,2024-05-07,Riley Quinn,Chair,Furniture,West,1,153.41,153.41
+ORD-10038,2024-04-03,Jamie Torres,Notebook Pack,Office Supplies,South,4,12.92,51.68
+ORD-10039,2024-08-14,Finley Grant,Mouse,Accessories,East,1,25.93,25.93
+ORD-10040,2024-01-08,Sam Patel,Laptop,Electronics,West,5,913.68,4568.4
+ORD-10041,2024-04-19,Reese Morgan,Keyboard,Accessories,East,4,49.52,198.08
+ORD-10042,2024-05-15,Skyler Adams,Keyboard,Accessories,North,4,49.38,197.52
+ORD-10043,2024-12-04,Hayden Cole,Chair,Furniture,West,5,152.94,764.7
+ORD-10044,2024-10-23,Finley Grant,Mouse,Accessories,East,1,24.48,24.48
+ORD-10045,2024-09-01,Emerson Walsh,Desk,Furniture,West,5,191.13,955.65
+ORD-10046,2024-04-05,Sam Patel,Laptop,Electronics,East,1,941.46,941.46
+ORD-10047,2024-05-06,Rowan Pierce,Mouse,Accessories,East,5,24.75,123.75
+ORD-10048,2024-10-16,Emerson Walsh,Desk Lamp,Office Supplies,North,5,33.53,167.65
+ORD-10049,2024-05-02,Jamie Torres,Headphones,Accessories,South,3,77.62,232.86
+ORD-10050,2024-08-22,Drew Santos,Keyboard,Accessories,East,3,50.85,152.55
+ORD-10051,2024-02-21,Sam Patel,Laptop,Electronics,West,5,896.24,4481.2
+ORD-10052,2024-02-05,Avery Chen,Notebook Pack,Office Supplies,North,3,12.68,38.04
+ORD-10053,2024-12-26,Cameron Blake,Headphones,Accessories,East,5,77.25,386.25
+ORD-10054,2024-03-09,Jamie Torres,Notebook Pack,Office Supplies,East,1,12.73,12.73
+ORD-10055,2024-05-19,Cameron Blake,Monitor,Electronics,West,2,256.05,512.1
+ORD-10056,2024-09-15,Hayden Cole,Desk,Furniture,North,3,194.06,582.18
+ORD-10057,2024-05-21,Jordan Lee,Laptop,Electronics,East,4,863.3,3453.2
+ORD-10058,2024-03-23,Skyler Adams,Desk,Furniture,South,3,205.41,616.23
+ORD-10059,2024-12-19,Casey Nguyen,Notebook Pack,Office Supplies,East,1,12.35,12.35
+ORD-10060,2024-08-08,Casey Nguyen,Desk,Furniture,East,2,201.64,403.28
+ORD-10061,2024-07-02,Riley Quinn,Headphones,Accessories,West,1,78.91,78.91
+ORD-10062,2024-07-27,Blake Foster,Monitor,Electronics,West,5,246.33,1231.65
+ORD-10063,2024-07-30,Alex Rivera,Mouse,Accessories,West,2,25.9,51.8
+ORD-10064,2024-12-08,Avery Chen,Desk,Furniture,North,4,205.64,822.56
+ORD-10065,2024-07-14,Jordan Lee,Keyboard,Accessories,South,1,51.43,51.43
+ORD-10066,2024-06-28,Cameron Blake,Mouse,Accessories,West,4,24.24,96.96
+ORD-10067,2024-07-23,Drew Santos,Mouse,Accessories,North,2,23.8,47.6
+ORD-10068,2024-06-28,Emerson Walsh,Monitor,Electronics,South,3,261.66,784.98
+ORD-10069,2024-02-29,Jamie Torres,Notebook Pack,Office Supplies,West,1,12.77,12.77
+ORD-10070,2024-01-20,Taylor Brooks,Desk Lamp,Office Supplies,South,3,36.61,109.83
+ORD-10071,2024-08-11,Blake Foster,Desk,Furniture,East,3,204.56,613.68
+ORD-10072,2024-05-10,Jordan Lee,Chair,Furniture,South,2,155.98,311.96
+ORD-10073,2024-12-17,Riley Quinn,Laptop,Electronics,North,5,901.78,4508.9
+ORD-10074,2024-11-15,Drew Santos,Chair,Furniture,East,3,143.54,430.62
+ORD-10075,2024-06-16,Reese Morgan,Headphones,Accessories,North,4,80.05,320.2
+ORD-10076,2024-12-06,Reese Morgan,Notebook Pack,Office Supplies,West,4,12.51,50.04
+ORD-10077,2024-10-07,Alex Rivera,Desk Lamp,Office Supplies,North,4,35.23,140.92
+ORD-10078,2024-11-06,Drew Santos,Headphones,Accessories,South,5,77.67,388.35
+ORD-10079,2024-09-18,Hayden Cole,Printer,Office Supplies,West,2,129.24,258.48
+ORD-10080,2024-06-20,Sam Patel,Monitor,Electronics,West,5,244.58,1222.9
+ORD-10081,2024-03-16,Alex Rivera,Headphones,Accessories,East,2,77.79,155.58
+ORD-10082,2024-02-07,Skyler Adams,Mouse,Accessories,South,5,26.2,131.0
+ORD-10083,2024-09-10,Reese Morgan,Desk Lamp,Office Supplies,West,4,33.92,135.68
+ORD-10084,2024-02-24,Quinn Harper,Keyboard,Accessories,West,1,50.77,50.77
+ORD-10085,2024-08-25,Jordan Lee,Keyboard,Accessories,West,5,51.51,257.55
+ORD-10086,2024-12-07,Emerson Walsh,Monitor,Electronics,North,4,248.9,995.6
+ORD-10087,2024-08-06,Finley Grant,Printer,Office Supplies,South,5,131.45,657.25
+ORD-10088,2024-08-18,Jamie Torres,Keyboard,Accessories,West,4,51.21,204.84
+ORD-10089,2024-09-05,Avery Chen,Headphones,Accessories,North,5,82.12,410.6
+ORD-10090,2024-04-30,Jamie Torres,Printer,Office Supplies,North,3,124.5,373.5
+ORD-10091,2024-03-11,Casey Nguyen,Desk,Furniture,West,1,207.85,207.85
+ORD-10092,2024-02-02,Quinn Harper,Chair,Furniture,South,2,152.9,305.8
+ORD-10093,2024-02-01,Riley Quinn,Desk,Furniture,South,4,200.84,803.36
+ORD-10094,2024-12-22,Alex Rivera,Chair,Furniture,South,5,156.06,780.3
+ORD-10095,2024-06-01,Reese Morgan,Printer,Office Supplies,South,3,123.57,370.71
+ORD-10096,2024-11-04,Avery Chen,Notebook Pack,Office Supplies,South,5,13.31,66.55
+ORD-10097,2024-01-15,Reese Morgan,Mouse,Accessories,North,4,24.42,97.68
+ORD-10098,2024-03-06,Blake Foster,Chair,Furniture,East,4,153.35,613.4
+ORD-10099,2024-02-12,Quinn Harper,Chair,Furniture,West,1,151.37,151.37
+ORD-10100,2024-07-13,Drew Santos,Printer,Office Supplies,West,3,125.85,377.55
+ORD-10101,2024-05-22,Quinn Harper,Printer,Office Supplies,North,4,127.74,510.96
+ORD-10102,2024-01-27,Parker Kim,Monitor,Electronics,West,5,249.25,1246.25
+ORD-10103,2024-01-16,Avery Chen,Monitor,Electronics,West,1,257.02,257.02
+ORD-10104,2024-03-05,Hayden Cole,Laptop,Electronics,East,2,910.91,1821.82
+ORD-10105,2024-12-24,Jamie Torres,Desk Lamp,Office Supplies,North,4,36.56,146.24
+ORD-10106,2024-03-24,Cameron Blake,Keyboard,Accessories,East,1,50.52,50.52
+ORD-10107,2024-10-21,Reese Morgan,Desk Lamp,Office Supplies,South,3,33.33,99.99
+ORD-10108,2024-02-22,Cameron Blake,Mouse,Accessories,East,2,23.93,47.86
+ORD-10109,2024-09-29,Quinn Harper,Desk Lamp,Office Supplies,North,3,35.98,107.94
+ORD-10110,2024-01-07,Quinn Harper,Monitor,Electronics,South,3,250.14,750.42
+ORD-10111,2024-11-21,Skyler Adams,Monitor,Electronics,West,3,248.33,744.99
+ORD-10112,2024-11-29,Jamie Torres,Chair,Furniture,South,5,145.13,725.65
+ORD-10113,2024-05-17,Drew Santos,Printer,Office Supplies,West,5,129.15,645.75
+ORD-10114,2024-05-04,Skyler Adams,Monitor,Electronics,South,4,244.46,977.84
+ORD-10115,2024-04-03,Hayden Cole,Desk,Furniture,West,3,190.56,571.68
+ORD-10116,2024-05-23,Blake Foster,Desk,Furniture,North,3,205.95,617.85
+ORD-10117,2024-02-13,Avery Chen,Notebook Pack,Office Supplies,South,2,12.35,24.7
+ORD-10118,2024-12-19,Hayden Cole,Printer,Office Supplies,South,2,130.71,261.42
+ORD-10119,2024-05-30,Avery Chen,Printer,Office Supplies,South,1,133.8,133.8
+ORD-10120,2024-07-07,Hayden Cole,Mouse,Accessories,North,5,24.51,122.55
+ORD-10121,2024-06-18,Parker Kim,Chair,Furniture,South,5,157.44,787.2
+ORD-10122,2024-03-02,Riley Quinn,Headphones,Accessories,North,2,78.44,156.88
+ORD-10123,2024-04-08,Riley Quinn,Monitor,Electronics,South,2,256.06,512.12
+ORD-10124,2024-11-01,Cameron Blake,Headphones,Accessories,East,5,81.79,408.95
+ORD-10125,2024-04-01,Cameron Blake,Mouse,Accessories,East,3,24.48,73.44
+ORD-10126,2024-01-28,Finley Grant,Notebook Pack,Office Supplies,North,1,12.5,12.5
+ORD-10127,2024-02-22,Alex Rivera,Keyboard,Accessories,North,4,50.68,202.72
+ORD-10128,2024-04-04,Jordan Lee,Printer,Office Supplies,North,3,129.71,389.13
+ORD-10129,2024-07-24,Hayden Cole,Printer,Office Supplies,East,1,124.97,124.97
+ORD-10130,2024-03-18,Casey Nguyen,Desk Lamp,Office Supplies,North,1,35.44,35.44
+ORD-10131,2024-10-12,Quinn Harper,Monitor,Electronics,West,1,262.34,262.34
+ORD-10132,2024-06-01,Rowan Pierce,Notebook Pack,Office Supplies,South,4,12.83,51.32
+ORD-10133,2024-11-08,Taylor Brooks,Headphones,Accessories,West,1,80.54,80.54
+ORD-10134,2024-03-21,Avery Chen,Mouse,Accessories,West,1,24.4,24.4
+ORD-10135,2024-07-28,Skyler Adams,Notebook Pack,Office Supplies,South,1,12.44,12.44
+ORD-10136,2024-12-27,Cameron Blake,Headphones,Accessories,South,3,76.25,228.75
+ORD-10137,2024-11-16,Rowan Pierce,Monitor,Electronics,West,3,254.67,764.01
+ORD-10138,2024-11-27,Casey Nguyen,Chair,Furniture,North,2,144.21,288.42
+ORD-10139,2024-06-06,Blake Foster,Keyboard,Accessories,North,2,47.85,95.7
+ORD-10140,2024-12-24,Reese Morgan,Printer,Office Supplies,North,3,125.11,375.33
+ORD-10141,2024-02-11,Blake Foster,Notebook Pack,Office Supplies,East,4,13.04,52.16
+ORD-10142,2024-05-08,Alex Rivera,Chair,Furniture,East,5,153.51,767.55
+ORD-10143,2024-10-27,Alex Rivera,Mouse,Accessories,North,5,26.14,130.7
+ORD-10144,2024-08-28,Emerson Walsh,Desk Lamp,Office Supplies,South,2,33.38,66.76
+ORD-10145,2024-08-11,Hayden Cole,Headphones,Accessories,East,5,77.44,387.2
+ORD-10146,2024-06-13,Taylor Brooks,Printer,Office Supplies,West,3,128.01,384.03
+ORD-10147,2024-05-27,Reese Morgan,Desk,Furniture,East,4,198.22,792.88
+ORD-10148,2024-06-14,Taylor Brooks,Printer,Office Supplies,South,3,124.64,373.92
+ORD-10149,2024-12-02,Finley Grant,Notebook Pack,Office Supplies,South,1,13.41,13.41
+ORD-10150,2024-07-04,Blake Foster,Chair,Furniture,South,5,143.3,716.5
+ORD-10151,2024-05-16,Finley Grant,Printer,Office Supplies,West,2,133.37,266.74
+ORD-10152,2024-03-03,Alex Rivera,Headphones,Accessories,West,4,79.49,317.96
+ORD-10153,2024-10-09,Quinn Harper,Keyboard,Accessories,East,1,49.04,49.04
+ORD-10154,2024-08-24,Taylor Brooks,Mouse,Accessories,West,1,26.22,26.22
+ORD-10155,2024-09-17,Jamie Torres,Printer,Office Supplies,South,3,135.61,406.83
+ORD-10156,2024-08-21,Finley Grant,Printer,Office Supplies,West,2,136.23,272.46
+ORD-10157,2024-09-17,Casey Nguyen,Chair,Furniture,East,5,145.35,726.75
+ORD-10158,2024-06-23,Emerson Walsh,Headphones,Accessories,North,4,82.17,328.68
+ORD-10159,2024-10-27,Rowan Pierce,Laptop,Electronics,South,3,880.45,2641.35
+ORD-10160,2024-06-25,Drew Santos,Keyboard,Accessories,South,4,49.72,198.88
+ORD-10161,2024-12-23,Avery Chen,Printer,Office Supplies,South,2,135.62,271.24
+ORD-10162,2024-01-23,Drew Santos,Mouse,Accessories,South,4,25.88,103.52
+ORD-10163,2024-09-10,Jordan Lee,Chair,Furniture,West,2,148.28,296.56
+ORD-10164,2024-02-21,Skyler Adams,Notebook Pack,Office Supplies,East,3,13.59,40.77
+ORD-10165,2024-03-14,Quinn Harper,Notebook Pack,Office Supplies,West,1,13.52,13.52
+ORD-10166,2024-06-22,Blake Foster,Monitor,Electronics,South,3,249.23,747.69
+ORD-10167,2024-07-13,Drew Santos,Monitor,Electronics,South,5,258.78,1293.9
+ORD-10168,2024-04-30,Cameron Blake,Notebook Pack,Office Supplies,West,1,12.39,12.39
+ORD-10169,2024-11-20,Taylor Brooks,Monitor,Electronics,South,1,248.34,248.34
+ORD-10170,2024-01-24,Drew Santos,Keyboard,Accessories,East,1,50.96,50.96
+ORD-10171,2024-03-15,Avery Chen,Headphones,Accessories,South,4,78.86,315.44
+ORD-10172,2024-03-28,Morgan Ellis,Desk Lamp,Office Supplies,East,2,35.63,71.26
+ORD-10173,2024-12-15,Avery Chen,Desk Lamp,Office Supplies,South,5,36.29,181.45
+ORD-10174,2024-11-22,Jamie Torres,Desk Lamp,Office Supplies,South,4,33.74,134.96
+ORD-10175,2024-05-27,Finley Grant,Headphones,Accessories,West,4,81.32,325.28
+ORD-10176,2024-10-27,Cameron Blake,Monitor,Electronics,South,3,248.53,745.59
+ORD-10177,2024-04-11,Reese Morgan,Headphones,Accessories,South,3,79.64,238.92
+ORD-10178,2024-07-02,Rowan Pierce,Monitor,Electronics,North,5,243.42,1217.1
+ORD-10179,2024-05-20,Alex Rivera,Headphones,Accessories,East,4,76.17,304.68
+ORD-10180,2024-04-27,Blake Foster,Desk Lamp,Office Supplies,North,3,35.85,107.55
+ORD-10181,2024-05-08,Casey Nguyen,Mouse,Accessories,East,5,25.33,126.65
+ORD-10182,2024-01-18,Rowan Pierce,Laptop,Electronics,North,4,882.79,3531.16
+ORD-10183,2024-06-16,Quinn Harper,Keyboard,Accessories,West,3,47.94,143.82
+ORD-10184,2024-07-06,Emerson Walsh,Mouse,Accessories,North,5,24.07,120.35
+ORD-10185,2024-05-31,Drew Santos,Keyboard,Accessories,East,4,48.78,195.12
+ORD-10186,2024-04-25,Reese Morgan,Printer,Office Supplies,North,2,136.01,272.02
+ORD-10187,2024-05-15,Finley Grant,Monitor,Electronics,East,1,257.26,257.26
+ORD-10188,2024-10-26,Reese Morgan,Printer,Office Supplies,North,3,128.28,384.84
+ORD-10189,2024-01-13,Blake Foster,Monitor,Electronics,North,4,254.36,1017.44
+ORD-10190,2024-11-21,Skyler Adams,Desk Lamp,Office Supplies,North,1,34.02,34.02
+ORD-10191,2024-01-20,Cameron Blake,Chair,Furniture,South,1,144.24,144.24
+ORD-10192,2024-03-10,Reese Morgan,Monitor,Electronics,South,5,239.92,1199.6
+ORD-10193,2024-08-02,Rowan Pierce,Desk,Furniture,West,5,203.4,1017.0
+ORD-10194,2024-11-11,Quinn Harper,Chair,Furniture,North,4,152.31,609.24
+ORD-10195,2024-08-15,Skyler Adams,Laptop,Electronics,West,2,917.12,1834.24
+ORD-10196,2024-10-05,Parker Kim,Desk,Furniture,East,3,191.98,575.94
+ORD-10197,2024-08-20,Sam Patel,Chair,Furniture,West,1,146.63,146.63
+ORD-10198,2024-06-19,Avery Chen,Desk Lamp,Office Supplies,West,1,36.64,36.64
+ORD-10199,2024-04-16,Rowan Pierce,Desk Lamp,Office Supplies,West,5,33.96,169.8
+ORD-10200,2024-11-01,Alex Rivera,Mouse,Accessories,North,2,24.56,49.12
+ORD-10201,2024-05-08,Morgan Ellis,Keyboard,Accessories,East,5,52.43,262.15
+ORD-10202,2024-05-01,Rowan Pierce,Laptop,Electronics,North,3,866.85,2600.55
+ORD-10203,2024-03-05,Quinn Harper,Laptop,Electronics,East,1,870.67,870.67
+ORD-10204,2024-09-19,Rowan Pierce,Monitor,Electronics,East,3,249.4,748.2
+ORD-10205,2024-01-23,Emerson Walsh,Printer,Office Supplies,North,5,130.04,650.2
+ORD-10206,2024-02-01,Hayden Cole,Printer,Office Supplies,South,1,131.85,131.85
+ORD-10207,2024-12-30,Skyler Adams,Chair,Furniture,East,4,152.78,611.12
+ORD-10208,2024-02-03,Casey Nguyen,Monitor,Electronics,North,2,245.54,491.08
+ORD-10209,2024-12-30,Drew Santos,Desk Lamp,Office Supplies,South,5,35.46,177.3
+ORD-10210,2024-09-15,Blake Foster,Desk Lamp,Office Supplies,South,4,35.1,140.4
+ORD-10211,2024-12-01,Finley Grant,Monitor,Electronics,West,1,257.32,257.32
+ORD-10212,2024-07-30,Drew Santos,Chair,Furniture,South,2,149.26,298.52
+ORD-10213,2024-06-09,Quinn Harper,Chair,Furniture,North,1,148.73,148.73
+ORD-10214,2024-12-17,Hayden Cole,Headphones,Accessories,East,2,78.98,157.96
+ORD-10215,2024-08-09,Taylor Brooks,Monitor,Electronics,North,1,258.28,258.28
+ORD-10216,2024-10-14,Finley Grant,Keyboard,Accessories,North,5,50.27,251.35
+ORD-10217,2024-01-27,Cameron Blake,Monitor,Electronics,North,4,247.76,991.04
+ORD-10218,2024-04-18,Casey Nguyen,Desk,Furniture,South,5,192.06,960.3
+ORD-10219,2024-10-11,Parker Kim,Mouse,Accessories,East,3,25.86,77.58
+ORD-10220,2024-10-14,Blake Foster,Headphones,Accessories,East,4,80.58,322.32
+ORD-10221,2024-01-15,Morgan Ellis,Desk Lamp,Office Supplies,North,3,36.49,109.47
+ORD-10222,2024-01-04,Morgan Ellis,Headphones,Accessories,West,3,83.36,250.08
+ORD-10223,2024-03-13,Alex Rivera,Desk Lamp,Office Supplies,East,1,35.54,35.54
+ORD-10224,2024-08-20,Drew Santos,Notebook Pack,Office Supplies,West,4,12.62,50.48
+ORD-10225,2024-10-17,Blake Foster,Desk,Furniture,East,3,196.22,588.66
+ORD-10226,2024-01-26,Sam Patel,Laptop,Electronics,North,5,868.99,4344.95
+ORD-10227,2024-11-06,Skyler Adams,Printer,Office Supplies,South,4,132.1,528.4
+ORD-10228,2024-02-28,Parker Kim,Headphones,Accessories,South,5,77.71,388.55
+ORD-10229,2024-09-06,Emerson Walsh,Monitor,Electronics,North,5,244.57,1222.85
+ORD-10230,2024-01-29,Alex Rivera,Laptop,Electronics,West,5,874.84,4374.2
+ORD-10231,2024-05-10,Cameron Blake,Headphones,Accessories,North,2,83.55,167.1
+ORD-10232,2024-03-30,Casey Nguyen,Monitor,Electronics,South,4,237.68,950.72
+ORD-10233,2024-10-13,Parker Kim,Notebook Pack,Office Supplies,East,5,13.25,66.25
+ORD-10234,2024-08-11,Alex Rivera,Chair,Furniture,South,1,155.42,155.42
+ORD-10235,2024-08-07,Rowan Pierce,Monitor,Electronics,South,5,259.04,1295.2
+ORD-10236,2024-01-11,Drew Santos,Chair,Furniture,West,4,146.83,587.32
+ORD-10237,2024-02-15,Quinn Harper,Desk Lamp,Office Supplies,East,3,34.85,104.55
+ORD-10238,2024-09-25,Sam Patel,Mouse,Accessories,South,4,24.83,99.32
+ORD-10239,2024-06-19,Morgan Ellis,Headphones,Accessories,East,2,81.96,163.92
+ORD-10240,2024-09-18,Riley Quinn,Notebook Pack,Office Supplies,North,5,13.16,65.8
+ORD-10241,2024-04-30,Taylor Brooks,Desk,Furniture,West,2,204.54,409.08
+ORD-10242,2024-03-19,Sam Patel,Headphones,Accessories,West,5,77.57,387.85
+ORD-10243,2024-10-23,Skyler Adams,Printer,Office Supplies,North,5,129.52,647.6
+ORD-10244,2024-08-28,Skyler Adams,Desk,Furniture,North,1,193.01,193.01
+ORD-10245,2024-09-16,Sam Patel,Headphones,Accessories,North,3,80.72,242.16
+ORD-10246,2024-07-07,Cameron Blake,Printer,Office Supplies,East,1,129.36,129.36
+ORD-10247,2024-07-15,Skyler Adams,Monitor,Electronics,East,5,252.87,1264.35
+ORD-10248,2024-11-29,Riley Quinn,Printer,Office Supplies,North,5,135.31,676.55
+ORD-10249,2024-02-01,Skyler Adams,Desk Lamp,Office Supplies,East,2,34.9,69.8
+ORD-10250,2024-09-15,Morgan Ellis,Desk,Furniture,East,1,209.64,209.64
+ORD-10251,2024-09-25,Emerson Walsh,Mouse,Accessories,West,4,25.51,102.04
+ORD-10252,2024-07-17,Quinn Harper,Desk,Furniture,North,3,197.45,592.35
+ORD-10253,2024-02-03,Drew Santos,Desk Lamp,Office Supplies,East,3,33.42,100.26
+ORD-10254,2024-05-09,Blake Foster,Notebook Pack,Office Supplies,West,3,13.22,39.66
+ORD-10255,2024-06-28,Cameron Blake,Desk,Furniture,South,2,191.62,383.24
+ORD-10256,2024-06-07,Finley Grant,Keyboard,Accessories,South,1,50.47,50.47
+ORD-10257,2024-02-17,Quinn Harper,Desk,Furniture,North,5,206.25,1031.25
+ORD-10258,2024-04-19,Drew Santos,Laptop,Electronics,South,2,887.62,1775.24
+ORD-10259,2024-03-20,Sam Patel,Mouse,Accessories,North,2,24.31,48.62
+ORD-10260,2024-09-26,Jordan Lee,Monitor,Electronics,North,5,250.18,1250.9
+ORD-10261,2024-03-19,Morgan Ellis,Desk Lamp,Office Supplies,West,4,33.7,134.8
+ORD-10262,2024-08-12,Jordan Lee,Desk Lamp,Office Supplies,South,2,36.07,72.14
+ORD-10263,2024-08-15,Blake Foster,Desk,Furniture,North,2,203.52,407.04
+ORD-10264,2024-06-07,Hayden Cole,Printer,Office Supplies,West,2,126.53,253.06
+ORD-10265,2024-08-13,Skyler Adams,Desk,Furniture,North,5,203.56,1017.8
+ORD-10266,2024-03-23,Riley Quinn,Chair,Furniture,West,4,150.03,600.12
+ORD-10267,2024-07-09,Finley Grant,Headphones,Accessories,East,4,76.41,305.64
+ORD-10268,2024-02-12,Morgan Ellis,Notebook Pack,Office Supplies,North,3,13.45,40.35
+ORD-10269,2024-08-11,Sam Patel,Printer,Office Supplies,West,2,135.26,270.52
+ORD-10270,2024-07-31,Jordan Lee,Printer,Office Supplies,South,1,134.99,134.99
+ORD-10271,2024-02-11,Parker Kim,Notebook Pack,Office Supplies,West,4,12.83,51.32
+ORD-10272,2024-11-28,Drew Santos,Laptop,Electronics,West,1,883.67,883.67
+ORD-10273,2024-12-22,Casey Nguyen,Keyboard,Accessories,South,4,47.68,190.72
+ORD-10274,2024-01-10,Jamie Torres,Printer,Office Supplies,West,1,131.49,131.49
+ORD-10275,2024-09-27,Quinn Harper,Keyboard,Accessories,East,5,50.23,251.15
+ORD-10276,2024-01-25,Avery Chen,Headphones,Accessories,South,1,77.89,77.89
+ORD-10277,2024-09-12,Blake Foster,Desk Lamp,Office Supplies,East,1,34.84,34.84
+ORD-10278,2024-05-29,Quinn Harper,Notebook Pack,Office Supplies,East,2,13.09,26.18
+ORD-10279,2024-08-01,Morgan Ellis,Desk Lamp,Office Supplies,East,5,34.48,172.4
+ORD-10280,2024-09-26,Finley Grant,Notebook Pack,Office Supplies,East,1,13.61,13.61
+ORD-10281,2024-11-21,Reese Morgan,Chair,Furniture,North,1,155.59,155.59
+ORD-10282,2024-02-04,Parker Kim,Headphones,Accessories,West,3,81.97,245.91
+ORD-10283,2024-03-09,Jordan Lee,Monitor,Electronics,North,3,256.78,770.34
+ORD-10284,2024-12-16,Skyler Adams,Notebook Pack,Office Supplies,South,2,12.78,25.56
+ORD-10285,2024-08-22,Jordan Lee,Keyboard,Accessories,North,1,51.55,51.55
+ORD-10286,2024-01-22,Drew Santos,Mouse,Accessories,North,2,23.85,47.7
+ORD-10287,2024-08-30,Jamie Torres,Notebook Pack,Office Supplies,East,5,12.86,64.3
+ORD-10288,2024-12-01,Drew Santos,Mouse,Accessories,North,1,24.46,24.46
+ORD-10289,2024-07-23,Skyler Adams,Monitor,Electronics,South,4,257.47,1029.88
+ORD-10290,2024-12-20,Hayden Cole,Desk,Furniture,North,4,209.46,837.84
+ORD-10291,2024-08-05,Sam Patel,Notebook Pack,Office Supplies,South,1,12.69,12.69
+ORD-10292,2024-10-06,Cameron Blake,Desk Lamp,Office Supplies,North,2,36.72,73.44
+ORD-10293,2024-06-05,Skyler Adams,Monitor,Electronics,South,3,239.49,718.47
+ORD-10294,2024-08-16,Jordan Lee,Keyboard,Accessories,North,3,50.94,152.82
+ORD-10295,2024-11-23,Jordan Lee,Desk Lamp,Office Supplies,East,3,36.73,110.19
+ORD-10296,2024-01-16,Casey Nguyen,Chair,Furniture,South,2,147.94,295.88
+ORD-10297,2024-11-26,Parker Kim,Laptop,Electronics,North,2,866.35,1732.7
+ORD-10298,2024-11-05,Casey Nguyen,Chair,Furniture,South,1,156.73,156.73
+ORD-10299,2024-10-20,Casey Nguyen,Desk,Furniture,North,1,197.43,197.43
+ORD-10300,2024-05-07,Taylor Brooks,Chair,Furniture,East,3,147.21,441.63
+ORD-10301,2024-10-14,Taylor Brooks,Keyboard,Accessories,North,4,49.99,199.96
+ORD-10302,2024-11-09,Cameron Blake,Headphones,Accessories,South,2,81.62,163.24
+ORD-10303,2024-08-19,Morgan Ellis,Mouse,Accessories,South,1,24.05,24.05
+ORD-10304,2024-12-07,Parker Kim,Monitor,Electronics,East,3,257.75,773.25
+ORD-10305,2024-03-21,Morgan Ellis,Notebook Pack,Office Supplies,North,3,13.04,39.12
+ORD-10306,2024-03-12,Avery Chen,Notebook Pack,Office Supplies,South,2,12.63,25.26
+ORD-10307,2024-07-07,Skyler Adams,Laptop,Electronics,West,5,887.47,4437.35
+ORD-10308,2024-06-07,Reese Morgan,Desk Lamp,Office Supplies,South,1,36.33,36.33
+ORD-10309,2024-10-21,Sam Patel,Notebook Pack,Office Supplies,West,4,12.87,51.48
+ORD-10310,2024-08-26,Emerson Walsh,Desk,Furniture,North,4,202.84,811.36
+ORD-10311,2024-11-23,Rowan Pierce,Keyboard,Accessories,West,5,51.88,259.4
+ORD-10312,2024-03-04,Emerson Walsh,Keyboard,Accessories,West,1,49.65,49.65
+ORD-10313,2024-12-29,Avery Chen,Headphones,Accessories,North,3,77.31,231.93
+ORD-10314,2024-05-08,Riley Quinn,Notebook Pack,Office Supplies,North,1,13.5,13.5
+ORD-10315,2024-09-30,Sam Patel,Keyboard,Accessories,West,5,50.61,253.05
+ORD-10316,2024-03-28,Blake Foster,Desk Lamp,Office Supplies,North,2,36.54,73.08
+ORD-10317,2024-02-11,Jordan Lee,Desk Lamp,Office Supplies,North,1,33.38,33.38
+ORD-10318,2024-11-12,Alex Rivera,Mouse,Accessories,South,4,25.66,102.64
+ORD-10319,2024-09-04,Avery Chen,Notebook Pack,Office Supplies,South,3,12.72,38.16
+ORD-10320,2024-03-21,Skyler Adams,Headphones,Accessories,South,1,79.62,79.62
+ORD-10321,2024-11-06,Casey Nguyen,Printer,Office Supplies,North,3,129.53,388.59
+ORD-10322,2024-07-23,Casey Nguyen,Desk,Furniture,North,3,204.67,614.01
+ORD-10323,2024-05-03,Skyler Adams,Notebook Pack,Office Supplies,East,3,13.07,39.21
+ORD-10324,2024-02-19,Jordan Lee,Headphones,Accessories,North,2,79.59,159.18
+ORD-10325,2024-05-07,Morgan Ellis,Chair,Furniture,North,4,155.45,621.8
+ORD-10326,2024-03-22,Hayden Cole,Desk Lamp,Office Supplies,South,2,35.76,71.52
+ORD-10327,2024-01-12,Sam Patel,Printer,Office Supplies,South,4,134.92,539.68
+ORD-10328,2024-04-20,Rowan Pierce,Notebook Pack,Office Supplies,North,2,12.93,25.86
+ORD-10329,2024-11-01,Hayden Cole,Laptop,Electronics,North,4,859.54,3438.16
+ORD-10330,2024-08-08,Casey Nguyen,Notebook Pack,Office Supplies,North,1,12.35,12.35
+ORD-10331,2024-01-24,Reese Morgan,Desk,Furniture,East,3,205.27,615.81
+ORD-10332,2024-10-10,Cameron Blake,Desk Lamp,Office Supplies,East,3,35.21,105.63
+ORD-10333,2024-05-23,Blake Foster,Chair,Furniture,East,5,150.05,750.25
+ORD-10334,2024-07-10,Drew Santos,Keyboard,Accessories,North,4,52.36,209.44
+ORD-10335,2024-07-24,Emerson Walsh,Keyboard,Accessories,East,5,48.49,242.45
+ORD-10336,2024-08-30,Emerson Walsh,Laptop,Electronics,South,3,858.49,2575.47
+ORD-10337,2024-03-12,Drew Santos,Keyboard,Accessories,North,5,50.52,252.6
+ORD-10338,2024-06-02,Rowan Pierce,Keyboard,Accessories,North,5,49.45,247.25
+ORD-10339,2024-09-07,Rowan Pierce,Notebook Pack,Office Supplies,North,5,13.42,67.1
+ORD-10340,2024-06-18,Taylor Brooks,Printer,Office Supplies,South,3,134.09,402.27
+ORD-10341,2024-11-01,Hayden Cole,Desk Lamp,Office Supplies,North,1,34.32,34.32
+ORD-10342,2024-10-25,Hayden Cole,Desk Lamp,Office Supplies,West,1,35.26,35.26
+ORD-10343,2024-07-13,Casey Nguyen,Notebook Pack,Office Supplies,West,5,13.16,65.8
+ORD-10344,2024-04-07,Alex Rivera,Laptop,Electronics,South,1,906.52,906.52
+ORD-10345,2024-12-19,Riley Quinn,Desk,Furniture,South,4,198.37,793.48
+ORD-10346,2024-02-01,Casey Nguyen,Notebook Pack,Office Supplies,West,4,13.35,53.4
+ORD-10347,2024-09-26,Reese Morgan,Notebook Pack,Office Supplies,North,4,12.76,51.04
+ORD-10348,2024-06-24,Finley Grant,Keyboard,Accessories,North,5,49.79,248.95
+ORD-10349,2024-05-06,Jamie Torres,Headphones,Accessories,North,2,80.87,161.74
+ORD-10350,2024-05-27,Riley Quinn,Mouse,Accessories,South,3,26.09,78.27
+ORD-10351,2024-05-20,Cameron Blake,Desk,Furniture,East,5,199.59,997.95
+ORD-10352,2024-07-21,Parker Kim,Desk Lamp,Office Supplies,West,4,35.61,142.44
+ORD-10353,2024-06-26,Skyler Adams,Headphones,Accessories,North,1,76.33,76.33
+ORD-10354,2024-05-18,Finley Grant,Printer,Office Supplies,North,5,126.27,631.35
+ORD-10355,2024-05-02,Avery Chen,Keyboard,Accessories,East,5,48.04,240.2
+ORD-10356,2024-01-27,Taylor Brooks,Notebook Pack,Office Supplies,South,2,12.63,25.26
+ORD-10357,2024-12-14,Casey Nguyen,Desk,Furniture,East,1,204.34,204.34
+ORD-10358,2024-07-27,Hayden Cole,Notebook Pack,Office Supplies,South,2,13.61,27.22
+ORD-10359,2024-06-13,Cameron Blake,Mouse,Accessories,East,3,25.63,76.89
+ORD-10360,2024-09-30,Jordan Lee,Monitor,Electronics,West,2,253.8,507.6
+ORD-10361,2024-01-19,Reese Morgan,Chair,Furniture,South,2,155.72,311.44
+ORD-10362,2024-01-20,Alex Rivera,Keyboard,Accessories,North,3,52.17,156.51
+ORD-10363,2024-05-25,Skyler Adams,Desk Lamp,Office Supplies,South,3,35.35,106.05
+ORD-10364,2024-05-19,Riley Quinn,Keyboard,Accessories,East,4,51.74,206.96
+ORD-10365,2024-11-27,Jamie Torres,Desk,Furniture,West,4,193.24,772.96
+ORD-10366,2024-10-17,Riley Quinn,Laptop,Electronics,West,3,921.29,2763.87
+ORD-10367,2024-08-06,Emerson Walsh,Desk Lamp,Office Supplies,North,4,36.24,144.96
+ORD-10368,2024-04-04,Casey Nguyen,Monitor,Electronics,South,1,247.51,247.51
+ORD-10369,2024-05-13,Reese Morgan,Desk,Furniture,West,1,208.71,208.71
+ORD-10370,2024-06-03,Rowan Pierce,Printer,Office Supplies,East,3,133.29,399.87
+ORD-10371,2024-02-01,Taylor Brooks,Headphones,Accessories,South,2,81.22,162.44
+ORD-10372,2024-12-26,Cameron Blake,Headphones,Accessories,East,5,77.27,386.35
+ORD-10373,2024-04-22,Casey Nguyen,Headphones,Accessories,South,2,78.93,157.86
+ORD-10374,2024-07-10,Quinn Harper,Keyboard,Accessories,South,5,49.76,248.8
+ORD-10375,2024-05-06,Blake Foster,Notebook Pack,Office Supplies,East,2,13.38,26.76
+ORD-10376,2024-02-09,Rowan Pierce,Notebook Pack,Office Supplies,East,3,12.92,38.76
+ORD-10377,2024-04-13,Rowan Pierce,Laptop,Electronics,West,5,929.58,4647.9
+ORD-10378,2024-08-14,Taylor Brooks,Keyboard,Accessories,West,5,49.13,245.65
+ORD-10379,2024-08-16,Jordan Lee,Desk Lamp,Office Supplies,South,5,34.95,174.75
+ORD-10380,2024-10-15,Jordan Lee,Keyboard,Accessories,South,4,50.06,200.24
+ORD-10381,2024-05-10,Alex Rivera,Headphones,Accessories,West,4,81.78,327.12
+ORD-10382,2024-06-25,Sam Patel,Desk Lamp,Office Supplies,East,4,33.5,134.0
+ORD-10383,2024-01-17,Cameron Blake,Monitor,Electronics,South,4,262.14,1048.56
+ORD-10384,2024-07-10,Reese Morgan,Keyboard,Accessories,South,4,51.33,205.32
+ORD-10385,2024-03-09,Parker Kim,Chair,Furniture,East,5,148.12,740.6
+ORD-10386,2024-09-27,Casey Nguyen,Keyboard,Accessories,West,4,52.45,209.8
+ORD-10387,2024-08-25,Finley Grant,Laptop,Electronics,South,3,923.05,2769.15
+ORD-10388,2024-05-06,Skyler Adams,Notebook Pack,Office Supplies,North,2,12.83,25.66
+ORD-10389,2024-01-17,Quinn Harper,Keyboard,Accessories,East,1,48.87,48.87
+ORD-10390,2024-10-31,Jordan Lee,Mouse,Accessories,South,1,24.26,24.26
+ORD-10391,2024-05-05,Jordan Lee,Desk Lamp,Office Supplies,South,1,35.59,35.59
+ORD-10392,2024-01-29,Casey Nguyen,Printer,Office Supplies,North,2,126.54,253.08
+ORD-10393,2024-06-12,Rowan Pierce,Mouse,Accessories,North,5,25.78,128.9
+ORD-10394,2024-12-04,Emerson Walsh,Mouse,Accessories,West,2,24.49,48.98
+ORD-10395,2024-10-12,Rowan Pierce,Chair,Furniture,West,1,147.0,147.0
+ORD-10396,2024-06-25,Reese Morgan,Chair,Furniture,North,1,150.83,150.83
+ORD-10397,2024-07-11,Morgan Ellis,Chair,Furniture,South,3,148.61,445.83
+ORD-10398,2024-12-28,Casey Nguyen,Mouse,Accessories,South,3,25.86,77.58
+ORD-10399,2024-10-12,Emerson Walsh,Laptop,Electronics,West,4,905.6,3622.4
+ORD-10400,2024-06-18,Sam Patel,Chair,Furniture,South,2,146.13,292.26
+ORD-10401,2024-01-27,Jamie Torres,Desk,Furniture,South,2,191.84,383.68
+ORD-10402,2024-04-06,Rowan Pierce,Desk Lamp,Office Supplies,West,1,35.35,35.35
+ORD-10403,2024-06-04,Alex Rivera,Printer,Office Supplies,West,3,126.21,378.63
+ORD-10404,2024-09-02,Avery Chen,Mouse,Accessories,West,1,26.14,26.14
+ORD-10405,2024-06-13,Cameron Blake,Chair,Furniture,South,5,156.22,781.1
+ORD-10406,2024-06-06,Jamie Torres,Printer,Office Supplies,North,3,130.43,391.29
+ORD-10407,2024-02-20,Hayden Cole,Notebook Pack,Office Supplies,North,4,13.49,53.96
+ORD-10408,2024-01-24,Rowan Pierce,Mouse,Accessories,West,4,24.67,98.68
+ORD-10409,2024-10-26,Rowan Pierce,Keyboard,Accessories,South,5,47.57,237.85
+ORD-10410,2024-04-27,Reese Morgan,Headphones,Accessories,West,3,77.21,231.63
+ORD-10411,2024-05-11,Hayden Cole,Printer,Office Supplies,South,3,130.65,391.95
+ORD-10412,2024-03-27,Casey Nguyen,Printer,Office Supplies,South,3,125.68,377.04
+ORD-10413,2024-11-24,Jordan Lee,Keyboard,Accessories,East,5,52.07,260.35
+ORD-10414,2024-01-04,Quinn Harper,Monitor,Electronics,West,1,261.12,261.12
+ORD-10415,2024-01-05,Riley Quinn,Mouse,Accessories,South,2,23.91,47.82
+ORD-10416,2024-09-04,Hayden Cole,Desk,Furniture,East,5,191.2,956.0
+ORD-10417,2024-01-07,Alex Rivera,Laptop,Electronics,North,4,902.89,3611.56
+ORD-10418,2024-09-14,Quinn Harper,Notebook Pack,Office Supplies,West,1,13.61,13.61
+ORD-10419,2024-03-17,Avery Chen,Monitor,Electronics,West,5,260.44,1302.2
+ORD-10420,2024-05-16,Reese Morgan,Desk Lamp,Office Supplies,East,3,35.08,105.24
+ORD-10421,2024-10-16,Avery Chen,Desk,Furniture,West,4,209.18,836.72
+ORD-10422,2024-11-30,Jordan Lee,Headphones,Accessories,East,1,81.46,81.46
+ORD-10423,2024-08-31,Jordan Lee,Chair,Furniture,East,5,148.18,740.9
+ORD-10424,2024-11-26,Drew Santos,Keyboard,Accessories,East,4,47.9,191.6
+ORD-10425,2024-04-18,Rowan Pierce,Notebook Pack,Office Supplies,South,2,13.53,27.06
+ORD-10426,2024-12-16,Jamie Torres,Headphones,Accessories,East,1,76.36,76.36
+ORD-10427,2024-01-09,Riley Quinn,Keyboard,Accessories,West,3,52.13,156.39
+ORD-10428,2024-03-24,Rowan Pierce,Chair,Furniture,West,3,156.42,469.26
+ORD-10429,2024-12-12,Finley Grant,Desk Lamp,Office Supplies,North,4,36.16,144.64
+ORD-10430,2024-12-18,Sam Patel,Chair,Furniture,North,2,153.82,307.64
+ORD-10431,2024-02-08,Drew Santos,Laptop,Electronics,South,2,863.78,1727.56
+ORD-10432,2024-08-18,Hayden Cole,Desk,Furniture,West,3,190.58,571.74
+ORD-10433,2024-08-09,Morgan Ellis,Desk,Furniture,South,4,201.05,804.2
+ORD-10434,2024-05-06,Sam Patel,Monitor,Electronics,East,3,256.79,770.37
+ORD-10435,2024-07-18,Drew Santos,Headphones,Accessories,North,2,77.22,154.44
+ORD-10436,2024-08-15,Parker Kim,Monitor,Electronics,North,3,239.78,719.34
+ORD-10437,2024-08-08,Skyler Adams,Monitor,Electronics,South,2,240.8,481.6
+ORD-10438,2024-10-10,Sam Patel,Monitor,Electronics,North,3,238.15,714.45
+ORD-10439,2024-07-17,Sam Patel,Chair,Furniture,West,4,142.68,570.72
+ORD-10440,2024-03-27,Casey Nguyen,Desk Lamp,Office Supplies,North,4,35.06,140.24
+ORD-10441,2024-02-02,Morgan Ellis,Headphones,Accessories,South,2,78.14,156.28
+ORD-10442,2024-02-09,Parker Kim,Headphones,Accessories,North,4,79.36,317.44
+ORD-10443,2024-10-31,Blake Foster,Mouse,Accessories,West,4,25.54,102.16
+ORD-10444,2024-01-04,Reese Morgan,Printer,Office Supplies,North,3,124.88,374.64
+ORD-10445,2024-08-13,Drew Santos,Desk Lamp,Office Supplies,South,3,34.57,103.71
+ORD-10446,2024-11-04,Riley Quinn,Desk Lamp,Office Supplies,South,3,33.72,101.16
+ORD-10447,2024-06-12,Cameron Blake,Desk,Furniture,South,4,193.54,774.16
+ORD-10448,2024-07-11,Jamie Torres,Desk Lamp,Office Supplies,South,3,35.98,107.94
+ORD-10449,2024-04-12,Rowan Pierce,Desk,Furniture,West,5,192.27,961.35
+ORD-10450,2024-12-28,Riley Quinn,Notebook Pack,Office Supplies,South,4,12.38,49.52
+ORD-10451,2024-07-28,Hayden Cole,Headphones,Accessories,West,1,82.64,82.64
+ORD-10452,2024-08-04,Reese Morgan,Headphones,Accessories,East,2,77.93,155.86
+ORD-10453,2024-10-25,Reese Morgan,Printer,Office Supplies,South,4,136.37,545.48
+ORD-10454,2024-12-25,Finley Grant,Notebook Pack,Office Supplies,East,3,12.39,37.17
+ORD-10455,2024-03-26,Blake Foster,Monitor,Electronics,East,3,256.71,770.13
+ORD-10456,2024-06-18,Quinn Harper,Desk Lamp,Office Supplies,East,4,36.68,146.72
+ORD-10457,2024-09-18,Emerson Walsh,Laptop,Electronics,West,2,863.86,1727.72
+ORD-10458,2024-12-13,Rowan Pierce,Printer,Office Supplies,West,4,128.35,513.4
+ORD-10459,2024-02-23,Cameron Blake,Desk,Furniture,South,4,209.94,839.76
+ORD-10460,2024-06-27,Cameron Blake,Monitor,Electronics,North,2,240.39,480.78
+ORD-10461,2024-09-04,Parker Kim,Printer,Office Supplies,South,5,133.69,668.45
+ORD-10462,2024-06-12,Sam Patel,Monitor,Electronics,North,4,248.44,993.76
+ORD-10463,2024-01-12,Drew Santos,Laptop,Electronics,East,1,927.91,927.91
+ORD-10464,2024-09-21,Morgan Ellis,Keyboard,Accessories,West,2,52.14,104.28
+ORD-10465,2024-04-28,Reese Morgan,Desk,Furniture,West,4,201.19,804.76
+ORD-10466,2024-07-21,Alex Rivera,Keyboard,Accessories,West,4,50.69,202.76
+ORD-10467,2024-01-03,Riley Quinn,Printer,Office Supplies,West,4,131.19,524.76
+ORD-10468,2024-10-22,Taylor Brooks,Headphones,Accessories,West,1,82.01,82.01
+ORD-10469,2024-02-28,Jamie Torres,Desk,Furniture,South,4,196.51,786.04
+ORD-10470,2024-11-01,Reese Morgan,Notebook Pack,Office Supplies,South,3,13.6,40.8
+ORD-10471,2024-08-22,Blake Foster,Desk Lamp,Office Supplies,West,3,33.64,100.92
+ORD-10472,2024-02-13,Casey Nguyen,Headphones,Accessories,North,5,83.34,416.7
+ORD-10473,2024-04-03,Parker Kim,Monitor,Electronics,West,1,243.45,243.45
+ORD-10474,2024-03-11,Rowan Pierce,Notebook Pack,Office Supplies,South,5,12.85,64.25
+ORD-10475,2024-12-21,Morgan Ellis,Chair,Furniture,West,5,145.28,726.4
+ORD-10476,2024-06-10,Skyler Adams,Printer,Office Supplies,East,2,127.25,254.5
+ORD-10477,2024-03-10,Riley Quinn,Desk,Furniture,South,4,209.03,836.12
+ORD-10478,2024-07-28,Hayden Cole,Notebook Pack,Office Supplies,South,4,13.0,52.0
+ORD-10479,2024-10-16,Alex Rivera,Printer,Office Supplies,West,1,129.84,129.84
+ORD-10480,2024-10-02,Cameron Blake,Headphones,Accessories,West,2,76.25,152.5
+ORD-10481,2024-10-08,Emerson Walsh,Printer,Office Supplies,East,4,130.84,523.36
+ORD-10482,2024-07-06,Finley Grant,Desk Lamp,Office Supplies,East,5,33.64,168.2
+ORD-10483,2024-02-22,Avery Chen,Printer,Office Supplies,North,4,130.59,522.36
+ORD-10484,2024-02-14,Skyler Adams,Laptop,Electronics,East,3,895.47,2686.41
+ORD-10485,2024-12-18,Parker Kim,Mouse,Accessories,South,5,24.26,121.3
+ORD-10486,2024-04-15,Jordan Lee,Keyboard,Accessories,North,2,50.57,101.14
+ORD-10487,2024-03-27,Drew Santos,Notebook Pack,Office Supplies,North,5,12.71,63.55
+ORD-10488,2024-12-13,Taylor Brooks,Headphones,Accessories,West,5,80.57,402.85
+ORD-10489,2024-12-01,Casey Nguyen,Chair,Furniture,West,3,156.27,468.81
+ORD-10490,2024-05-06,Reese Morgan,Mouse,Accessories,South,3,24.11,72.33
+ORD-10491,2024-11-17,Quinn Harper,Keyboard,Accessories,South,3,50.38,151.14
+ORD-10492,2024-07-25,Emerson Walsh,Printer,Office Supplies,North,1,124.47,124.47
+ORD-10493,2024-06-16,Rowan Pierce,Desk,Furniture,East,4,199.08,796.32
+ORD-10494,2024-11-21,Parker Kim,Monitor,Electronics,East,4,255.76,1023.04
+ORD-10495,2024-04-18,Hayden Cole,Notebook Pack,Office Supplies,North,4,12.86,51.44
+ORD-10496,2024-10-07,Rowan Pierce,Desk,Furniture,West,3,206.56,619.68
+ORD-10497,2024-12-15,Jordan Lee,Desk Lamp,Office Supplies,East,3,36.22,108.66
+ORD-10498,2024-01-09,Taylor Brooks,Monitor,Electronics,West,4,253.14,1012.56
+ORD-10499,2024-04-13,Casey Nguyen,Printer,Office Supplies,North,4,129.42,517.68
+ORD-10500,2024-02-17,Parker Kim,Keyboard,Accessories,North,3,51.86,155.58
+ORD-10501,2024-01-27,Reese Morgan,Monitor,Electronics,North,2,246.79,493.58
+ORD-10502,2024-12-26,Taylor Brooks,Mouse,Accessories,East,1,24.81,24.81
+ORD-10503,2024-10-30,Avery Chen,Mouse,Accessories,South,2,24.93,49.86
+ORD-10504,2024-03-02,Quinn Harper,Laptop,Electronics,West,3,855.72,2567.16
+ORD-10505,2024-02-15,Taylor Brooks,Printer,Office Supplies,East,4,124.41,497.64
+ORD-10506,2024-03-11,Reese Morgan,Desk,Furniture,West,3,197.34,592.02
+ORD-10507,2024-01-05,Blake Foster,Keyboard,Accessories,West,5,47.83,239.15
+ORD-10508,2024-11-17,Casey Nguyen,Printer,Office Supplies,South,2,128.06,256.12
+ORD-10509,2024-02-14,Taylor Brooks,Desk Lamp,Office Supplies,West,2,35.64,71.28
+ORD-10510,2024-06-28,Quinn Harper,Monitor,Electronics,North,4,252.23,1008.92
+ORD-10511,2024-05-07,Finley Grant,Keyboard,Accessories,North,1,48.73,48.73
+ORD-10512,2024-04-15,Emerson Walsh,Laptop,Electronics,West,3,931.3,2793.9
+ORD-10513,2024-05-02,Hayden Cole,Chair,Furniture,South,1,146.92,146.92
+ORD-10514,2024-02-06,Emerson Walsh,Monitor,Electronics,East,5,243.52,1217.6
+ORD-10515,2024-07-17,Rowan Pierce,Desk,Furniture,South,2,208.67,417.34
+ORD-10516,2024-08-29,Sam Patel,Desk,Furniture,East,2,200.92,401.84
+ORD-10517,2024-04-20,Jordan Lee,Desk Lamp,Office Supplies,East,3,33.48,100.44
+ORD-10518,2024-07-31,Quinn Harper,Chair,Furniture,South,5,150.09,750.45
+ORD-10519,2024-11-11,Casey Nguyen,Monitor,Electronics,North,5,253.5,1267.5
+ORD-10520,2024-04-14,Casey Nguyen,Monitor,Electronics,North,5,245.24,1226.2
+ORD-10521,2024-06-07,Quinn Harper,Chair,Furniture,West,1,151.29,151.29
+ORD-10522,2024-02-29,Skyler Adams,Laptop,Electronics,East,4,876.99,3507.96
+ORD-10523,2024-03-02,Alex Rivera,Headphones,Accessories,West,2,81.32,162.64
+ORD-10524,2024-09-24,Emerson Walsh,Laptop,Electronics,North,3,869.74,2609.22
+ORD-10525,2024-03-01,Alex Rivera,Keyboard,Accessories,North,3,49.35,148.05
+ORD-10526,2024-05-14,Rowan Pierce,Chair,Furniture,East,1,146.57,146.57
+ORD-10527,2024-01-29,Hayden Cole,Printer,Office Supplies,West,3,129.41,388.23
+ORD-10528,2024-10-20,Taylor Brooks,Desk,Furniture,West,1,193.14,193.14
+ORD-10529,2024-05-05,Jordan Lee,Notebook Pack,Office Supplies,South,1,12.34,12.34
+ORD-10530,2024-04-01,Jordan Lee,Desk,Furniture,South,2,197.65,395.3
+ORD-10531,2024-06-12,Jamie Torres,Mouse,Accessories,East,4,24.54,98.16
+ORD-10532,2024-12-10,Jordan Lee,Desk Lamp,Office Supplies,West,5,34.54,172.7
+ORD-10533,2024-07-24,Sam Patel,Mouse,Accessories,South,1,25.75,25.75
+ORD-10534,2024-06-16,Sam Patel,Headphones,Accessories,South,3,82.18,246.54
+ORD-10535,2024-10-15,Cameron Blake,Laptop,Electronics,West,3,888.19,2664.57
+ORD-10536,2024-04-10,Finley Grant,Printer,Office Supplies,West,4,128.28,513.12
+ORD-10537,2024-01-13,Avery Chen,Keyboard,Accessories,North,4,47.52,190.08
+ORD-10538,2024-12-02,Reese Morgan,Laptop,Electronics,North,1,940.58,940.58
+ORD-10539,2024-08-02,Hayden Cole,Monitor,Electronics,East,2,242.62,485.24
+ORD-10540,2024-01-23,Avery Chen,Keyboard,Accessories,South,1,51.05,51.05
+ORD-10541,2024-10-24,Taylor Brooks,Desk,Furniture,West,1,199.16,199.16
+ORD-10542,2024-02-01,Quinn Harper,Chair,Furniture,West,5,143.61,718.05
+ORD-10543,2024-07-20,Drew Santos,Mouse,Accessories,North,3,24.47,73.41
+ORD-10544,2024-04-13,Casey Nguyen,Printer,Office Supplies,East,1,127.03,127.03
+ORD-10545,2024-08-26,Drew Santos,Keyboard,Accessories,South,4,48.02,192.08
+ORD-10546,2024-08-19,Cameron Blake,Monitor,Electronics,South,2,250.89,501.78
+ORD-10547,2024-03-21,Cameron Blake,Headphones,Accessories,East,1,82.81,82.81
+ORD-10548,2024-03-16,Sam Patel,Mouse,Accessories,West,3,25.83,77.49
+ORD-10549,2024-12-12,Cameron Blake,Desk,Furniture,North,1,197.91,197.91
+ORD-10550,2024-08-19,Finley Grant,Keyboard,Accessories,West,4,47.65,190.6
+ORD-10551,2024-03-03,Alex Rivera,Monitor,Electronics,East,2,249.04,498.08
+ORD-10552,2024-07-09,Sam Patel,Mouse,Accessories,North,4,24.07,96.28
+ORD-10553,2024-04-11,Skyler Adams,Monitor,Electronics,West,1,238.04,238.04
+ORD-10554,2024-03-03,Jordan Lee,Monitor,Electronics,South,3,260.12,780.36
+ORD-10555,2024-08-09,Reese Morgan,Laptop,Electronics,South,5,870.11,4350.55
+ORD-10556,2024-03-29,Parker Kim,Laptop,Electronics,West,4,889.44,3557.76
+ORD-10557,2024-03-17,Jordan Lee,Keyboard,Accessories,West,4,48.87,195.48
+ORD-10558,2024-09-02,Jordan Lee,Headphones,Accessories,East,5,79.98,399.9
+ORD-10559,2024-04-12,Emerson Walsh,Headphones,Accessories,West,4,79.05,316.2
+ORD-10560,2024-07-02,Hayden Cole,Notebook Pack,Office Supplies,South,4,13.37,53.48
+ORD-10561,2024-06-13,Reese Morgan,Desk,Furniture,North,5,208.24,1041.2
+ORD-10562,2024-04-22,Alex Rivera,Keyboard,Accessories,North,5,47.62,238.1
+ORD-10563,2024-09-28,Parker Kim,Laptop,Electronics,West,4,927.77,3711.08
+ORD-10564,2024-05-16,Finley Grant,Keyboard,Accessories,East,2,47.99,95.98
+ORD-10565,2024-06-30,Morgan Ellis,Mouse,Accessories,West,4,25.18,100.72
+ORD-10566,2024-10-29,Alex Rivera,Mouse,Accessories,North,3,25.22,75.66
+ORD-10567,2024-04-06,Hayden Cole,Desk Lamp,Office Supplies,North,5,35.21,176.05
+ORD-10568,2024-01-29,Avery Chen,Keyboard,Accessories,West,1,49.94,49.94
+ORD-10569,2024-06-18,Blake Foster,Laptop,Electronics,West,1,902.37,902.37
+ORD-10570,2024-06-14,Jordan Lee,Keyboard,Accessories,East,2,49.19,98.38
+ORD-10571,2024-02-26,Emerson Walsh,Keyboard,Accessories,North,2,50.42,100.84
+ORD-10572,2024-10-27,Taylor Brooks,Monitor,Electronics,North,4,246.83,987.32
+ORD-10573,2024-08-11,Hayden Cole,Headphones,Accessories,North,2,78.57,157.14
+ORD-10574,2024-12-21,Blake Foster,Keyboard,Accessories,North,5,51.03,255.15
+ORD-10575,2024-07-12,Cameron Blake,Mouse,Accessories,North,2,25.4,50.8
+ORD-10576,2024-12-25,Rowan Pierce,Keyboard,Accessories,South,1,48.38,48.38
+ORD-10577,2024-06-11,Blake Foster,Desk Lamp,Office Supplies,West,5,33.35,166.75
+ORD-10578,2024-03-13,Drew Santos,Desk Lamp,Office Supplies,East,4,33.6,134.4
+ORD-10579,2024-03-26,Sam Patel,Mouse,Accessories,North,3,24.61,73.83
+ORD-10580,2024-05-07,Sam Patel,Printer,Office Supplies,North,2,123.64,247.28
+ORD-10581,2024-01-25,Reese Morgan,Headphones,Accessories,South,1,82.29,82.29
+ORD-10582,2024-09-09,Reese Morgan,Chair,Furniture,North,4,157.03,628.12
+ORD-10583,2024-10-22,Avery Chen,Notebook Pack,Office Supplies,West,4,12.83,51.32
+ORD-10584,2024-05-30,Alex Rivera,Printer,Office Supplies,North,1,124.45,124.45
+ORD-10585,2024-06-24,Morgan Ellis,Headphones,Accessories,South,1,83.6,83.6
+ORD-10586,2024-02-17,Drew Santos,Keyboard,Accessories,South,5,51.15,255.75
+ORD-10587,2024-11-06,Quinn Harper,Laptop,Electronics,West,2,893.81,1787.62
+ORD-10588,2024-04-07,Quinn Harper,Laptop,Electronics,North,2,864.1,1728.2
+ORD-10589,2024-01-26,Reese Morgan,Headphones,Accessories,South,1,78.37,78.37
+ORD-10590,2024-08-06,Sam Patel,Keyboard,Accessories,North,1,47.76,47.76
+ORD-10591,2024-01-14,Riley Quinn,Desk Lamp,Office Supplies,West,1,34.92,34.92
+ORD-10592,2024-02-29,Cameron Blake,Headphones,Accessories,South,4,83.81,335.24
+ORD-10593,2024-02-16,Finley Grant,Printer,Office Supplies,South,3,129.85,389.55
+ORD-10594,2024-07-08,Morgan Ellis,Keyboard,Accessories,South,4,49.35,197.4
+ORD-10595,2024-05-14,Avery Chen,Laptop,Electronics,North,4,878.69,3514.76
+ORD-10596,2024-02-13,Parker Kim,Desk Lamp,Office Supplies,South,1,33.46,33.46
+ORD-10597,2024-07-17,Emerson Walsh,Desk Lamp,Office Supplies,South,1,34.04,34.04
+ORD-10598,2024-10-20,Avery Chen,Notebook Pack,Office Supplies,South,4,13.23,52.92
+ORD-10599,2024-09-14,Rowan Pierce,Headphones,Accessories,West,1,76.62,76.62
+ORD-10600,2024-03-29,Morgan Ellis,Monitor,Electronics,West,4,261.22,1044.88
+ORD-10601,2024-02-10,Quinn Harper,Mouse,Accessories,West,4,24.06,96.24
+ORD-10602,2024-06-12,Sam Patel,Keyboard,Accessories,East,3,51.66,154.98
+ORD-10603,2024-06-15,Jamie Torres,Chair,Furniture,South,5,150.84,754.2
+ORD-10604,2024-10-27,Emerson Walsh,Laptop,Electronics,South,5,925.78,4628.9
+ORD-10605,2024-10-17,Rowan Pierce,Monitor,Electronics,East,2,247.85,495.7
+ORD-10606,2024-05-26,Finley Grant,Monitor,Electronics,North,1,251.56,251.56
+ORD-10607,2024-10-19,Blake Foster,Chair,Furniture,South,4,146.45,585.8
+ORD-10608,2024-03-14,Blake Foster,Laptop,Electronics,South,4,870.49,3481.96
+ORD-10609,2024-12-19,Avery Chen,Laptop,Electronics,East,3,890.61,2671.83
+ORD-10610,2024-01-11,Drew Santos,Printer,Office Supplies,North,3,135.46,406.38
+ORD-10611,2024-12-22,Taylor Brooks,Headphones,Accessories,West,4,78.23,312.92
+ORD-10612,2024-06-13,Jamie Torres,Keyboard,Accessories,South,4,48.99,195.96
+ORD-10613,2024-08-14,Riley Quinn,Desk Lamp,Office Supplies,South,2,35.5,71.0
+ORD-10614,2024-01-29,Emerson Walsh,Printer,Office Supplies,West,3,133.36,400.08
+ORD-10615,2024-07-25,Casey Nguyen,Monitor,Electronics,East,5,245.27,1226.35
+ORD-10616,2024-01-30,Avery Chen,Keyboard,Accessories,East,2,48.45,96.9
+ORD-10617,2024-12-26,Riley Quinn,Printer,Office Supplies,North,3,124.15,372.45
+ORD-10618,2024-07-22,Taylor Brooks,Desk,Furniture,East,5,206.46,1032.3
+ORD-10619,2024-08-16,Morgan Ellis,Mouse,Accessories,South,5,24.67,123.35
+ORD-10620,2024-03-24,Jamie Torres,Desk Lamp,Office Supplies,East,3,35.17,105.51
+ORD-10621,2024-03-24,Rowan Pierce,Headphones,Accessories,West,1,76.21,76.21
+ORD-10622,2024-05-17,Quinn Harper,Mouse,Accessories,East,2,25.36,50.72
+ORD-10623,2024-11-27,Morgan Ellis,Laptop,Electronics,East,2,897.66,1795.32
+ORD-10624,2024-12-30,Jamie Torres,Mouse,Accessories,South,3,24.37,73.11
+ORD-10625,2024-05-09,Riley Quinn,Chair,Furniture,South,4,155.26,621.04
+ORD-10626,2024-07-22,Rowan Pierce,Headphones,Accessories,East,5,81.41,407.05
+ORD-10627,2024-10-14,Blake Foster,Laptop,Electronics,North,3,901.03,2703.09
+ORD-10628,2024-02-02,Drew Santos,Headphones,Accessories,North,4,81.47,325.88
+ORD-10629,2024-12-01,Cameron Blake,Desk,Furniture,West,3,207.22,621.66
+ORD-10630,2024-01-30,Blake Foster,Keyboard,Accessories,South,2,50.08,100.16
+ORD-10631,2024-12-01,Hayden Cole,Desk,Furniture,North,1,203.6,203.6
+ORD-10632,2024-07-17,Jordan Lee,Headphones,Accessories,West,4,83.24,332.96
+ORD-10633,2024-12-17,Finley Grant,Desk,Furniture,South,2,204.52,409.04
+ORD-10634,2024-12-02,Finley Grant,Desk,Furniture,West,2,200.14,400.28
+ORD-10635,2024-05-12,Finley Grant,Headphones,Accessories,West,2,76.77,153.54
+ORD-10636,2024-06-30,Avery Chen,Desk,Furniture,North,2,203.08,406.16
+ORD-10637,2024-07-09,Jamie Torres,Chair,Furniture,North,3,154.31,462.93
+ORD-10638,2024-01-28,Rowan Pierce,Printer,Office Supplies,East,4,134.56,538.24
+ORD-10639,2024-03-02,Reese Morgan,Printer,Office Supplies,North,5,135.05,675.25
+ORD-10640,2024-03-11,Riley Quinn,Chair,Furniture,North,2,143.3,286.6
+ORD-10641,2024-03-14,Drew Santos,Chair,Furniture,West,4,157.3,629.2
+ORD-10642,2024-06-09,Jordan Lee,Monitor,Electronics,East,2,249.68,499.36
+ORD-10643,2024-10-22,Morgan Ellis,Printer,Office Supplies,South,2,127.05,254.1
+ORD-10644,2024-11-20,Quinn Harper,Monitor,Electronics,South,4,240.73,962.92
+ORD-10645,2024-01-03,Jordan Lee,Chair,Furniture,West,4,156.97,627.88
+ORD-10646,2024-09-28,Riley Quinn,Desk,Furniture,East,3,208.99,626.97
+ORD-10647,2024-04-25,Parker Kim,Laptop,Electronics,North,2,911.39,1822.78
+ORD-10648,2024-10-28,Cameron Blake,Keyboard,Accessories,West,5,48.0,240.0
+ORD-10649,2024-05-28,Skyler Adams,Monitor,Electronics,North,3,258.09,774.27
+ORD-10650,2024-06-24,Hayden Cole,Chair,Furniture,North,2,155.81,311.62
+ORD-10651,2024-01-10,Avery Chen,Mouse,Accessories,West,4,24.15,96.6
+ORD-10652,2024-10-28,Emerson Walsh,Keyboard,Accessories,West,1,48.55,48.55
+ORD-10653,2024-07-11,Jamie Torres,Monitor,Electronics,East,1,246.65,246.65
+ORD-10654,2024-11-30,Alex Rivera,Desk Lamp,Office Supplies,East,1,36.72,36.72
+ORD-10655,2024-03-04,Finley Grant,Monitor,Electronics,North,4,247.91,991.64
+ORD-10656,2024-12-21,Alex Rivera,Printer,Office Supplies,North,2,132.61,265.22
+ORD-10657,2024-05-18,Blake Foster,Chair,Furniture,West,5,152.41,762.05
+ORD-10658,2024-09-18,Blake Foster,Chair,Furniture,East,1,154.95,154.95
+ORD-10659,2024-09-11,Riley Quinn,Headphones,Accessories,West,1,76.9,76.9
+ORD-10660,2024-07-02,Quinn Harper,Headphones,Accessories,North,2,82.64,165.28
+ORD-10661,2024-04-16,Hayden Cole,Keyboard,Accessories,North,4,47.69,190.76
+ORD-10662,2024-02-26,Rowan Pierce,Mouse,Accessories,South,1,23.75,23.75
+ORD-10663,2024-02-08,Taylor Brooks,Keyboard,Accessories,North,5,52.24,261.2
+ORD-10664,2024-05-15,Skyler Adams,Mouse,Accessories,East,3,24.88,74.64
+ORD-10665,2024-05-28,Parker Kim,Monitor,Electronics,North,1,257.82,257.82
+ORD-10666,2024-01-24,Alex Rivera,Chair,Furniture,West,1,153.57,153.57
+ORD-10667,2024-11-14,Jamie Torres,Keyboard,Accessories,East,4,49.13,196.52
+ORD-10668,2024-02-28,Reese Morgan,Desk,Furniture,South,2,206.29,412.58
+ORD-10669,2024-12-19,Hayden Cole,Printer,Office Supplies,South,4,127.02,508.08
+ORD-10670,2024-03-22,Taylor Brooks,Keyboard,Accessories,South,1,48.06,48.06
+ORD-10671,2024-12-13,Skyler Adams,Desk Lamp,Office Supplies,West,5,34.93,174.65
+ORD-10672,2024-11-09,Alex Rivera,Desk Lamp,Office Supplies,West,3,34.57,103.71
+ORD-10673,2024-07-29,Skyler Adams,Printer,Office Supplies,East,1,135.45,135.45
+ORD-10674,2024-01-07,Emerson Walsh,Monitor,Electronics,West,3,244.03,732.09
+ORD-10675,2024-02-18,Quinn Harper,Desk,Furniture,West,5,200.37,1001.85
+ORD-10676,2024-03-17,Finley Grant,Printer,Office Supplies,East,4,127.98,511.92
+ORD-10677,2024-09-15,Hayden Cole,Laptop,Electronics,South,2,912.9,1825.8
+ORD-10678,2024-06-13,Avery Chen,Keyboard,Accessories,North,4,47.86,191.44
+ORD-10679,2024-10-08,Reese Morgan,Headphones,Accessories,South,2,76.39,152.78
+ORD-10680,2024-10-20,Skyler Adams,Mouse,Accessories,East,4,23.94,95.76
+ORD-10681,2024-09-11,Alex Rivera,Printer,Office Supplies,East,1,129.3,129.3
+ORD-10682,2024-10-08,Alex Rivera,Chair,Furniture,East,5,148.68,743.4
+ORD-10683,2024-09-17,Finley Grant,Desk Lamp,Office Supplies,West,3,36.61,109.83
+ORD-10684,2024-01-28,Avery Chen,Printer,Office Supplies,South,3,135.84,407.52
+ORD-10685,2024-11-03,Hayden Cole,Desk,Furniture,North,5,201.19,1005.95
+ORD-10686,2024-01-02,Drew Santos,Printer,Office Supplies,North,2,124.97,249.94
+ORD-10687,2024-12-25,Taylor Brooks,Headphones,Accessories,East,3,80.37,241.11
+ORD-10688,2024-02-24,Jamie Torres,Keyboard,Accessories,West,4,49.95,199.8
+ORD-10689,2024-04-20,Skyler Adams,Mouse,Accessories,West,4,24.04,96.16
+ORD-10690,2024-01-24,Rowan Pierce,Desk,Furniture,East,4,192.15,768.6
+ORD-10691,2024-09-15,Casey Nguyen,Printer,Office Supplies,South,5,129.44,647.2
+ORD-10692,2024-10-10,Quinn Harper,Laptop,Electronics,South,1,902.72,902.72
+ORD-10693,2024-12-20,Rowan Pierce,Notebook Pack,Office Supplies,West,2,13.36,26.72
+ORD-10694,2024-11-06,Drew Santos,Keyboard,Accessories,South,5,48.01,240.05
+ORD-10695,2024-05-20,Reese Morgan,Chair,Furniture,North,2,157.18,314.36
+ORD-10696,2024-03-11,Quinn Harper,Headphones,Accessories,North,2,79.61,159.22
+ORD-10697,2024-11-19,Riley Quinn,Notebook Pack,Office Supplies,West,5,13.46,67.3
+ORD-10698,2024-12-17,Parker Kim,Mouse,Accessories,West,3,25.3,75.9
+ORD-10699,2024-12-29,Taylor Brooks,Keyboard,Accessories,North,3,50.01,150.03
+ORD-10700,2024-12-07,Quinn Harper,Notebook Pack,Office Supplies,North,5,12.96,64.8
+ORD-10701,2024-02-24,Alex Rivera,Chair,Furniture,South,5,154.61,773.05
+ORD-10702,2024-04-12,Jamie Torres,Keyboard,Accessories,West,1,47.76,47.76
+ORD-10703,2024-02-01,Cameron Blake,Headphones,Accessories,West,2,81.46,162.92
+ORD-10704,2024-02-22,Blake Foster,Notebook Pack,Office Supplies,West,4,12.38,49.52
+ORD-10705,2024-12-22,Cameron Blake,Notebook Pack,Office Supplies,East,5,12.85,64.25
+ORD-10706,2024-10-09,Jordan Lee,Chair,Furniture,East,3,148.3,444.9
+ORD-10707,2024-04-25,Parker Kim,Headphones,Accessories,West,4,77.61,310.44
+ORD-10708,2024-12-15,Sam Patel,Mouse,Accessories,West,2,24.48,48.96
+ORD-10709,2024-07-12,Jordan Lee,Keyboard,Accessories,South,1,51.17,51.17
+ORD-10710,2024-03-23,Rowan Pierce,Headphones,Accessories,North,2,80.44,160.88
+ORD-10711,2024-01-21,Casey Nguyen,Laptop,Electronics,North,2,884.74,1769.48
+ORD-10712,2024-12-04,Cameron Blake,Desk Lamp,Office Supplies,South,5,33.42,167.1
+ORD-10713,2024-12-28,Drew Santos,Desk Lamp,Office Supplies,West,1,35.17,35.17
+ORD-10714,2024-03-22,Quinn Harper,Keyboard,Accessories,South,5,50.09,250.45
+ORD-10715,2024-12-05,Drew Santos,Monitor,Electronics,North,2,246.23,492.46
+ORD-10716,2024-09-28,Hayden Cole,Desk,Furniture,East,5,195.86,979.3
+ORD-10717,2024-05-03,Blake Foster,Monitor,Electronics,West,4,254.21,1016.84
+ORD-10718,2024-07-14,Taylor Brooks,Laptop,Electronics,South,3,916.42,2749.26
+ORD-10719,2024-01-13,Emerson Walsh,Headphones,Accessories,North,3,80.31,240.93
+ORD-10720,2024-09-06,Jordan Lee,Notebook Pack,Office Supplies,North,4,13.38,53.52
+ORD-10721,2024-02-19,Morgan Ellis,Mouse,Accessories,East,1,24.54,24.54
+ORD-10722,2024-12-16,Quinn Harper,Monitor,Electronics,East,2,242.76,485.52
+ORD-10723,2024-11-27,Sam Patel,Mouse,Accessories,West,4,25.08,100.32
+ORD-10724,2024-01-20,Sam Patel,Laptop,Electronics,East,3,896.32,2688.96
+ORD-10725,2024-10-12,Sam Patel,Laptop,Electronics,West,3,871.01,2613.03
+ORD-10726,2024-11-18,Reese Morgan,Headphones,Accessories,South,4,79.25,317.0
+ORD-10727,2024-09-30,Alex Rivera,Desk,Furniture,East,1,190.33,190.33
+ORD-10728,2024-07-02,Emerson Walsh,Desk Lamp,Office Supplies,East,1,33.4,33.4
+ORD-10729,2024-11-06,Sam Patel,Headphones,Accessories,North,3,82.28,246.84
+ORD-10730,2024-08-30,Morgan Ellis,Printer,Office Supplies,West,1,128.45,128.45
+ORD-10731,2024-05-31,Casey Nguyen,Keyboard,Accessories,North,5,51.22,256.1
+ORD-10732,2024-10-10,Finley Grant,Desk,Furniture,West,1,209.14,209.14
+ORD-10733,2024-11-01,Reese Morgan,Monitor,Electronics,East,5,238.53,1192.65
+ORD-10734,2024-04-18,Quinn Harper,Headphones,Accessories,West,3,77.67,233.01
+ORD-10735,2024-05-09,Riley Quinn,Keyboard,Accessories,East,5,48.41,242.05
+ORD-10736,2024-01-28,Finley Grant,Keyboard,Accessories,South,5,50.84,254.2
+ORD-10737,2024-05-08,Taylor Brooks,Notebook Pack,Office Supplies,West,1,12.44,12.44
+ORD-10738,2024-07-01,Casey Nguyen,Desk Lamp,Office Supplies,West,3,34.95,104.85
+ORD-10739,2024-04-09,Drew Santos,Monitor,Electronics,South,1,244.62,244.62
+ORD-10740,2024-12-21,Rowan Pierce,Printer,Office Supplies,West,3,127.76,383.28
+ORD-10741,2024-08-07,Morgan Ellis,Desk Lamp,Office Supplies,East,3,35.22,105.66
+ORD-10742,2024-12-30,Quinn Harper,Desk,Furniture,North,2,194.91,389.82
+ORD-10743,2024-09-02,Skyler Adams,Desk,Furniture,South,3,192.68,578.04
+ORD-10744,2024-10-09,Taylor Brooks,Desk,Furniture,West,4,205.49,821.96
+ORD-10745,2024-03-12,Finley Grant,Desk Lamp,Office Supplies,West,3,33.53,100.59
+ORD-10746,2024-02-08,Alex Rivera,Headphones,Accessories,East,1,81.86,81.86
+ORD-10747,2024-04-18,Jordan Lee,Desk Lamp,Office Supplies,North,5,35.27,176.35
+ORD-10748,2024-08-29,Casey Nguyen,Notebook Pack,Office Supplies,North,5,13.5,67.5
+ORD-10749,2024-05-28,Casey Nguyen,Chair,Furniture,South,5,145.84,729.2
+ORD-10750,2024-07-05,Emerson Walsh,Notebook Pack,Office Supplies,East,4,13.0,52.0
+ORD-10751,2024-12-16,Morgan Ellis,Mouse,Accessories,West,5,25.86,129.3
+ORD-10752,2024-10-16,Casey Nguyen,Printer,Office Supplies,South,5,125.56,627.8
+ORD-10753,2024-04-28,Sam Patel,Desk,Furniture,North,4,190.8,763.2
+ORD-10754,2024-09-22,Parker Kim,Desk,Furniture,South,2,194.67,389.34
+ORD-10755,2024-01-21,Drew Santos,Printer,Office Supplies,East,1,135.42,135.42
+ORD-10756,2024-05-14,Rowan Pierce,Notebook Pack,Office Supplies,West,3,13.16,39.48
+ORD-10757,2024-10-27,Sam Patel,Chair,Furniture,North,3,152.29,456.87
+ORD-10758,2024-09-21,Reese Morgan,Chair,Furniture,North,2,157.08,314.16
+ORD-10759,2024-11-05,Alex Rivera,Desk,Furniture,West,4,199.73,798.92
+ORD-10760,2024-09-20,Jamie Torres,Printer,Office Supplies,West,1,125.64,125.64
+ORD-10761,2024-11-04,Taylor Brooks,Keyboard,Accessories,West,3,48.42,145.26
+ORD-10762,2024-09-03,Hayden Cole,Chair,Furniture,South,1,154.66,154.66
+ORD-10763,2024-01-12,Avery Chen,Mouse,Accessories,East,4,25.22,100.88
+ORD-10764,2024-03-09,Emerson Walsh,Keyboard,Accessories,East,2,50.36,100.72
+ORD-10765,2024-05-12,Morgan Ellis,Desk Lamp,Office Supplies,South,2,33.75,67.5
+ORD-10766,2024-12-04,Cameron Blake,Desk Lamp,Office Supplies,East,1,36.63,36.63
+ORD-10767,2024-09-03,Morgan Ellis,Mouse,Accessories,West,4,24.86,99.44
+ORD-10768,2024-04-03,Blake Foster,Chair,Furniture,North,5,151.5,757.5
+ORD-10769,2024-08-20,Blake Foster,Keyboard,Accessories,East,3,51.11,153.33
+ORD-10770,2024-02-25,Alex Rivera,Mouse,Accessories,West,2,24.69,49.38
+ORD-10771,2024-12-16,Quinn Harper,Notebook Pack,Office Supplies,West,5,13.46,67.3
+ORD-10772,2024-11-10,Blake Foster,Desk Lamp,Office Supplies,East,4,33.58,134.32
+ORD-10773,2024-02-17,Hayden Cole,Notebook Pack,Office Supplies,West,1,12.99,12.99
+ORD-10774,2024-12-13,Quinn Harper,Desk Lamp,Office Supplies,South,1,35.13,35.13
+ORD-10775,2024-08-07,Avery Chen,Desk,Furniture,South,5,207.49,1037.45
+ORD-10776,2024-02-20,Quinn Harper,Chair,Furniture,West,5,147.75,738.75
+ORD-10777,2024-02-12,Cameron Blake,Headphones,Accessories,South,2,79.81,159.62
+ORD-10778,2024-10-22,Emerson Walsh,Headphones,Accessories,East,1,77.5,77.5
+ORD-10779,2024-12-18,Drew Santos,Notebook Pack,Office Supplies,South,2,12.35,24.7
+ORD-10780,2024-11-29,Rowan Pierce,Desk,Furniture,North,4,192.12,768.48
+ORD-10781,2024-10-16,Parker Kim,Headphones,Accessories,North,4,82.83,331.32
+ORD-10782,2024-10-09,Finley Grant,Chair,Furniture,South,4,153.81,615.24
+ORD-10783,2024-09-04,Jamie Torres,Keyboard,Accessories,North,5,49.34,246.7
+ORD-10784,2024-03-11,Taylor Brooks,Desk Lamp,Office Supplies,West,4,34.45,137.8
+ORD-10785,2024-02-21,Riley Quinn,Printer,Office Supplies,South,2,133.67,267.34
+ORD-10786,2024-12-22,Jordan Lee,Desk,Furniture,West,5,206.01,1030.05
+ORD-10787,2024-02-16,Casey Nguyen,Chair,Furniture,South,1,156.96,156.96
+ORD-10788,2024-05-14,Avery Chen,Desk Lamp,Office Supplies,North,1,34.76,34.76
+ORD-10789,2024-07-24,Blake Foster,Monitor,Electronics,North,4,252.72,1010.88
+ORD-10790,2024-11-23,Hayden Cole,Desk Lamp,Office Supplies,South,2,33.44,66.88
+ORD-10791,2024-05-26,Riley Quinn,Laptop,Electronics,East,5,873.14,4365.7
+ORD-10792,2024-11-10,Morgan Ellis,Desk Lamp,Office Supplies,East,2,35.03,70.06
+ORD-10793,2024-03-21,Sam Patel,Desk,Furniture,North,1,194.78,194.78
+ORD-10794,2024-07-26,Rowan Pierce,Chair,Furniture,West,4,147.79,591.16
+ORD-10795,2024-02-16,Finley Grant,Notebook Pack,Office Supplies,North,1,12.36,12.36
+ORD-10796,2024-06-26,Jamie Torres,Notebook Pack,Office Supplies,West,3,13.53,40.59
+ORD-10797,2024-07-25,Rowan Pierce,Desk Lamp,Office Supplies,East,4,36.61,146.44
+ORD-10798,2024-02-24,Finley Grant,Headphones,Accessories,East,5,77.39,386.95
+ORD-10799,2024-09-19,Jamie Torres,Notebook Pack,Office Supplies,North,1,12.72,12.72
+ORD-10800,2024-09-04,Avery Chen,Printer,Office Supplies,North,5,136.05,680.25
+ORD-10801,2024-01-15,Hayden Cole,Printer,Office Supplies,East,5,132.35,661.75
+ORD-10802,2024-12-12,Avery Chen,Headphones,Accessories,North,2,76.53,153.06
+ORD-10803,2024-10-01,Alex Rivera,Chair,Furniture,North,5,156.82,784.1
+ORD-10804,2024-12-10,Drew Santos,Mouse,Accessories,East,4,24.46,97.84
+ORD-10805,2024-06-09,Parker Kim,Notebook Pack,Office Supplies,West,4,13.55,54.2
+ORD-10806,2024-09-12,Riley Quinn,Desk Lamp,Office Supplies,West,2,34.18,68.36
+ORD-10807,2024-04-27,Riley Quinn,Mouse,Accessories,West,2,25.92,51.84
+ORD-10808,2024-03-02,Sam Patel,Desk Lamp,Office Supplies,South,1,34.49,34.49
+ORD-10809,2024-01-22,Hayden Cole,Desk Lamp,Office Supplies,North,5,33.26,166.3
+ORD-10810,2024-05-20,Hayden Cole,Desk Lamp,Office Supplies,West,5,34.34,171.7
+ORD-10811,2024-10-22,Casey Nguyen,Notebook Pack,Office Supplies,East,2,12.7,25.4
+ORD-10812,2024-10-03,Jordan Lee,Notebook Pack,Office Supplies,North,4,13.38,53.52
+ORD-10813,2024-08-22,Taylor Brooks,Chair,Furniture,South,2,155.4,310.8
+ORD-10814,2024-12-11,Riley Quinn,Desk,Furniture,South,1,203.77,203.77
+ORD-10815,2024-11-09,Jamie Torres,Desk Lamp,Office Supplies,West,3,33.59,100.77
+ORD-10816,2024-08-29,Blake Foster,Notebook Pack,Office Supplies,North,3,12.68,38.04
+ORD-10817,2024-04-17,Quinn Harper,Desk,Furniture,North,4,193.67,774.68
+ORD-10818,2024-08-18,Morgan Ellis,Desk,Furniture,West,3,207.08,621.24
+ORD-10819,2024-05-18,Avery Chen,Desk Lamp,Office Supplies,South,1,35.64,35.64
+ORD-10820,2024-08-30,Alex Rivera,Chair,Furniture,West,2,145.43,290.86
+ORD-10821,2024-09-30,Drew Santos,Chair,Furniture,South,5,149.98,749.9
+ORD-10822,2024-01-25,Reese Morgan,Headphones,Accessories,East,5,78.0,390.0
+ORD-10823,2024-08-31,Taylor Brooks,Keyboard,Accessories,South,3,47.79,143.37
+ORD-10824,2024-10-13,Finley Grant,Desk,Furniture,North,3,195.19,585.57
+ORD-10825,2024-06-28,Blake Foster,Desk,Furniture,West,1,190.39,190.39
+ORD-10826,2024-03-30,Cameron Blake,Desk Lamp,Office Supplies,North,5,35.26,176.3
+ORD-10827,2024-08-16,Sam Patel,Desk,Furniture,South,4,203.45,813.8
+ORD-10828,2024-03-26,Drew Santos,Desk Lamp,Office Supplies,South,2,34.24,68.48
+ORD-10829,2024-02-10,Morgan Ellis,Desk Lamp,Office Supplies,North,1,35.24,35.24
+ORD-10830,2024-12-29,Jamie Torres,Mouse,Accessories,South,3,24.52,73.56
+ORD-10831,2024-10-27,Emerson Walsh,Headphones,Accessories,South,3,83.09,249.27
+ORD-10832,2024-03-05,Avery Chen,Chair,Furniture,North,1,145.0,145.0
+ORD-10833,2024-02-22,Taylor Brooks,Monitor,Electronics,East,4,242.75,971.0
+ORD-10834,2024-07-22,Emerson Walsh,Printer,Office Supplies,East,1,130.62,130.62
+ORD-10835,2024-02-13,Reese Morgan,Monitor,Electronics,North,2,244.05,488.1
+ORD-10836,2024-08-14,Casey Nguyen,Mouse,Accessories,West,3,24.36,73.08
+ORD-10837,2024-01-18,Parker Kim,Notebook Pack,Office Supplies,North,1,13.43,13.43
+ORD-10838,2024-05-19,Finley Grant,Printer,Office Supplies,South,5,129.56,647.8
+ORD-10839,2024-03-31,Rowan Pierce,Keyboard,Accessories,South,5,52.34,261.7
+ORD-10840,2024-06-07,Parker Kim,Desk Lamp,Office Supplies,South,5,34.76,173.8
+ORD-10841,2024-08-14,Cameron Blake,Notebook Pack,Office Supplies,North,1,12.64,12.64
+ORD-10842,2024-01-06,Alex Rivera,Chair,Furniture,West,3,146.39,439.17
+ORD-10843,2024-01-05,Hayden Cole,Desk,Furniture,South,5,195.73,978.65
+ORD-10844,2024-05-29,Blake Foster,Headphones,Accessories,West,4,76.06,304.24
+ORD-10845,2024-07-29,Finley Grant,Laptop,Electronics,South,2,904.33,1808.66
+ORD-10846,2024-07-12,Avery Chen,Chair,Furniture,North,4,146.24,584.96
+ORD-10847,2024-09-21,Blake Foster,Monitor,Electronics,North,2,248.05,496.1
+ORD-10848,2024-05-17,Quinn Harper,Headphones,Accessories,West,5,81.18,405.9
+ORD-10849,2024-02-26,Skyler Adams,Monitor,Electronics,South,3,242.05,726.15
+ORD-10850,2024-04-06,Drew Santos,Headphones,Accessories,East,4,81.59,326.36
+ORD-10851,2024-01-12,Morgan Ellis,Keyboard,Accessories,East,5,47.74,238.7
+ORD-10852,2024-01-05,Avery Chen,Headphones,Accessories,East,4,78.14,312.56
+ORD-10853,2024-06-24,Quinn Harper,Keyboard,Accessories,North,2,47.56,95.12
+ORD-10854,2024-12-22,Jordan Lee,Printer,Office Supplies,North,4,136.46,545.84
+ORD-10855,2024-01-29,Jamie Torres,Monitor,Electronics,South,2,258.58,517.16
+ORD-10856,2024-04-08,Jamie Torres,Monitor,Electronics,South,2,251.07,502.14
+ORD-10857,2024-07-16,Skyler Adams,Laptop,Electronics,West,2,865.97,1731.94
+ORD-10858,2024-09-23,Riley Quinn,Laptop,Electronics,South,1,872.92,872.92
+ORD-10859,2024-06-14,Morgan Ellis,Chair,Furniture,East,3,152.71,458.13
+ORD-10860,2024-09-03,Cameron Blake,Notebook Pack,Office Supplies,West,3,13.02,39.06
+ORD-10861,2024-02-27,Avery Chen,Desk,Furniture,South,2,207.74,415.48
+ORD-10862,2024-10-26,Taylor Brooks,Desk,Furniture,South,3,190.29,570.87
+ORD-10863,2024-10-24,Hayden Cole,Mouse,Accessories,West,1,23.76,23.76
+ORD-10864,2024-03-21,Hayden Cole,Desk,Furniture,East,2,205.41,410.82
+ORD-10865,2024-01-31,Parker Kim,Desk Lamp,Office Supplies,West,1,34.42,34.42
+ORD-10866,2024-09-06,Avery Chen,Notebook Pack,Office Supplies,North,2,13.37,26.74
+ORD-10867,2024-08-12,Riley Quinn,Notebook Pack,Office Supplies,East,3,13.36,40.08
+ORD-10868,2024-05-08,Jordan Lee,Chair,Furniture,South,2,147.86,295.72
+ORD-10869,2024-12-22,Hayden Cole,Printer,Office Supplies,West,5,130.76,653.8
+ORD-10870,2024-06-14,Skyler Adams,Desk Lamp,Office Supplies,North,3,33.89,101.67
+ORD-10871,2024-03-23,Sam Patel,Desk Lamp,Office Supplies,West,5,36.44,182.2
+ORD-10872,2024-10-04,Parker Kim,Printer,Office Supplies,South,3,127.33,381.99
+ORD-10873,2024-07-13,Morgan Ellis,Laptop,Electronics,East,5,924.82,4624.1
+ORD-10874,2024-05-02,Drew Santos,Desk Lamp,Office Supplies,East,5,36.24,181.2
+ORD-10875,2024-09-25,Hayden Cole,Notebook Pack,Office Supplies,West,2,13.4,26.8
+ORD-10876,2024-11-24,Drew Santos,Desk Lamp,Office Supplies,East,4,34.23,136.92
+ORD-10877,2024-01-23,Casey Nguyen,Monitor,Electronics,West,1,250.57,250.57
+ORD-10878,2024-04-08,Taylor Brooks,Laptop,Electronics,East,4,873.18,3492.72
+ORD-10879,2024-12-02,Hayden Cole,Desk Lamp,Office Supplies,North,4,35.49,141.96
+ORD-10880,2024-02-06,Alex Rivera,Laptop,Electronics,West,5,887.96,4439.8
+ORD-10881,2024-08-27,Jordan Lee,Printer,Office Supplies,North,1,135.56,135.56
+ORD-10882,2024-07-07,Jordan Lee,Notebook Pack,Office Supplies,North,4,13.31,53.24
+ORD-10883,2024-06-04,Sam Patel,Notebook Pack,Office Supplies,West,1,12.39,12.39
+ORD-10884,2024-09-29,Reese Morgan,Notebook Pack,Office Supplies,West,2,12.47,24.94
+ORD-10885,2024-10-18,Morgan Ellis,Mouse,Accessories,South,2,25.06,50.12
+ORD-10886,2024-07-02,Skyler Adams,Monitor,Electronics,South,5,256.65,1283.25
+ORD-10887,2024-10-08,Reese Morgan,Monitor,Electronics,North,2,241.66,483.32
+ORD-10888,2024-08-14,Parker Kim,Keyboard,Accessories,North,5,50.16,250.8
+ORD-10889,2024-07-09,Quinn Harper,Notebook Pack,Office Supplies,South,3,13.63,40.89
+ORD-10890,2024-10-06,Riley Quinn,Desk,Furniture,South,5,202.16,1010.8
+ORD-10891,2024-07-03,Skyler Adams,Notebook Pack,Office Supplies,South,3,13.54,40.62
+ORD-10892,2024-05-25,Blake Foster,Chair,Furniture,East,1,142.49,142.49
+ORD-10893,2024-01-04,Cameron Blake,Notebook Pack,Office Supplies,West,3,12.52,37.56
+ORD-10894,2024-12-19,Jamie Torres,Mouse,Accessories,West,1,25.88,25.88
+ORD-10895,2024-03-20,Casey Nguyen,Monitor,Electronics,North,3,238.43,715.29
+ORD-10896,2024-04-29,Jamie Torres,Desk,Furniture,North,2,207.78,415.56
+ORD-10897,2024-04-21,Sam Patel,Monitor,Electronics,North,5,251.75,1258.75
+ORD-10898,2024-02-18,Blake Foster,Printer,Office Supplies,North,5,125.74,628.7
+ORD-10899,2024-07-14,Sam Patel,Laptop,Electronics,East,5,920.76,4603.8
+ORD-10900,2024-08-01,Taylor Brooks,Desk,Furniture,West,4,196.95,787.8
+ORD-10901,2024-01-28,Cameron Blake,Desk Lamp,Office Supplies,East,4,36.49,145.96
+ORD-10902,2024-06-16,Emerson Walsh,Desk,Furniture,West,2,200.79,401.58
+ORD-10903,2024-08-16,Blake Foster,Keyboard,Accessories,East,4,47.74,190.96
+ORD-10904,2024-03-16,Casey Nguyen,Mouse,Accessories,North,4,24.82,99.28
+ORD-10905,2024-10-07,Reese Morgan,Monitor,Electronics,North,1,249.39,249.39
+ORD-10906,2024-12-23,Casey Nguyen,Monitor,Electronics,West,4,247.45,989.8
+ORD-10907,2024-07-21,Rowan Pierce,Printer,Office Supplies,West,4,130.76,523.04
+ORD-10908,2024-05-06,Avery Chen,Notebook Pack,Office Supplies,East,5,13.14,65.7
+ORD-10909,2024-12-16,Rowan Pierce,Headphones,Accessories,East,3,82.2,246.6
+ORD-10910,2024-07-06,Parker Kim,Monitor,Electronics,West,4,254.28,1017.12
+ORD-10911,2024-06-05,Morgan Ellis,Desk,Furniture,North,1,196.88,196.88
+ORD-10912,2024-11-15,Casey Nguyen,Desk Lamp,Office Supplies,South,4,36.12,144.48
+ORD-10913,2024-04-12,Parker Kim,Laptop,Electronics,West,2,938.17,1876.34
+ORD-10914,2024-05-04,Blake Foster,Monitor,Electronics,West,1,240.3,240.3
+ORD-10915,2024-06-05,Skyler Adams,Headphones,Accessories,South,1,76.1,76.1
+ORD-10916,2024-04-18,Riley Quinn,Laptop,Electronics,North,5,884.86,4424.3
+ORD-10917,2024-12-21,Alex Rivera,Notebook Pack,Office Supplies,South,2,12.97,25.94
+ORD-10918,2024-01-23,Jamie Torres,Desk Lamp,Office Supplies,West,5,36.41,182.05
+ORD-10919,2024-05-18,Jordan Lee,Laptop,Electronics,South,5,880.55,4402.75
+ORD-10920,2024-12-05,Parker Kim,Laptop,Electronics,East,3,860.98,2582.94
+ORD-10921,2024-04-28,Reese Morgan,Laptop,Electronics,East,4,881.31,3525.24
+ORD-10922,2024-09-29,Sam Patel,Desk,Furniture,West,5,199.68,998.4
+ORD-10923,2024-10-14,Alex Rivera,Mouse,Accessories,East,4,24.99,99.96
+ORD-10924,2024-06-19,Hayden Cole,Mouse,Accessories,South,3,26.05,78.15
+ORD-10925,2024-06-30,Cameron Blake,Keyboard,Accessories,West,3,47.58,142.74
+ORD-10926,2024-11-16,Jamie Torres,Notebook Pack,Office Supplies,South,1,12.7,12.7
+ORD-10927,2024-04-25,Casey Nguyen,Laptop,Electronics,North,3,939.96,2819.88
+ORD-10928,2024-07-14,Emerson Walsh,Chair,Furniture,West,1,152.34,152.34
+ORD-10929,2024-08-06,Cameron Blake,Chair,Furniture,North,2,146.1,292.2
+ORD-10930,2024-11-30,Casey Nguyen,Printer,Office Supplies,West,2,130.54,261.08
+ORD-10931,2024-03-10,Quinn Harper,Keyboard,Accessories,West,5,49.04,245.2
+ORD-10932,2024-02-04,Finley Grant,Desk Lamp,Office Supplies,East,3,36.45,109.35
+ORD-10933,2024-01-16,Drew Santos,Keyboard,Accessories,South,2,49.08,98.16
+ORD-10934,2024-03-18,Riley Quinn,Chair,Furniture,East,3,147.04,441.12
+ORD-10935,2024-11-11,Jamie Torres,Keyboard,Accessories,West,5,48.41,242.05
+ORD-10936,2024-07-02,Sam Patel,Desk Lamp,Office Supplies,South,1,34.05,34.05
+ORD-10937,2024-08-28,Parker Kim,Keyboard,Accessories,West,5,50.0,250.0
+ORD-10938,2024-03-24,Riley Quinn,Chair,Furniture,West,2,149.86,299.72
+ORD-10939,2024-05-18,Quinn Harper,Laptop,Electronics,West,1,891.76,891.76
+ORD-10940,2024-03-31,Skyler Adams,Mouse,Accessories,South,1,25.63,25.63
+ORD-10941,2024-08-06,Reese Morgan,Desk,Furniture,East,2,207.33,414.66
+ORD-10942,2024-06-09,Reese Morgan,Desk Lamp,Office Supplies,East,4,35.81,143.24
+ORD-10943,2024-01-22,Avery Chen,Notebook Pack,Office Supplies,South,4,12.48,49.92
+ORD-10944,2024-11-18,Jordan Lee,Laptop,Electronics,West,5,905.18,4525.9
+ORD-10945,2024-05-26,Skyler Adams,Headphones,Accessories,West,3,79.51,238.53
+ORD-10946,2024-12-19,Emerson Walsh,Chair,Furniture,West,1,146.91,146.91
+ORD-10947,2024-02-16,Emerson Walsh,Printer,Office Supplies,East,4,134.28,537.12
+ORD-10948,2024-03-10,Reese Morgan,Keyboard,Accessories,South,5,51.38,256.9
+ORD-10949,2024-08-20,Rowan Pierce,Desk,Furniture,West,2,199.01,398.02
+ORD-10950,2024-12-20,Morgan Ellis,Printer,Office Supplies,East,3,124.66,373.98
+ORD-10951,2024-11-20,Parker Kim,Monitor,Electronics,East,4,240.34,961.36
+ORD-10952,2024-11-09,Morgan Ellis,Notebook Pack,Office Supplies,South,5,13.26,66.3
+ORD-10953,2024-06-20,Rowan Pierce,Notebook Pack,Office Supplies,West,2,12.83,25.66
+ORD-10954,2024-12-30,Jordan Lee,Keyboard,Accessories,South,2,51.83,103.66
+ORD-10955,2024-05-27,Morgan Ellis,Headphones,Accessories,East,4,78.47,313.88
+ORD-10956,2024-11-14,Jamie Torres,Keyboard,Accessories,East,1,52.29,52.29
+ORD-10957,2024-10-05,Alex Rivera,Printer,Office Supplies,South,4,129.96,519.84
+ORD-10958,2024-08-20,Quinn Harper,Mouse,Accessories,South,4,24.28,97.12
+ORD-10959,2024-05-05,Finley Grant,Monitor,Electronics,North,1,252.52,252.52
+ORD-10960,2024-01-26,Morgan Ellis,Desk Lamp,Office Supplies,West,2,35.44,70.88
+ORD-10961,2024-03-15,Jordan Lee,Laptop,Electronics,North,1,913.78,913.78
+ORD-10962,2024-02-25,Quinn Harper,Desk,Furniture,West,1,208.4,208.4
+ORD-10963,2024-12-04,Blake Foster,Keyboard,Accessories,West,5,50.85,254.25
+ORD-10964,2024-01-19,Sam Patel,Printer,Office Supplies,North,3,133.23,399.69
+ORD-10965,2024-02-04,Quinn Harper,Desk,Furniture,East,4,197.36,789.44
+ORD-10966,2024-12-21,Jamie Torres,Headphones,Accessories,North,1,79.76,79.76
+ORD-10967,2024-12-22,Riley Quinn,Notebook Pack,Office Supplies,East,2,12.88,25.76
+ORD-10968,2024-02-14,Hayden Cole,Monitor,Electronics,North,5,251.77,1258.85
+ORD-10969,2024-05-12,Emerson Walsh,Chair,Furniture,North,3,151.62,454.86
+ORD-10970,2024-09-23,Hayden Cole,Keyboard,Accessories,South,4,50.56,202.24
+ORD-10971,2024-12-28,Cameron Blake,Keyboard,Accessories,West,2,51.91,103.82
+ORD-10972,2024-11-16,Taylor Brooks,Laptop,Electronics,West,4,865.63,3462.52
+ORD-10973,2024-01-24,Drew Santos,Desk Lamp,Office Supplies,North,4,36.74,146.96
+ORD-10974,2024-01-06,Riley Quinn,Notebook Pack,Office Supplies,North,2,13.39,26.78
+ORD-10975,2024-06-02,Emerson Walsh,Headphones,Accessories,North,3,82.31,246.93
+ORD-10976,2024-06-23,Reese Morgan,Laptop,Electronics,East,3,865.24,2595.72
+ORD-10977,2024-12-10,Hayden Cole,Keyboard,Accessories,South,3,48.46,145.38
+ORD-10978,2024-03-20,Skyler Adams,Laptop,Electronics,North,4,913.1,3652.4
+ORD-10979,2024-01-29,Emerson Walsh,Printer,Office Supplies,North,4,133.68,534.72
+ORD-10980,2024-10-11,Finley Grant,Desk Lamp,Office Supplies,East,3,35.78,107.34
+ORD-10981,2024-06-30,Sam Patel,Mouse,Accessories,West,3,25.18,75.54
+ORD-10982,2024-07-11,Finley Grant,Headphones,Accessories,West,3,82.72,248.16
+ORD-10983,2024-10-31,Taylor Brooks,Desk Lamp,Office Supplies,North,2,35.36,70.72
+ORD-10984,2024-07-30,Sam Patel,Desk,Furniture,South,3,204.19,612.57
+ORD-10985,2024-04-20,Emerson Walsh,Mouse,Accessories,North,3,24.67,74.01
+ORD-10986,2024-04-13,Sam Patel,Keyboard,Accessories,South,1,48.05,48.05
+ORD-10987,2024-09-13,Casey Nguyen,Notebook Pack,Office Supplies,West,4,12.37,49.48
+ORD-10988,2024-06-07,Drew Santos,Desk,Furniture,West,5,208.46,1042.3
+ORD-10989,2024-12-12,Casey Nguyen,Monitor,Electronics,West,5,258.04,1290.2
+ORD-10990,2024-02-29,Alex Rivera,Laptop,Electronics,North,5,896.33,4481.65
+ORD-10991,2024-02-14,Drew Santos,Laptop,Electronics,South,5,916.82,4584.1
+ORD-10992,2024-01-12,Rowan Pierce,Laptop,Electronics,North,3,864.27,2592.81
+ORD-10993,2024-05-26,Jamie Torres,Mouse,Accessories,North,2,24.54,49.08
+ORD-10994,2024-03-17,Morgan Ellis,Printer,Office Supplies,North,3,132.21,396.63
+ORD-10995,2024-10-13,Emerson Walsh,Monitor,Electronics,East,5,237.87,1189.35
+ORD-10996,2024-06-12,Jamie Torres,Mouse,Accessories,West,5,25.1,125.5
+ORD-10997,2024-02-06,Cameron Blake,Headphones,Accessories,North,2,80.58,161.16
+ORD-10998,2024-01-15,Hayden Cole,Notebook Pack,Office Supplies,East,2,12.92,25.84
+ORD-10999,2024-08-06,Reese Morgan,Monitor,Electronics,West,1,247.08,247.08
+ORD-11000,2024-11-11,Parker Kim,Desk Lamp,Office Supplies,North,4,36.36,145.44
+ORD-11001,2024-02-10,Skyler Adams,Desk,Furniture,West,5,206.34,1031.7
+ORD-11002,2024-02-19,Skyler Adams,Monitor,Electronics,North,4,257.81,1031.24
+ORD-11003,2024-03-14,Blake Foster,Printer,Office Supplies,North,2,129.61,259.22
+ORD-11004,2024-06-15,Skyler Adams,Desk,Furniture,South,3,197.83,593.49
+ORD-11005,2024-06-28,Hayden Cole,Laptop,Electronics,South,1,860.87,860.87
+ORD-11006,2024-11-05,Rowan Pierce,Keyboard,Accessories,West,3,48.9,146.7
+ORD-11007,2024-06-15,Finley Grant,Notebook Pack,Office Supplies,East,1,12.47,12.47
+ORD-11008,2024-10-29,Quinn Harper,Headphones,Accessories,West,4,80.25,321.0
+ORD-11009,2024-09-03,Reese Morgan,Desk Lamp,Office Supplies,East,2,34.09,68.18
+ORD-11010,2024-08-08,Quinn Harper,Desk,Furniture,North,5,194.16,970.8
+ORD-11011,2024-12-05,Sam Patel,Notebook Pack,Office Supplies,South,2,13.24,26.48
+ORD-11012,2024-06-15,Finley Grant,Monitor,Electronics,East,4,252.29,1009.16
+ORD-11013,2024-02-05,Blake Foster,Printer,Office Supplies,East,4,125.78,503.12
+ORD-11014,2024-06-16,Hayden Cole,Desk Lamp,Office Supplies,East,4,35.94,143.76
+ORD-11015,2024-10-24,Alex Rivera,Monitor,Electronics,West,2,242.93,485.86
+ORD-11016,2024-07-18,Blake Foster,Keyboard,Accessories,South,3,49.75,149.25
+ORD-11017,2024-06-02,Rowan Pierce,Mouse,Accessories,North,3,24.25,72.75
+ORD-11018,2024-02-15,Rowan Pierce,Chair,Furniture,East,3,153.26,459.78
+ORD-11019,2024-03-06,Cameron Blake,Desk Lamp,Office Supplies,East,4,36.69,146.76
+ORD-11020,2024-01-01,Finley Grant,Desk,Furniture,North,1,208.01,208.01
+ORD-11021,2024-04-30,Quinn Harper,Monitor,Electronics,South,1,259.02,259.02
+ORD-11022,2024-07-14,Quinn Harper,Desk,Furniture,West,4,204.23,816.92
+ORD-11023,2024-10-11,Reese Morgan,Keyboard,Accessories,North,2,49.86,99.72
+ORD-11024,2024-03-09,Alex Rivera,Chair,Furniture,East,2,144.8,289.6
+ORD-11025,2024-12-02,Quinn Harper,Laptop,Electronics,West,4,867.95,3471.8
+ORD-11026,2024-08-21,Blake Foster,Monitor,Electronics,South,4,240.92,963.68
+ORD-11027,2024-08-05,Finley Grant,Desk Lamp,Office Supplies,South,5,33.87,169.35
+ORD-11028,2024-08-05,Blake Foster,Chair,Furniture,East,2,147.82,295.64
+ORD-11029,2024-12-30,Emerson Walsh,Desk Lamp,Office Supplies,North,2,34.98,69.96
+ORD-11030,2024-07-06,Jordan Lee,Chair,Furniture,East,5,156.39,781.95
+ORD-11031,2024-02-27,Rowan Pierce,Desk Lamp,Office Supplies,South,3,34.93,104.79
+ORD-11032,2024-05-23,Skyler Adams,Monitor,Electronics,East,5,241.04,1205.2
+ORD-11033,2024-05-05,Hayden Cole,Notebook Pack,Office Supplies,East,1,13.5,13.5
+ORD-11034,2024-11-09,Jordan Lee,Notebook Pack,Office Supplies,North,3,13.38,40.14
+ORD-11035,2024-08-20,Emerson Walsh,Notebook Pack,Office Supplies,South,4,13.35,53.4
+ORD-11036,2024-06-29,Cameron Blake,Desk Lamp,Office Supplies,North,4,35.81,143.24
+ORD-11037,2024-06-04,Rowan Pierce,Keyboard,Accessories,North,5,47.67,238.35
+ORD-11038,2024-03-27,Rowan Pierce,Laptop,Electronics,East,5,911.63,4558.15
+ORD-11039,2024-01-14,Cameron Blake,Headphones,Accessories,South,5,82.46,412.3
+ORD-11040,2024-05-22,Jamie Torres,Monitor,Electronics,West,1,240.66,240.66
+ORD-11041,2024-01-08,Taylor Brooks,Desk Lamp,Office Supplies,West,3,34.22,102.66
+ORD-11042,2024-07-08,Morgan Ellis,Desk Lamp,Office Supplies,North,4,35.83,143.32
+ORD-11043,2024-01-17,Drew Santos,Mouse,Accessories,East,5,24.95,124.75
+ORD-11044,2024-09-10,Quinn Harper,Keyboard,Accessories,South,2,50.47,100.94
+ORD-11045,2024-04-17,Rowan Pierce,Mouse,Accessories,North,2,25.39,50.78
+ORD-11046,2024-01-27,Morgan Ellis,Laptop,Electronics,South,1,912.79,912.79
+ORD-11047,2024-09-29,Avery Chen,Chair,Furniture,South,4,149.63,598.52
+ORD-11048,2024-09-28,Quinn Harper,Chair,Furniture,East,2,149.61,299.22
+ORD-11049,2024-07-14,Drew Santos,Headphones,Accessories,East,4,83.41,333.64
+ORD-11050,2024-08-09,Blake Foster,Monitor,Electronics,North,3,260.43,781.29
+ORD-11051,2024-05-10,Rowan Pierce,Desk,Furniture,South,1,195.4,195.4
+ORD-11052,2024-12-10,Rowan Pierce,Printer,Office Supplies,West,2,133.54,267.08
+ORD-11053,2024-06-09,Finley Grant,Notebook Pack,Office Supplies,East,2,12.78,25.56
+ORD-11054,2024-07-29,Taylor Brooks,Laptop,Electronics,East,1,929.84,929.84
+ORD-11055,2024-05-08,Riley Quinn,Printer,Office Supplies,East,3,128.06,384.18
+ORD-11056,2024-10-31,Riley Quinn,Laptop,Electronics,East,1,910.74,910.74
+ORD-11057,2024-03-07,Reese Morgan,Monitor,Electronics,West,5,239.65,1198.25
+ORD-11058,2024-05-30,Skyler Adams,Monitor,Electronics,East,3,254.88,764.64
+ORD-11059,2024-08-06,Drew Santos,Printer,Office Supplies,North,3,135.48,406.44
+ORD-11060,2024-02-01,Reese Morgan,Keyboard,Accessories,South,3,51.39,154.17
+ORD-11061,2024-05-15,Morgan Ellis,Desk,Furniture,South,3,209.91,629.73
+ORD-11062,2024-11-08,Reese Morgan,Monitor,Electronics,West,2,249.78,499.56
+ORD-11063,2024-08-08,Riley Quinn,Printer,Office Supplies,East,5,124.9,624.5
+ORD-11064,2024-01-18,Sam Patel,Printer,Office Supplies,East,1,132.79,132.79
+ORD-11065,2024-01-10,Hayden Cole,Desk Lamp,Office Supplies,West,4,35.79,143.16
+ORD-11066,2024-05-16,Casey Nguyen,Laptop,Electronics,North,4,938.95,3755.8
+ORD-11067,2024-12-28,Hayden Cole,Chair,Furniture,South,5,151.11,755.55
+ORD-11068,2024-10-03,Avery Chen,Chair,Furniture,East,1,148.55,148.55
+ORD-11069,2024-03-03,Rowan Pierce,Chair,Furniture,North,4,156.8,627.2
+ORD-11070,2024-01-29,Sam Patel,Desk,Furniture,North,4,203.63,814.52
+ORD-11071,2024-02-11,Skyler Adams,Notebook Pack,Office Supplies,North,3,13.45,40.35
+ORD-11072,2024-07-15,Riley Quinn,Mouse,Accessories,North,1,24.18,24.18
+ORD-11073,2024-09-06,Sam Patel,Chair,Furniture,South,3,155.94,467.82
+ORD-11074,2024-01-13,Rowan Pierce,Mouse,Accessories,West,2,24.09,48.18
+ORD-11075,2024-11-25,Cameron Blake,Printer,Office Supplies,South,5,128.54,642.7
+ORD-11076,2024-01-09,Jordan Lee,Notebook Pack,Office Supplies,North,4,13.59,54.36
+ORD-11077,2024-07-26,Taylor Brooks,Laptop,Electronics,West,1,885.38,885.38
+ORD-11078,2024-03-17,Rowan Pierce,Notebook Pack,Office Supplies,West,5,12.94,64.7
+ORD-11079,2024-09-07,Alex Rivera,Monitor,Electronics,South,2,238.41,476.82
+ORD-11080,2024-01-08,Morgan Ellis,Desk Lamp,Office Supplies,East,2,33.4,66.8
+ORD-11081,2024-08-21,Blake Foster,Headphones,Accessories,West,1,82.56,82.56
+ORD-11082,2024-02-28,Hayden Cole,Desk Lamp,Office Supplies,West,1,33.46,33.46
+ORD-11083,2024-06-21,Reese Morgan,Monitor,Electronics,North,4,257.6,1030.4
+ORD-11084,2024-10-06,Casey Nguyen,Monitor,Electronics,North,5,261.89,1309.45
+ORD-11085,2024-03-29,Drew Santos,Mouse,Accessories,East,5,25.65,128.25
+ORD-11086,2024-03-27,Parker Kim,Monitor,Electronics,West,4,244.34,977.36
+ORD-11087,2024-01-21,Casey Nguyen,Printer,Office Supplies,East,5,126.66,633.3
+ORD-11088,2024-01-09,Hayden Cole,Desk Lamp,Office Supplies,East,2,34.56,69.12
+ORD-11089,2024-12-27,Rowan Pierce,Laptop,Electronics,North,1,855.64,855.64
+ORD-11090,2024-12-20,Casey Nguyen,Chair,Furniture,West,4,152.89,611.56
+ORD-11091,2024-08-18,Quinn Harper,Keyboard,Accessories,West,5,50.69,253.45
+ORD-11092,2024-11-01,Morgan Ellis,Keyboard,Accessories,South,1,50.54,50.54
+ORD-11093,2024-06-27,Quinn Harper,Desk Lamp,Office Supplies,East,3,36.57,109.71
+ORD-11094,2024-09-28,Taylor Brooks,Notebook Pack,Office Supplies,North,1,12.65,12.65
+ORD-11095,2024-11-16,Riley Quinn,Notebook Pack,Office Supplies,North,4,13.0,52.0
+ORD-11096,2024-12-16,Hayden Cole,Laptop,Electronics,South,2,872.43,1744.86
+ORD-11097,2024-01-28,Parker Kim,Keyboard,Accessories,North,1,48.29,48.29
+ORD-11098,2024-11-11,Skyler Adams,Mouse,Accessories,East,3,24.83,74.49
+ORD-11099,2024-03-31,Morgan Ellis,Monitor,Electronics,East,5,256.0,1280.0
+ORD-11100,2024-04-30,Skyler Adams,Printer,Office Supplies,North,1,130.18,130.18
+ORD-11101,2024-04-27,Taylor Brooks,Chair,Furniture,North,3,145.47,436.41
+ORD-11102,2024-04-12,Reese Morgan,Mouse,Accessories,West,4,23.99,95.96
+ORD-11103,2024-01-28,Quinn Harper,Monitor,Electronics,West,4,249.26,997.04
+ORD-11104,2024-04-01,Reese Morgan,Mouse,Accessories,North,4,26.06,104.24
+ORD-11105,2024-11-19,Parker Kim,Keyboard,Accessories,North,2,49.78,99.56
+ORD-11106,2024-12-20,Rowan Pierce,Mouse,Accessories,East,1,24.58,24.58
+ORD-11107,2024-08-22,Quinn Harper,Headphones,Accessories,West,4,77.08,308.32
+ORD-11108,2024-11-05,Morgan Ellis,Desk,Furniture,West,3,194.39,583.17
+ORD-11109,2024-02-14,Quinn Harper,Desk Lamp,Office Supplies,South,2,36.64,73.28
+ORD-11110,2024-05-22,Alex Rivera,Mouse,Accessories,South,4,25.22,100.88
+ORD-11111,2024-10-23,Avery Chen,Mouse,Accessories,West,4,24.36,97.44
+ORD-11112,2024-01-23,Jordan Lee,Desk Lamp,Office Supplies,South,4,36.38,145.52
+ORD-11113,2024-07-20,Hayden Cole,Notebook Pack,Office Supplies,East,5,12.38,61.9
+ORD-11114,2024-10-12,Alex Rivera,Printer,Office Supplies,South,1,129.93,129.93
+ORD-11115,2024-05-02,Sam Patel,Mouse,Accessories,East,3,24.07,72.21
+ORD-11116,2024-12-26,Skyler Adams,Printer,Office Supplies,East,2,132.19,264.38
+ORD-11117,2024-12-26,Reese Morgan,Printer,Office Supplies,West,2,129.52,259.04
+ORD-11118,2024-11-17,Sam Patel,Desk,Furniture,South,1,202.53,202.53
+ORD-11119,2024-08-06,Jamie Torres,Desk,Furniture,West,3,200.61,601.83
+ORD-11120,2024-01-29,Emerson Walsh,Monitor,Electronics,North,3,253.0,759.0
+ORD-11121,2024-08-26,Blake Foster,Laptop,Electronics,East,3,864.98,2594.94
+ORD-11122,2024-12-26,Sam Patel,Desk,Furniture,West,5,197.32,986.6
+ORD-11123,2024-10-03,Taylor Brooks,Keyboard,Accessories,South,2,52.4,104.8
+ORD-11124,2024-04-25,Drew Santos,Desk Lamp,Office Supplies,North,2,36.29,72.58
+ORD-11125,2024-05-21,Jordan Lee,Headphones,Accessories,East,4,80.02,320.08
+ORD-11126,2024-09-13,Emerson Walsh,Desk,Furniture,East,4,196.89,787.56
+ORD-11127,2024-05-29,Skyler Adams,Printer,Office Supplies,North,5,132.72,663.6
+ORD-11128,2024-02-14,Sam Patel,Monitor,Electronics,South,4,242.2,968.8
+ORD-11129,2024-02-25,Morgan Ellis,Keyboard,Accessories,North,1,48.93,48.93
+ORD-11130,2024-03-18,Riley Quinn,Monitor,Electronics,East,4,254.92,1019.68
+ORD-11131,2024-03-08,Hayden Cole,Headphones,Accessories,North,5,79.32,396.6
+ORD-11132,2024-05-29,Riley Quinn,Chair,Furniture,East,1,149.15,149.15
+ORD-11133,2024-09-23,Drew Santos,Laptop,Electronics,South,2,933.45,1866.9
+ORD-11134,2024-09-05,Rowan Pierce,Desk Lamp,Office Supplies,South,3,34.44,103.32
+ORD-11135,2024-06-05,Morgan Ellis,Printer,Office Supplies,North,2,127.44,254.88
+ORD-11136,2024-01-25,Casey Nguyen,Mouse,Accessories,North,3,24.95,74.85
+ORD-11137,2024-11-12,Morgan Ellis,Headphones,Accessories,North,2,79.64,159.28
+ORD-11138,2024-03-23,Avery Chen,Keyboard,Accessories,East,2,52.36,104.72
+ORD-11139,2024-03-05,Skyler Adams,Laptop,Electronics,North,5,944.43,4722.15
+ORD-11140,2024-12-28,Jordan Lee,Desk,Furniture,North,5,193.68,968.4
+ORD-11141,2024-10-03,Morgan Ellis,Desk,Furniture,North,4,192.95,771.8
+ORD-11142,2024-09-12,Casey Nguyen,Monitor,Electronics,South,4,260.5,1042.0
+ORD-11143,2024-09-16,Drew Santos,Desk,Furniture,North,5,193.11,965.55
+ORD-11144,2024-12-07,Casey Nguyen,Printer,Office Supplies,South,5,135.14,675.7
+ORD-11145,2024-01-21,Casey Nguyen,Desk,Furniture,East,4,203.77,815.08
+ORD-11146,2024-04-22,Skyler Adams,Headphones,Accessories,North,5,76.19,380.95
+ORD-11147,2024-11-24,Riley Quinn,Monitor,Electronics,West,5,245.65,1228.25
+ORD-11148,2024-10-02,Skyler Adams,Headphones,Accessories,East,1,77.56,77.56
+ORD-11149,2024-06-11,Blake Foster,Notebook Pack,Office Supplies,East,4,12.85,51.4
+ORD-11150,2024-07-08,Reese Morgan,Desk,Furniture,North,4,197.94,791.76
+ORD-11151,2024-06-06,Skyler Adams,Laptop,Electronics,East,3,880.61,2641.83
+ORD-11152,2024-07-31,Skyler Adams,Mouse,Accessories,North,4,25.56,102.24
+ORD-11153,2024-07-31,Casey Nguyen,Keyboard,Accessories,East,4,51.52,206.08
+ORD-11154,2024-09-25,Drew Santos,Keyboard,Accessories,East,4,48.53,194.12
+ORD-11155,2024-01-04,Quinn Harper,Desk Lamp,Office Supplies,North,1,35.89,35.89
+ORD-11156,2024-12-29,Rowan Pierce,Chair,Furniture,West,4,145.11,580.44
+ORD-11157,2024-05-28,Finley Grant,Mouse,Accessories,South,4,24.21,96.84
+ORD-11158,2024-10-26,Cameron Blake,Laptop,Electronics,South,3,929.04,2787.12
+ORD-11159,2024-01-14,Alex Rivera,Notebook Pack,Office Supplies,West,2,13.3,26.6
+ORD-11160,2024-03-04,Cameron Blake,Headphones,Accessories,South,4,78.39,313.56
+ORD-11161,2024-01-15,Taylor Brooks,Keyboard,Accessories,North,2,49.95,99.9
+ORD-11162,2024-11-02,Parker Kim,Printer,Office Supplies,South,1,136.42,136.42
+ORD-11163,2024-11-17,Hayden Cole,Desk Lamp,Office Supplies,East,3,34.77,104.31
+ORD-11164,2024-01-09,Jamie Torres,Desk,Furniture,West,5,200.24,1001.2
+ORD-11165,2024-08-24,Casey Nguyen,Desk Lamp,Office Supplies,North,3,33.45,100.35
+ORD-11166,2024-08-02,Parker Kim,Keyboard,Accessories,East,3,47.75,143.25
+ORD-11167,2024-09-20,Riley Quinn,Headphones,Accessories,West,1,78.32,78.32
+ORD-11168,2024-10-05,Drew Santos,Monitor,Electronics,North,2,252.46,504.92
+ORD-11169,2024-02-19,Finley Grant,Headphones,Accessories,North,3,78.16,234.48
+ORD-11170,2024-05-24,Parker Kim,Keyboard,Accessories,South,5,47.55,237.75
+ORD-11171,2024-02-22,Riley Quinn,Chair,Furniture,West,2,147.59,295.18
+ORD-11172,2024-10-13,Blake Foster,Notebook Pack,Office Supplies,East,2,12.63,25.26
+ORD-11173,2024-02-29,Casey Nguyen,Chair,Furniture,East,1,149.4,149.4
+ORD-11174,2024-03-12,Skyler Adams,Printer,Office Supplies,North,3,128.02,384.06
+ORD-11175,2024-03-01,Avery Chen,Keyboard,Accessories,West,1,51.04,51.04
+ORD-11176,2024-03-05,Riley Quinn,Keyboard,Accessories,West,3,50.93,152.79
+ORD-11177,2024-02-09,Alex Rivera,Monitor,Electronics,South,1,248.11,248.11
+ORD-11178,2024-01-17,Emerson Walsh,Chair,Furniture,East,1,143.13,143.13
+ORD-11179,2024-01-23,Sam Patel,Printer,Office Supplies,North,3,125.04,375.12
+ORD-11180,2024-11-04,Riley Quinn,Laptop,Electronics,West,1,922.9,922.9
+ORD-11181,2024-02-16,Casey Nguyen,Keyboard,Accessories,North,1,50.84,50.84
+ORD-11182,2024-09-13,Blake Foster,Desk Lamp,Office Supplies,West,2,34.46,68.92
+ORD-11183,2024-10-23,Alex Rivera,Notebook Pack,Office Supplies,West,1,13.08,13.08
+ORD-11184,2024-10-02,Alex Rivera,Mouse,Accessories,East,2,26.15,52.3
+ORD-11185,2024-07-06,Rowan Pierce,Mouse,Accessories,West,4,26.04,104.16
+ORD-11186,2024-04-02,Parker Kim,Printer,Office Supplies,South,1,132.25,132.25
+ORD-11187,2024-07-27,Taylor Brooks,Chair,Furniture,North,2,145.7,291.4
+ORD-11188,2024-03-10,Hayden Cole,Monitor,Electronics,North,5,249.14,1245.7
+ORD-11189,2024-02-12,Drew Santos,Headphones,Accessories,South,1,80.45,80.45
+ORD-11190,2024-11-03,Cameron Blake,Monitor,Electronics,South,4,247.11,988.44
+ORD-11191,2024-08-07,Riley Quinn,Mouse,Accessories,East,3,25.12,75.36
+ORD-11192,2024-04-01,Alex Rivera,Printer,Office Supplies,South,3,135.7,407.1
+ORD-11193,2024-12-03,Sam Patel,Monitor,Electronics,East,5,247.4,1237.0
+ORD-11194,2024-02-22,Morgan Ellis,Keyboard,Accessories,East,5,49.46,247.3
+ORD-11195,2024-04-12,Blake Foster,Desk,Furniture,South,3,209.49,628.47
+ORD-11196,2024-09-12,Jamie Torres,Monitor,Electronics,North,4,243.31,973.24
+ORD-11197,2024-07-26,Hayden Cole,Chair,Furniture,North,5,147.83,739.15
+ORD-11198,2024-03-03,Jamie Torres,Keyboard,Accessories,South,1,51.33,51.33
+ORD-11199,2024-01-16,Taylor Brooks,Printer,Office Supplies,East,2,126.49,252.98
+ORD-11200,2024-04-01,Reese Morgan,Monitor,Electronics,North,1,249.94,249.94
+ORD-11201,2024-02-19,Sam Patel,Keyboard,Accessories,South,5,49.0,245.0
+ORD-11202,2024-09-08,Emerson Walsh,Printer,Office Supplies,North,4,126.12,504.48
+ORD-11203,2024-10-06,Alex Rivera,Notebook Pack,Office Supplies,East,5,12.79,63.95
+ORD-11204,2024-07-15,Skyler Adams,Chair,Furniture,North,1,155.69,155.69
+ORD-11205,2024-01-17,Morgan Ellis,Chair,Furniture,North,1,149.13,149.13
+ORD-11206,2024-06-08,Reese Morgan,Keyboard,Accessories,South,2,49.95,99.9
+ORD-11207,2024-12-03,Finley Grant,Monitor,Electronics,South,4,251.71,1006.84
+ORD-11208,2024-09-16,Jordan Lee,Printer,Office Supplies,South,2,130.8,261.6
+ORD-11209,2024-11-11,Parker Kim,Headphones,Accessories,North,4,79.95,319.8
+ORD-11210,2024-01-24,Casey Nguyen,Desk,Furniture,North,5,191.22,956.1
+ORD-11211,2024-01-14,Drew Santos,Desk,Furniture,South,5,206.18,1030.9
+ORD-11212,2024-07-29,Parker Kim,Monitor,Electronics,East,3,248.19,744.57
+ORD-11213,2024-10-30,Sam Patel,Mouse,Accessories,East,3,24.36,73.08
+ORD-11214,2024-01-11,Finley Grant,Headphones,Accessories,North,2,76.91,153.82
+ORD-11215,2024-10-17,Emerson Walsh,Laptop,Electronics,South,4,896.47,3585.88
+ORD-11216,2024-10-28,Alex Rivera,Headphones,Accessories,North,4,76.15,304.6
+ORD-11217,2024-10-20,Taylor Brooks,Chair,Furniture,South,3,151.05,453.15
+ORD-11218,2024-06-21,Hayden Cole,Monitor,Electronics,North,2,254.76,509.52
+ORD-11219,2024-08-11,Riley Quinn,Keyboard,Accessories,South,3,50.56,151.68
+ORD-11220,2024-04-19,Cameron Blake,Monitor,Electronics,North,5,258.5,1292.5
+ORD-11221,2024-07-24,Avery Chen,Laptop,Electronics,East,5,881.75,4408.75
+ORD-11222,2024-05-19,Sam Patel,Desk Lamp,Office Supplies,South,3,33.57,100.71
+ORD-11223,2024-11-29,Cameron Blake,Chair,Furniture,North,1,145.64,145.64
+ORD-11224,2024-04-12,Quinn Harper,Chair,Furniture,South,3,152.44,457.32
+ORD-11225,2024-12-09,Finley Grant,Headphones,Accessories,West,4,80.99,323.96
+ORD-11226,2024-04-05,Rowan Pierce,Laptop,Electronics,South,5,911.5,4557.5
+ORD-11227,2024-05-17,Finley Grant,Mouse,Accessories,South,4,25.39,101.56
+ORD-11228,2024-09-24,Riley Quinn,Desk Lamp,Office Supplies,North,1,35.78,35.78
+ORD-11229,2024-12-16,Cameron Blake,Printer,Office Supplies,South,2,125.41,250.82
+ORD-11230,2024-11-20,Riley Quinn,Chair,Furniture,South,1,147.27,147.27
+ORD-11231,2024-05-11,Blake Foster,Headphones,Accessories,West,2,82.58,165.16
+ORD-11232,2024-04-08,Alex Rivera,Chair,Furniture,West,2,146.07,292.14
+ORD-11233,2024-08-11,Quinn Harper,Headphones,Accessories,East,5,79.7,398.5
+ORD-11234,2024-01-15,Jamie Torres,Mouse,Accessories,North,2,24.14,48.28
+ORD-11235,2024-09-05,Alex Rivera,Notebook Pack,Office Supplies,East,1,12.57,12.57
+ORD-11236,2024-02-02,Quinn Harper,Monitor,Electronics,North,3,245.34,736.02
+ORD-11237,2024-04-30,Taylor Brooks,Monitor,Electronics,East,2,247.41,494.82
+ORD-11238,2024-09-25,Jamie Torres,Notebook Pack,Office Supplies,South,5,13.2,66.0
+ORD-11239,2024-06-09,Drew Santos,Monitor,Electronics,South,1,243.44,243.44
+ORD-11240,2024-03-14,Taylor Brooks,Mouse,Accessories,West,2,26.08,52.16
+ORD-11241,2024-07-28,Jamie Torres,Mouse,Accessories,East,4,26.16,104.64
+ORD-11242,2024-06-11,Finley Grant,Printer,Office Supplies,South,1,130.43,130.43
+ORD-11243,2024-03-15,Parker Kim,Printer,Office Supplies,South,3,132.37,397.11
+ORD-11244,2024-11-26,Blake Foster,Desk,Furniture,East,1,206.42,206.42
+ORD-11245,2024-05-09,Finley Grant,Laptop,Electronics,South,2,917.15,1834.3
+ORD-11246,2024-12-16,Taylor Brooks,Headphones,Accessories,West,3,81.1,243.3
+ORD-11247,2024-05-10,Cameron Blake,Printer,Office Supplies,East,4,128.54,514.16
+ORD-11248,2024-08-12,Drew Santos,Mouse,Accessories,South,2,24.48,48.96
+ORD-11249,2024-09-08,Hayden Cole,Laptop,Electronics,South,1,879.65,879.65
+ORD-11250,2024-03-23,Jamie Torres,Desk,Furniture,East,1,204.34,204.34
+ORD-11251,2024-06-16,Skyler Adams,Desk,Furniture,East,5,198.41,992.05
+ORD-11252,2024-11-18,Skyler Adams,Laptop,Electronics,West,2,912.71,1825.42
+ORD-11253,2024-06-09,Rowan Pierce,Laptop,Electronics,East,3,891.05,2673.15
+ORD-11254,2024-11-28,Casey Nguyen,Monitor,Electronics,South,5,241.44,1207.2
+ORD-11255,2024-05-13,Morgan Ellis,Desk,Furniture,North,2,199.02,398.04
+ORD-11256,2024-07-07,Morgan Ellis,Headphones,Accessories,South,4,77.58,310.32
+ORD-11257,2024-04-24,Alex Rivera,Chair,Furniture,East,5,156.66,783.3
+ORD-11258,2024-02-15,Skyler Adams,Notebook Pack,Office Supplies,West,2,13.18,26.36
+ORD-11259,2024-01-26,Reese Morgan,Headphones,Accessories,South,2,81.6,163.2
+ORD-11260,2024-07-07,Morgan Ellis,Desk Lamp,Office Supplies,East,1,34.15,34.15
+ORD-11261,2024-08-20,Hayden Cole,Laptop,Electronics,East,4,919.66,3678.64
+ORD-11262,2024-05-16,Cameron Blake,Mouse,Accessories,South,2,25.52,51.04
+ORD-11263,2024-11-03,Riley Quinn,Chair,Furniture,North,2,144.44,288.88
+ORD-11264,2024-03-15,Alex Rivera,Mouse,Accessories,North,4,24.79,99.16
+ORD-11265,2024-05-07,Parker Kim,Headphones,Accessories,South,4,77.87,311.48
+ORD-11266,2024-06-14,Reese Morgan,Monitor,Electronics,West,2,237.75,475.5
+ORD-11267,2024-05-11,Sam Patel,Chair,Furniture,East,5,153.12,765.6
+ORD-11268,2024-04-30,Hayden Cole,Notebook Pack,Office Supplies,North,3,12.42,37.26
+ORD-11269,2024-12-29,Jordan Lee,Desk Lamp,Office Supplies,East,5,36.53,182.65
+ORD-11270,2024-06-03,Reese Morgan,Headphones,Accessories,North,4,80.03,320.12
+ORD-11271,2024-01-22,Rowan Pierce,Keyboard,Accessories,West,5,52.33,261.65
+ORD-11272,2024-06-22,Skyler Adams,Headphones,Accessories,West,4,77.35,309.4
+ORD-11273,2024-08-09,Casey Nguyen,Monitor,Electronics,North,5,245.42,1227.1
+ORD-11274,2024-09-12,Jamie Torres,Monitor,Electronics,North,2,245.32,490.64
+ORD-11275,2024-11-09,Jamie Torres,Chair,Furniture,North,3,146.73,440.19
+ORD-11276,2024-09-08,Casey Nguyen,Chair,Furniture,South,3,155.88,467.64
+ORD-11277,2024-04-27,Morgan Ellis,Laptop,Electronics,East,1,871.99,871.99
+ORD-11278,2024-08-11,Taylor Brooks,Printer,Office Supplies,South,4,126.87,507.48
+ORD-11279,2024-09-05,Skyler Adams,Laptop,Electronics,South,5,894.73,4473.65
+ORD-11280,2024-03-04,Parker Kim,Monitor,Electronics,East,2,258.64,517.28
+ORD-11281,2024-03-27,Emerson Walsh,Mouse,Accessories,North,2,25.91,51.82
+ORD-11282,2024-04-18,Rowan Pierce,Desk Lamp,Office Supplies,East,5,36.36,181.8
+ORD-11283,2024-08-01,Sam Patel,Notebook Pack,Office Supplies,West,2,13.34,26.68
+ORD-11284,2024-01-14,Cameron Blake,Printer,Office Supplies,East,3,132.29,396.87
+ORD-11285,2024-06-14,Casey Nguyen,Chair,Furniture,East,1,148.09,148.09
+ORD-11286,2024-08-20,Jamie Torres,Monitor,Electronics,East,4,249.0,996.0
+ORD-11287,2024-08-19,Drew Santos,Desk,Furniture,West,5,209.38,1046.9
+ORD-11288,2024-06-14,Jordan Lee,Mouse,Accessories,East,3,25.9,77.7
+ORD-11289,2024-02-17,Reese Morgan,Notebook Pack,Office Supplies,North,4,13.58,54.32
+ORD-11290,2024-02-15,Alex Rivera,Keyboard,Accessories,West,4,48.69,194.76
+ORD-11291,2024-05-25,Casey Nguyen,Keyboard,Accessories,East,4,49.43,197.72
+ORD-11292,2024-06-07,Blake Foster,Headphones,Accessories,West,4,79.92,319.68
+ORD-11293,2024-09-19,Riley Quinn,Desk,Furniture,South,3,203.3,609.9
+ORD-11294,2024-05-17,Rowan Pierce,Printer,Office Supplies,South,4,135.0,540.0
+ORD-11295,2024-11-10,Morgan Ellis,Monitor,Electronics,South,3,256.4,769.2
+ORD-11296,2024-06-23,Skyler Adams,Chair,Furniture,West,5,143.88,719.4
+ORD-11297,2024-11-18,Emerson Walsh,Keyboard,Accessories,East,5,52.14,260.7
+ORD-11298,2024-09-01,Cameron Blake,Headphones,Accessories,West,1,79.74,79.74
+ORD-11299,2024-05-07,Emerson Walsh,Keyboard,Accessories,South,3,50.91,152.73
+ORD-11300,2024-02-09,Jordan Lee,Headphones,Accessories,East,5,80.54,402.7
+ORD-11301,2024-08-25,Rowan Pierce,Notebook Pack,Office Supplies,North,1,12.89,12.89
+ORD-11302,2024-09-14,Alex Rivera,Desk,Furniture,East,1,195.09,195.09
+ORD-11303,2024-07-20,Jordan Lee,Printer,Office Supplies,East,2,125.82,251.64
+ORD-11304,2024-06-09,Rowan Pierce,Chair,Furniture,South,3,155.64,466.92
+ORD-11305,2024-06-23,Morgan Ellis,Printer,Office Supplies,West,3,131.6,394.8
+ORD-11306,2024-05-12,Taylor Brooks,Keyboard,Accessories,South,5,47.88,239.4
+ORD-11307,2024-02-29,Alex Rivera,Notebook Pack,Office Supplies,West,4,12.36,49.44
+ORD-11308,2024-12-02,Blake Foster,Printer,Office Supplies,South,4,129.47,517.88
+ORD-11309,2024-07-03,Reese Morgan,Headphones,Accessories,North,5,80.94,404.7
+ORD-11310,2024-04-07,Taylor Brooks,Monitor,Electronics,East,1,240.62,240.62
+ORD-11311,2024-09-03,Casey Nguyen,Mouse,Accessories,West,2,25.89,51.78
+ORD-11312,2024-04-07,Sam Patel,Chair,Furniture,North,5,155.12,775.6
+ORD-11313,2024-01-12,Taylor Brooks,Printer,Office Supplies,West,4,125.42,501.68
+ORD-11314,2024-09-05,Hayden Cole,Keyboard,Accessories,East,4,51.18,204.72
+ORD-11315,2024-05-30,Rowan Pierce,Printer,Office Supplies,South,2,131.1,262.2
+ORD-11316,2024-11-18,Quinn Harper,Laptop,Electronics,South,1,885.04,885.04
+ORD-11317,2024-10-10,Cameron Blake,Printer,Office Supplies,East,5,133.07,665.35
+ORD-11318,2024-10-29,Blake Foster,Printer,Office Supplies,South,5,128.69,643.45
+ORD-11319,2024-01-10,Quinn Harper,Mouse,Accessories,North,5,25.53,127.65
+ORD-11320,2024-08-30,Taylor Brooks,Notebook Pack,Office Supplies,South,4,12.42,49.68
+ORD-11321,2024-08-17,Quinn Harper,Desk Lamp,Office Supplies,East,3,36.53,109.59
+ORD-11322,2024-08-28,Parker Kim,Keyboard,Accessories,South,2,48.93,97.86
+ORD-11323,2024-12-16,Drew Santos,Mouse,Accessories,South,5,25.01,125.05
+ORD-11324,2024-08-01,Parker Kim,Keyboard,Accessories,South,4,51.91,207.64
+ORD-11325,2024-12-19,Sam Patel,Keyboard,Accessories,South,3,50.6,151.8
+ORD-11326,2024-11-06,Hayden Cole,Keyboard,Accessories,East,2,48.36,96.72
+ORD-11327,2024-06-04,Avery Chen,Chair,Furniture,West,4,156.64,626.56
+ORD-11328,2024-07-02,Jamie Torres,Notebook Pack,Office Supplies,North,1,12.4,12.4
+ORD-11329,2024-01-17,Sam Patel,Keyboard,Accessories,North,5,48.36,241.8
+ORD-11330,2024-03-02,Finley Grant,Chair,Furniture,West,2,144.2,288.4
+ORD-11331,2024-06-30,Jordan Lee,Printer,Office Supplies,North,3,126.84,380.52
+ORD-11332,2024-11-05,Taylor Brooks,Keyboard,Accessories,East,5,51.76,258.8
+ORD-11333,2024-02-24,Blake Foster,Printer,Office Supplies,East,1,133.88,133.88
+ORD-11334,2024-03-26,Taylor Brooks,Notebook Pack,Office Supplies,West,1,12.4,12.4
+ORD-11335,2024-12-28,Skyler Adams,Desk,Furniture,South,3,193.13,579.39
+ORD-11336,2024-06-20,Casey Nguyen,Monitor,Electronics,East,3,241.35,724.05
+ORD-11337,2024-01-04,Avery Chen,Mouse,Accessories,South,4,24.84,99.36
+ORD-11338,2024-02-13,Jamie Torres,Desk,Furniture,North,2,195.73,391.46
+ORD-11339,2024-03-18,Emerson Walsh,Chair,Furniture,South,2,147.9,295.8
+ORD-11340,2024-07-30,Quinn Harper,Mouse,Accessories,South,4,24.09,96.36
+ORD-11341,2024-01-16,Skyler Adams,Notebook Pack,Office Supplies,West,3,13.37,40.11
+ORD-11342,2024-02-05,Sam Patel,Laptop,Electronics,North,5,919.58,4597.9
+ORD-11343,2024-08-10,Jordan Lee,Desk,Furniture,South,2,198.02,396.04
+ORD-11344,2024-10-21,Jordan Lee,Laptop,Electronics,North,2,914.41,1828.82
+ORD-11345,2024-06-04,Drew Santos,Chair,Furniture,North,5,148.52,742.6
+ORD-11346,2024-11-08,Casey Nguyen,Laptop,Electronics,South,5,929.42,4647.1
+ORD-11347,2024-11-15,Blake Foster,Printer,Office Supplies,South,5,131.86,659.3
+ORD-11348,2024-04-11,Cameron Blake,Desk,Furniture,East,4,207.74,830.96
+ORD-11349,2024-03-05,Emerson Walsh,Laptop,Electronics,North,4,903.36,3613.44
+ORD-11350,2024-06-08,Emerson Walsh,Mouse,Accessories,North,5,23.97,119.85
+ORD-11351,2024-10-30,Jamie Torres,Keyboard,Accessories,West,5,47.61,238.05
+ORD-11352,2024-02-26,Jordan Lee,Headphones,Accessories,North,5,81.8,409.0
+ORD-11353,2024-03-04,Jordan Lee,Headphones,Accessories,East,3,81.01,243.03
+ORD-11354,2024-08-20,Drew Santos,Printer,Office Supplies,West,1,127.36,127.36
+ORD-11355,2024-10-31,Avery Chen,Desk Lamp,Office Supplies,North,5,35.22,176.1
+ORD-11356,2024-12-10,Casey Nguyen,Headphones,Accessories,South,5,78.27,391.35
+ORD-11357,2024-06-16,Emerson Walsh,Notebook Pack,Office Supplies,West,1,13.3,13.3
+ORD-11358,2024-12-30,Quinn Harper,Desk,Furniture,South,2,199.08,398.16
+ORD-11359,2024-03-07,Hayden Cole,Monitor,Electronics,West,4,239.8,959.2
+ORD-11360,2024-07-25,Rowan Pierce,Printer,Office Supplies,South,5,124.51,622.55
+ORD-11361,2024-08-13,Hayden Cole,Headphones,Accessories,South,4,80.66,322.64
+ORD-11362,2024-09-05,Skyler Adams,Keyboard,Accessories,West,2,48.21,96.42
+ORD-11363,2024-12-21,Riley Quinn,Notebook Pack,Office Supplies,South,1,13.46,13.46
+ORD-11364,2024-10-13,Parker Kim,Printer,Office Supplies,East,2,123.91,247.82
+ORD-11365,2024-03-02,Parker Kim,Desk Lamp,Office Supplies,North,1,36.22,36.22
+ORD-11366,2024-07-09,Cameron Blake,Laptop,Electronics,North,1,902.04,902.04
+ORD-11367,2024-03-14,Casey Nguyen,Headphones,Accessories,South,1,78.34,78.34
+ORD-11368,2024-05-25,Riley Quinn,Laptop,Electronics,West,3,939.3,2817.9
+ORD-11369,2024-06-27,Sam Patel,Printer,Office Supplies,East,5,123.52,617.6
+ORD-11370,2024-10-16,Skyler Adams,Chair,Furniture,North,3,149.71,449.13
+ORD-11371,2024-03-08,Casey Nguyen,Chair,Furniture,South,5,149.62,748.1
+ORD-11372,2024-06-15,Sam Patel,Printer,Office Supplies,South,2,132.16,264.32
+ORD-11373,2024-06-22,Finley Grant,Chair,Furniture,East,4,145.98,583.92
+ORD-11374,2024-03-25,Alex Rivera,Printer,Office Supplies,North,1,133.06,133.06
+ORD-11375,2024-02-13,Riley Quinn,Notebook Pack,Office Supplies,East,5,13.18,65.9
+ORD-11376,2024-09-14,Alex Rivera,Desk Lamp,Office Supplies,East,4,35.07,140.28
+ORD-11377,2024-05-20,Riley Quinn,Notebook Pack,Office Supplies,West,1,12.57,12.57
+ORD-11378,2024-11-06,Drew Santos,Desk Lamp,Office Supplies,South,5,34.79,173.95
+ORD-11379,2024-06-23,Quinn Harper,Desk Lamp,Office Supplies,West,1,33.4,33.4
+ORD-11380,2024-06-11,Reese Morgan,Chair,Furniture,North,5,142.85,714.25
+ORD-11381,2024-10-04,Morgan Ellis,Monitor,Electronics,North,1,240.36,240.36
+ORD-11382,2024-03-19,Cameron Blake,Keyboard,Accessories,South,1,48.4,48.4
+ORD-11383,2024-04-02,Alex Rivera,Keyboard,Accessories,East,3,47.79,143.37
+ORD-11384,2024-03-13,Quinn Harper,Headphones,Accessories,North,3,79.11,237.33
+ORD-11385,2024-01-27,Riley Quinn,Headphones,Accessories,West,1,78.99,78.99
+ORD-11386,2024-09-17,Emerson Walsh,Desk Lamp,Office Supplies,South,4,35.29,141.16
+ORD-11387,2024-08-25,Finley Grant,Monitor,Electronics,South,3,244.22,732.66
+ORD-11388,2024-11-20,Avery Chen,Monitor,Electronics,East,4,249.59,998.36
+ORD-11389,2024-12-11,Taylor Brooks,Headphones,Accessories,West,5,80.42,402.1
+ORD-11390,2024-06-04,Rowan Pierce,Notebook Pack,Office Supplies,South,2,13.19,26.38
+ORD-11391,2024-04-14,Casey Nguyen,Printer,Office Supplies,North,5,124.58,622.9
+ORD-11392,2024-10-02,Quinn Harper,Notebook Pack,Office Supplies,South,2,13.62,27.24
+ORD-11393,2024-11-13,Cameron Blake,Laptop,Electronics,West,4,855.08,3420.32
+ORD-11394,2024-05-19,Blake Foster,Laptop,Electronics,North,4,860.41,3441.64
+ORD-11395,2024-10-26,Emerson Walsh,Chair,Furniture,North,2,157.48,314.96
+ORD-11396,2024-10-15,Sam Patel,Laptop,Electronics,North,5,869.52,4347.6
+ORD-11397,2024-03-12,Finley Grant,Monitor,Electronics,North,1,247.37,247.37
+ORD-11398,2024-06-11,Drew Santos,Chair,Furniture,North,5,145.65,728.25
+ORD-11399,2024-06-23,Riley Quinn,Printer,Office Supplies,South,3,127.04,381.12
+ORD-11400,2024-11-26,Alex Rivera,Desk Lamp,Office Supplies,South,2,34.39,68.78
+ORD-11401,2024-07-30,Finley Grant,Laptop,Electronics,South,2,936.12,1872.24
+ORD-11402,2024-10-02,Alex Rivera,Chair,Furniture,South,1,150.56,150.56
+ORD-11403,2024-11-03,Parker Kim,Monitor,Electronics,South,4,246.32,985.28
+ORD-11404,2024-03-04,Skyler Adams,Keyboard,Accessories,North,1,51.69,51.69
+ORD-11405,2024-01-11,Jamie Torres,Mouse,Accessories,North,2,24.85,49.7
+ORD-11406,2024-11-16,Cameron Blake,Mouse,Accessories,West,5,23.97,119.85
+ORD-11407,2024-01-19,Jamie Torres,Mouse,Accessories,South,3,26.19,78.57
+ORD-11408,2024-11-22,Reese Morgan,Desk Lamp,Office Supplies,East,2,33.97,67.94
+ORD-11409,2024-03-28,Finley Grant,Headphones,Accessories,West,4,80.54,322.16
+ORD-11410,2024-10-16,Morgan Ellis,Desk Lamp,Office Supplies,East,5,35.59,177.95
+ORD-11411,2024-03-06,Jamie Torres,Desk Lamp,Office Supplies,West,1,33.69,33.69
+ORD-11412,2024-04-08,Alex Rivera,Notebook Pack,Office Supplies,North,3,13.29,39.87
+ORD-11413,2024-08-06,Jordan Lee,Notebook Pack,Office Supplies,North,1,13.49,13.49
+ORD-11414,2024-05-20,Taylor Brooks,Chair,Furniture,South,4,155.15,620.6
+ORD-11415,2024-04-24,Jordan Lee,Printer,Office Supplies,North,1,128.19,128.19
+ORD-11416,2024-01-03,Reese Morgan,Chair,Furniture,West,3,150.48,451.44
+ORD-11417,2024-01-13,Avery Chen,Desk,Furniture,South,5,191.63,958.15
+ORD-11418,2024-03-25,Drew Santos,Monitor,Electronics,North,2,260.41,520.82
+ORD-11419,2024-01-15,Hayden Cole,Monitor,Electronics,South,1,253.14,253.14
+ORD-11420,2024-05-08,Avery Chen,Laptop,Electronics,East,3,908.32,2724.96
+ORD-11421,2024-01-28,Drew Santos,Printer,Office Supplies,West,3,126.59,379.77
+ORD-11422,2024-08-12,Taylor Brooks,Monitor,Electronics,South,5,256.88,1284.4
+ORD-11423,2024-01-18,Reese Morgan,Desk Lamp,Office Supplies,North,1,33.68,33.68
+ORD-11424,2024-08-14,Jordan Lee,Monitor,Electronics,North,1,257.06,257.06
+ORD-11425,2024-02-22,Jordan Lee,Desk Lamp,Office Supplies,East,1,35.43,35.43
+ORD-11426,2024-02-19,Blake Foster,Headphones,Accessories,South,4,82.79,331.16
+ORD-11427,2024-01-06,Skyler Adams,Mouse,Accessories,South,5,25.9,129.5
+ORD-11428,2024-11-13,Taylor Brooks,Printer,Office Supplies,North,5,133.83,669.15
+ORD-11429,2024-10-27,Riley Quinn,Laptop,Electronics,East,3,895.86,2687.58
+ORD-11430,2024-10-30,Riley Quinn,Monitor,Electronics,West,1,237.8,237.8
+ORD-11431,2024-09-03,Blake Foster,Notebook Pack,Office Supplies,South,4,12.67,50.68
+ORD-11432,2024-01-31,Casey Nguyen,Keyboard,Accessories,North,1,48.71,48.71
+ORD-11433,2024-06-08,Rowan Pierce,Desk Lamp,Office Supplies,West,3,34.77,104.31
+ORD-11434,2024-06-24,Cameron Blake,Keyboard,Accessories,North,5,49.84,249.2
+ORD-11435,2024-01-30,Avery Chen,Laptop,Electronics,East,2,901.58,1803.16
+ORD-11436,2024-11-23,Riley Quinn,Chair,Furniture,East,2,147.65,295.3
+ORD-11437,2024-12-21,Skyler Adams,Desk,Furniture,North,4,193.78,775.12
+ORD-11438,2024-11-11,Cameron Blake,Desk Lamp,Office Supplies,South,3,35.22,105.66
+ORD-11439,2024-01-22,Hayden Cole,Desk,Furniture,West,4,193.24,772.96
+ORD-11440,2024-08-26,Blake Foster,Laptop,Electronics,West,2,912.48,1824.96
+ORD-11441,2024-07-11,Riley Quinn,Mouse,Accessories,South,3,24.94,74.82
+ORD-11442,2024-07-04,Alex Rivera,Keyboard,Accessories,East,1,51.62,51.62
+ORD-11443,2024-03-13,Cameron Blake,Desk,Furniture,South,1,190.59,190.59
+ORD-11444,2024-01-23,Alex Rivera,Mouse,Accessories,West,3,25.32,75.96
+ORD-11445,2024-05-14,Morgan Ellis,Mouse,Accessories,North,2,24.45,48.9
+ORD-11446,2024-01-12,Morgan Ellis,Notebook Pack,Office Supplies,North,2,12.66,25.32
+ORD-11447,2024-07-13,Taylor Brooks,Monitor,Electronics,North,2,238.02,476.04
+ORD-11448,2024-07-08,Parker Kim,Mouse,Accessories,West,2,24.5,49.0
+ORD-11449,2024-08-10,Sam Patel,Notebook Pack,Office Supplies,East,5,13.61,68.05
+ORD-11450,2024-04-07,Riley Quinn,Keyboard,Accessories,South,2,51.9,103.8
+ORD-11451,2024-11-21,Avery Chen,Desk,Furniture,East,4,196.35,785.4
+ORD-11452,2024-05-30,Casey Nguyen,Desk Lamp,Office Supplies,North,5,35.3,176.5
+ORD-11453,2024-03-05,Emerson Walsh,Mouse,Accessories,South,3,23.87,71.61
+ORD-11454,2024-12-05,Blake Foster,Mouse,Accessories,East,4,25.56,102.24
+ORD-11455,2024-07-10,Hayden Cole,Keyboard,Accessories,South,5,50.03,250.15
+ORD-11456,2024-09-26,Hayden Cole,Keyboard,Accessories,South,3,49.1,147.3
+ORD-11457,2024-11-22,Rowan Pierce,Printer,Office Supplies,East,4,126.98,507.92
+ORD-11458,2024-08-19,Avery Chen,Mouse,Accessories,South,2,24.29,48.58
+ORD-11459,2024-10-19,Morgan Ellis,Mouse,Accessories,North,4,24.51,98.04
+ORD-11460,2024-02-13,Cameron Blake,Headphones,Accessories,South,2,80.39,160.78
+ORD-11461,2024-01-22,Skyler Adams,Notebook Pack,Office Supplies,North,5,12.8,64.0
+ORD-11462,2024-07-28,Parker Kim,Chair,Furniture,South,4,149.26,597.04
+ORD-11463,2024-04-01,Skyler Adams,Desk,Furniture,West,1,195.45,195.45
+ORD-11464,2024-02-12,Cameron Blake,Headphones,Accessories,East,3,81.15,243.45
+ORD-11465,2024-03-01,Sam Patel,Headphones,Accessories,North,1,83.4,83.4
+ORD-11466,2024-04-10,Drew Santos,Laptop,Electronics,North,3,904.13,2712.39
+ORD-11467,2024-04-07,Blake Foster,Headphones,Accessories,West,3,81.95,245.85
+ORD-11468,2024-06-02,Cameron Blake,Notebook Pack,Office Supplies,North,1,13.53,13.53
+ORD-11469,2024-12-01,Alex Rivera,Chair,Furniture,South,5,156.68,783.4
+ORD-11470,2024-07-22,Avery Chen,Notebook Pack,Office Supplies,West,2,13.63,27.26
+ORD-11471,2024-10-27,Finley Grant,Mouse,Accessories,South,5,24.93,124.65
+ORD-11472,2024-06-09,Riley Quinn,Printer,Office Supplies,South,1,127.92,127.92
+ORD-11473,2024-10-12,Alex Rivera,Chair,Furniture,North,4,145.63,582.52
+ORD-11474,2024-06-05,Alex Rivera,Keyboard,Accessories,South,2,50.38,100.76
+ORD-11475,2024-08-05,Reese Morgan,Desk,Furniture,North,4,196.79,787.16
+ORD-11476,2024-01-17,Casey Nguyen,Desk,Furniture,West,5,201.73,1008.65
+ORD-11477,2024-11-07,Rowan Pierce,Desk,Furniture,South,5,201.35,1006.75
+ORD-11478,2024-02-02,Finley Grant,Chair,Furniture,South,4,145.55,582.2
+ORD-11479,2024-10-18,Skyler Adams,Mouse,Accessories,North,3,24.93,74.79
+ORD-11480,2024-03-31,Jordan Lee,Monitor,Electronics,South,5,241.78,1208.9
+ORD-11481,2024-07-16,Cameron Blake,Laptop,Electronics,West,1,871.79,871.79
+ORD-11482,2024-02-05,Skyler Adams,Mouse,Accessories,East,5,24.47,122.35
+ORD-11483,2024-06-16,Quinn Harper,Desk,Furniture,South,2,200.36,400.72
+ORD-11484,2024-10-01,Quinn Harper,Keyboard,Accessories,South,2,52.44,104.88
+ORD-11485,2024-03-07,Riley Quinn,Monitor,Electronics,North,2,247.21,494.42
+ORD-11486,2024-03-22,Blake Foster,Chair,Furniture,North,4,154.76,619.04
+ORD-11487,2024-05-21,Riley Quinn,Desk Lamp,Office Supplies,East,4,33.95,135.8
+ORD-11488,2024-11-05,Avery Chen,Keyboard,Accessories,North,4,49.72,198.88
+ORD-11489,2024-08-24,Rowan Pierce,Desk Lamp,Office Supplies,East,4,36.32,145.28
+ORD-11490,2024-06-26,Cameron Blake,Monitor,Electronics,South,4,244.69,978.76
+ORD-11491,2024-07-31,Avery Chen,Desk Lamp,Office Supplies,West,2,36.12,72.24
+ORD-11492,2024-07-15,Morgan Ellis,Desk Lamp,Office Supplies,East,4,35.81,143.24
+ORD-11493,2024-05-02,Morgan Ellis,Chair,Furniture,North,1,152.97,152.97
+ORD-11494,2024-12-23,Riley Quinn,Notebook Pack,Office Supplies,South,1,12.72,12.72
+ORD-11495,2024-03-03,Parker Kim,Chair,Furniture,East,5,157.38,786.9
+ORD-11496,2024-07-28,Skyler Adams,Monitor,Electronics,West,3,250.1,750.3
+ORD-11497,2024-08-24,Alex Rivera,Headphones,Accessories,East,1,77.65,77.65
+ORD-11498,2024-04-09,Reese Morgan,Printer,Office Supplies,East,4,128.45,513.8
+ORD-11499,2024-06-16,Skyler Adams,Laptop,Electronics,South,2,877.54,1755.08
+ORD-11500,2024-12-02,Avery Chen,Printer,Office Supplies,South,5,124.38,621.9
+ORD-11501,2024-03-23,Morgan Ellis,Keyboard,Accessories,East,3,49.84,149.52
+ORD-11502,2024-03-04,Finley Grant,Desk Lamp,Office Supplies,South,3,33.59,100.77
+ORD-11503,2024-12-12,Jamie Torres,Keyboard,Accessories,West,1,47.88,47.88
+ORD-11504,2024-01-18,Finley Grant,Printer,Office Supplies,West,2,128.15,256.3
+ORD-11505,2024-11-24,Taylor Brooks,Printer,Office Supplies,South,5,132.55,662.75
+ORD-11506,2024-01-03,Jordan Lee,Headphones,Accessories,South,5,79.54,397.7
+ORD-11507,2024-05-02,Riley Quinn,Mouse,Accessories,East,3,26.06,78.18
+ORD-11508,2024-06-21,Riley Quinn,Laptop,Electronics,East,1,892.94,892.94
+ORD-11509,2024-12-06,Morgan Ellis,Mouse,Accessories,West,1,26.14,26.14
+ORD-11510,2024-06-16,Drew Santos,Laptop,Electronics,West,1,892.4,892.4
+ORD-11511,2024-07-21,Quinn Harper,Desk Lamp,Office Supplies,East,5,33.97,169.85
+ORD-11512,2024-06-14,Morgan Ellis,Mouse,Accessories,East,3,24.27,72.81
+ORD-11513,2024-07-18,Riley Quinn,Chair,Furniture,South,1,152.3,152.3
+ORD-11514,2024-11-28,Blake Foster,Mouse,Accessories,North,3,23.91,71.73
+ORD-11515,2024-07-29,Cameron Blake,Laptop,Electronics,South,2,861.05,1722.1
+ORD-11516,2024-03-28,Jamie Torres,Monitor,Electronics,East,5,255.3,1276.5
+ORD-11517,2024-12-13,Casey Nguyen,Desk Lamp,Office Supplies,North,4,34.38,137.52
+ORD-11518,2024-12-07,Hayden Cole,Keyboard,Accessories,East,3,50.67,152.01
+ORD-11519,2024-08-17,Reese Morgan,Desk,Furniture,West,5,190.34,951.7
+ORD-11520,2024-04-29,Alex Rivera,Notebook Pack,Office Supplies,East,1,13.1,13.1
+ORD-11521,2024-05-04,Blake Foster,Headphones,Accessories,East,4,77.88,311.52
+ORD-11522,2024-05-31,Riley Quinn,Laptop,Electronics,West,4,867.37,3469.48
+ORD-11523,2024-05-01,Blake Foster,Chair,Furniture,South,1,145.56,145.56
+ORD-11524,2024-11-25,Jordan Lee,Desk,Furniture,South,3,192.68,578.04
+ORD-11525,2024-06-18,Drew Santos,Headphones,Accessories,West,2,81.99,163.98
+ORD-11526,2024-12-17,Avery Chen,Mouse,Accessories,South,2,25.09,50.18
+ORD-11527,2024-11-18,Alex Rivera,Notebook Pack,Office Supplies,East,4,12.76,51.04
+ORD-11528,2024-01-27,Casey Nguyen,Printer,Office Supplies,West,2,124.4,248.8
+ORD-11529,2024-10-08,Riley Quinn,Keyboard,Accessories,West,5,47.95,239.75
+ORD-11530,2024-06-08,Morgan Ellis,Notebook Pack,Office Supplies,West,4,12.44,49.76
+ORD-11531,2024-05-07,Cameron Blake,Mouse,Accessories,North,5,24.8,124.0
+ORD-11532,2024-05-19,Hayden Cole,Desk Lamp,Office Supplies,East,2,34.81,69.62
+ORD-11533,2024-08-29,Skyler Adams,Desk,Furniture,South,2,197.95,395.9
+ORD-11534,2024-03-20,Hayden Cole,Notebook Pack,Office Supplies,East,4,13.13,52.52
+ORD-11535,2024-06-02,Blake Foster,Chair,Furniture,West,1,148.9,148.9
+ORD-11536,2024-07-13,Skyler Adams,Notebook Pack,Office Supplies,North,3,13.28,39.84
+ORD-11537,2024-11-06,Hayden Cole,Printer,Office Supplies,East,5,127.17,635.85
+ORD-11538,2024-04-10,Casey Nguyen,Desk,Furniture,West,4,192.72,770.88
+ORD-11539,2024-07-10,Hayden Cole,Laptop,Electronics,South,5,856.15,4280.75
+ORD-11540,2024-07-15,Hayden Cole,Chair,Furniture,North,3,156.59,469.77
+ORD-11541,2024-03-04,Reese Morgan,Desk Lamp,Office Supplies,West,1,33.49,33.49
+ORD-11542,2024-06-27,Emerson Walsh,Mouse,Accessories,South,3,25.65,76.95
+ORD-11543,2024-08-05,Avery Chen,Desk,Furniture,West,4,203.92,815.68
+ORD-11544,2024-11-19,Alex Rivera,Printer,Office Supplies,West,3,123.94,371.82
+ORD-11545,2024-05-10,Avery Chen,Headphones,Accessories,West,2,80.83,161.66
+ORD-11546,2024-11-25,Reese Morgan,Laptop,Electronics,South,1,865.5,865.5
+ORD-11547,2024-09-22,Riley Quinn,Desk Lamp,Office Supplies,South,1,36.65,36.65
+ORD-11548,2024-12-20,Cameron Blake,Keyboard,Accessories,South,3,51.64,154.92
+ORD-11549,2024-02-15,Taylor Brooks,Desk Lamp,Office Supplies,North,4,34.32,137.28
+ORD-11550,2024-07-22,Cameron Blake,Keyboard,Accessories,East,2,48.84,97.68
+ORD-11551,2024-02-19,Sam Patel,Keyboard,Accessories,South,1,51.57,51.57
+ORD-11552,2024-08-08,Morgan Ellis,Notebook Pack,Office Supplies,West,3,12.88,38.64
+ORD-11553,2024-04-11,Hayden Cole,Desk,Furniture,West,2,193.72,387.44
+ORD-11554,2024-10-17,Riley Quinn,Notebook Pack,Office Supplies,West,4,13.57,54.28
+ORD-11555,2024-04-08,Jamie Torres,Mouse,Accessories,South,2,23.89,47.78
+ORD-11556,2024-02-25,Morgan Ellis,Printer,Office Supplies,East,5,131.64,658.2
+ORD-11557,2024-05-21,Sam Patel,Headphones,Accessories,North,1,76.68,76.68
+ORD-11558,2024-09-05,Taylor Brooks,Laptop,Electronics,East,4,907.7,3630.8
+ORD-11559,2024-12-06,Rowan Pierce,Laptop,Electronics,East,1,878.94,878.94
+ORD-11560,2024-07-11,Blake Foster,Monitor,Electronics,North,1,242.77,242.77
+ORD-11561,2024-11-05,Quinn Harper,Printer,Office Supplies,North,3,129.64,388.92
+ORD-11562,2024-06-10,Avery Chen,Desk,Furniture,North,3,203.63,610.89
+ORD-11563,2024-07-01,Drew Santos,Chair,Furniture,East,1,148.17,148.17
+ORD-11564,2024-03-12,Alex Rivera,Laptop,Electronics,East,4,896.11,3584.44
+ORD-11565,2024-07-07,Skyler Adams,Notebook Pack,Office Supplies,South,2,12.7,25.4
+ORD-11566,2024-01-02,Drew Santos,Notebook Pack,Office Supplies,East,2,12.88,25.76
+ORD-11567,2024-12-13,Skyler Adams,Desk,Furniture,West,3,207.46,622.38
+ORD-11568,2024-02-11,Parker Kim,Desk Lamp,Office Supplies,South,5,34.94,174.7
+ORD-11569,2024-07-16,Cameron Blake,Printer,Office Supplies,West,1,136.32,136.32
+ORD-11570,2024-09-15,Jordan Lee,Keyboard,Accessories,West,5,51.84,259.2
+ORD-11571,2024-12-10,Finley Grant,Printer,Office Supplies,South,3,133.85,401.55
+ORD-11572,2024-09-03,Finley Grant,Keyboard,Accessories,West,1,51.97,51.97
+ORD-11573,2024-02-24,Quinn Harper,Mouse,Accessories,East,1,24.27,24.27
+ORD-11574,2024-07-15,Jamie Torres,Keyboard,Accessories,West,3,52.13,156.39
+ORD-11575,2024-12-06,Casey Nguyen,Headphones,Accessories,South,1,81.32,81.32
+ORD-11576,2024-04-24,Rowan Pierce,Monitor,Electronics,East,3,257.38,772.14
+ORD-11577,2024-11-30,Finley Grant,Desk,Furniture,South,4,197.53,790.12
+ORD-11578,2024-05-28,Sam Patel,Mouse,Accessories,East,1,24.3,24.3
+ORD-11579,2024-04-06,Taylor Brooks,Monitor,Electronics,North,5,246.0,1230.0
+ORD-11580,2024-10-22,Alex Rivera,Keyboard,Accessories,North,4,51.76,207.04
+ORD-11581,2024-07-17,Quinn Harper,Laptop,Electronics,North,2,908.1,1816.2
+ORD-11582,2024-09-23,Blake Foster,Desk,Furniture,West,2,205.94,411.88
+ORD-11583,2024-08-23,Drew Santos,Monitor,Electronics,West,5,247.37,1236.85
+ORD-11584,2024-12-14,Skyler Adams,Headphones,Accessories,West,4,82.69,330.76
+ORD-11585,2024-11-02,Drew Santos,Desk Lamp,Office Supplies,North,1,34.23,34.23
+ORD-11586,2024-05-20,Rowan Pierce,Notebook Pack,Office Supplies,South,1,13.63,13.63
+ORD-11587,2024-01-31,Drew Santos,Mouse,Accessories,West,4,24.98,99.92
+ORD-11588,2024-12-24,Jordan Lee,Mouse,Accessories,West,2,25.86,51.72
+ORD-11589,2024-12-03,Morgan Ellis,Printer,Office Supplies,East,3,132.95,398.85
+ORD-11590,2024-12-13,Hayden Cole,Notebook Pack,Office Supplies,North,4,12.85,51.4
+ORD-11591,2024-05-24,Cameron Blake,Chair,Furniture,West,5,148.36,741.8
+ORD-11592,2024-06-14,Rowan Pierce,Notebook Pack,Office Supplies,East,2,12.85,25.7
+ORD-11593,2024-10-22,Casey Nguyen,Headphones,Accessories,South,2,79.65,159.3
+ORD-11594,2024-04-17,Riley Quinn,Printer,Office Supplies,West,2,127.27,254.54
+ORD-11595,2024-02-22,Casey Nguyen,Laptop,Electronics,South,5,887.59,4437.95
+ORD-11596,2024-01-29,Taylor Brooks,Chair,Furniture,North,2,152.68,305.36
+ORD-11597,2024-03-01,Emerson Walsh,Printer,Office Supplies,North,1,125.83,125.83
+ORD-11598,2024-11-17,Reese Morgan,Desk Lamp,Office Supplies,West,2,34.76,69.52
+ORD-11599,2024-09-07,Cameron Blake,Laptop,Electronics,West,4,865.68,3462.72
+ORD-11600,2024-08-25,Reese Morgan,Chair,Furniture,North,1,154.13,154.13
+ORD-11601,2024-02-29,Sam Patel,Printer,Office Supplies,East,1,128.27,128.27
+ORD-11602,2024-04-25,Alex Rivera,Printer,Office Supplies,South,5,131.83,659.15
+ORD-11603,2024-10-30,Morgan Ellis,Headphones,Accessories,South,1,81.54,81.54
+ORD-11604,2024-06-01,Rowan Pierce,Printer,Office Supplies,West,4,136.49,545.96
+ORD-11605,2024-04-04,Reese Morgan,Monitor,Electronics,East,5,245.62,1228.1
+ORD-11606,2024-09-28,Hayden Cole,Chair,Furniture,East,5,150.83,754.15
+ORD-11607,2024-11-29,Taylor Brooks,Notebook Pack,Office Supplies,West,5,13.43,67.15
+ORD-11608,2024-12-21,Morgan Ellis,Monitor,Electronics,East,5,242.01,1210.05
+ORD-11609,2024-03-03,Jordan Lee,Notebook Pack,Office Supplies,West,3,12.92,38.76
+ORD-11610,2024-02-14,Finley Grant,Desk Lamp,Office Supplies,North,2,33.96,67.92
+ORD-11611,2024-09-16,Cameron Blake,Laptop,Electronics,North,1,862.61,862.61
+ORD-11612,2024-05-07,Cameron Blake,Notebook Pack,Office Supplies,East,1,12.56,12.56
+ORD-11613,2024-12-03,Finley Grant,Notebook Pack,Office Supplies,South,3,13.52,40.56
+ORD-11614,2024-09-24,Parker Kim,Keyboard,Accessories,West,3,50.38,151.14
+ORD-11615,2024-05-01,Jordan Lee,Monitor,Electronics,West,1,254.06,254.06
+ORD-11616,2024-03-09,Blake Foster,Keyboard,Accessories,West,2,48.99,97.98
+ORD-11617,2024-11-14,Quinn Harper,Desk Lamp,Office Supplies,East,2,34.5,69.0
+ORD-11618,2024-11-28,Morgan Ellis,Notebook Pack,Office Supplies,South,4,12.67,50.68
+ORD-11619,2024-12-12,Quinn Harper,Printer,Office Supplies,West,3,124.57,373.71
+ORD-11620,2024-11-20,Riley Quinn,Notebook Pack,Office Supplies,North,3,12.61,37.83
+ORD-11621,2024-11-05,Morgan Ellis,Desk Lamp,Office Supplies,South,5,35.54,177.7
+ORD-11622,2024-07-13,Alex Rivera,Keyboard,Accessories,West,4,49.07,196.28
+ORD-11623,2024-02-26,Finley Grant,Monitor,Electronics,South,5,244.24,1221.2
+ORD-11624,2024-07-04,Drew Santos,Monitor,Electronics,North,1,245.72,245.72
+ORD-11625,2024-05-20,Alex Rivera,Keyboard,Accessories,East,2,51.83,103.66
+ORD-11626,2024-07-12,Taylor Brooks,Chair,Furniture,East,2,157.18,314.36
+ORD-11627,2024-10-28,Hayden Cole,Keyboard,Accessories,East,3,50.12,150.36
+ORD-11628,2024-05-24,Finley Grant,Notebook Pack,Office Supplies,North,5,12.79,63.95
+ORD-11629,2024-03-28,Drew Santos,Desk Lamp,Office Supplies,South,1,33.59,33.59
+ORD-11630,2024-10-09,Blake Foster,Keyboard,Accessories,South,5,49.22,246.1
+ORD-11631,2024-01-05,Emerson Walsh,Printer,Office Supplies,West,3,131.19,393.57
+ORD-11632,2024-05-16,Jordan Lee,Keyboard,Accessories,North,5,48.2,241.0
+ORD-11633,2024-12-27,Skyler Adams,Mouse,Accessories,West,4,25.44,101.76
+ORD-11634,2024-09-14,Cameron Blake,Printer,Office Supplies,North,4,136.31,545.24
+ORD-11635,2024-06-05,Sam Patel,Chair,Furniture,North,2,150.3,300.6
+ORD-11636,2024-11-20,Sam Patel,Chair,Furniture,East,1,154.05,154.05
+ORD-11637,2024-10-21,Jordan Lee,Mouse,Accessories,East,2,26.1,52.2
+ORD-11638,2024-01-06,Quinn Harper,Headphones,Accessories,West,4,80.42,321.68
+ORD-11639,2024-12-23,Taylor Brooks,Printer,Office Supplies,South,5,129.96,649.8
+ORD-11640,2024-08-05,Finley Grant,Laptop,Electronics,North,1,910.46,910.46
+ORD-11641,2024-12-16,Blake Foster,Mouse,Accessories,East,5,26.23,131.15
+ORD-11642,2024-12-11,Emerson Walsh,Desk Lamp,Office Supplies,West,2,34.81,69.62
+ORD-11643,2024-09-20,Parker Kim,Keyboard,Accessories,East,2,47.87,95.74
+ORD-11644,2024-07-10,Taylor Brooks,Chair,Furniture,North,2,149.92,299.84
+ORD-11645,2024-05-28,Cameron Blake,Mouse,Accessories,South,1,25.82,25.82
+ORD-11646,2024-11-19,Rowan Pierce,Headphones,Accessories,South,1,78.11,78.11
+ORD-11647,2024-01-19,Skyler Adams,Mouse,Accessories,South,5,26.05,130.25
+ORD-11648,2024-08-23,Drew Santos,Laptop,Electronics,North,5,887.01,4435.05
+ORD-11649,2024-04-05,Reese Morgan,Desk,Furniture,North,3,192.13,576.39
+ORD-11650,2024-04-11,Sam Patel,Laptop,Electronics,West,4,864.11,3456.44
+ORD-11651,2024-01-04,Casey Nguyen,Chair,Furniture,North,4,144.35,577.4
+ORD-11652,2024-06-02,Parker Kim,Mouse,Accessories,South,3,24.92,74.76
+ORD-11653,2024-02-25,Skyler Adams,Keyboard,Accessories,South,3,50.17,150.51
+ORD-11654,2024-01-03,Parker Kim,Keyboard,Accessories,West,4,48.19,192.76
+ORD-11655,2024-03-09,Reese Morgan,Monitor,Electronics,South,1,242.23,242.23
+ORD-11656,2024-12-07,Riley Quinn,Desk,Furniture,South,2,208.01,416.02
+ORD-11657,2024-10-08,Hayden Cole,Headphones,Accessories,West,4,76.94,307.76
+ORD-11658,2024-09-13,Reese Morgan,Desk,Furniture,West,4,205.01,820.04
+ORD-11659,2024-03-05,Casey Nguyen,Monitor,Electronics,North,1,261.43,261.43
+ORD-11660,2024-01-27,Drew Santos,Notebook Pack,Office Supplies,South,2,12.36,24.72
+ORD-11661,2024-09-02,Cameron Blake,Desk Lamp,Office Supplies,North,4,35.82,143.28
+ORD-11662,2024-05-06,Blake Foster,Printer,Office Supplies,West,4,124.56,498.24
+ORD-11663,2024-02-28,Jamie Torres,Notebook Pack,Office Supplies,West,3,12.58,37.74
+ORD-11664,2024-12-24,Emerson Walsh,Chair,Furniture,West,1,145.47,145.47
+ORD-11665,2024-11-18,Casey Nguyen,Mouse,Accessories,West,5,26.22,131.1
+ORD-11666,2024-05-20,Riley Quinn,Monitor,Electronics,West,1,240.8,240.8
+ORD-11667,2024-02-16,Jordan Lee,Chair,Furniture,South,2,142.76,285.52
+ORD-11668,2024-04-23,Drew Santos,Chair,Furniture,South,2,150.36,300.72
+ORD-11669,2024-11-25,Jordan Lee,Printer,Office Supplies,North,4,124.29,497.16
+ORD-11670,2024-06-28,Quinn Harper,Monitor,Electronics,West,3,244.22,732.66
+ORD-11671,2024-01-21,Alex Rivera,Desk,Furniture,East,2,207.89,415.78
+ORD-11672,2024-05-23,Blake Foster,Desk,Furniture,East,4,194.23,776.92
+ORD-11673,2024-07-05,Drew Santos,Chair,Furniture,North,4,145.26,581.04
+ORD-11674,2024-12-15,Finley Grant,Monitor,Electronics,West,1,239.91,239.91
+ORD-11675,2024-10-28,Emerson Walsh,Desk,Furniture,North,3,197.2,591.6
+ORD-11676,2024-10-26,Reese Morgan,Mouse,Accessories,East,2,25.37,50.74
+ORD-11677,2024-03-02,Jordan Lee,Monitor,Electronics,West,5,240.75,1203.75
+ORD-11678,2024-02-08,Finley Grant,Mouse,Accessories,North,1,25.5,25.5
+ORD-11679,2024-09-30,Casey Nguyen,Headphones,Accessories,East,2,81.79,163.58
+ORD-11680,2024-12-30,Jamie Torres,Keyboard,Accessories,North,5,48.45,242.25
+ORD-11681,2024-08-11,Sam Patel,Desk,Furniture,South,1,198.96,198.96
+ORD-11682,2024-01-12,Morgan Ellis,Chair,Furniture,North,5,150.35,751.75
+ORD-11683,2024-02-01,Riley Quinn,Keyboard,Accessories,South,5,48.94,244.7
+ORD-11684,2024-02-08,Morgan Ellis,Printer,Office Supplies,South,5,132.39,661.95
+ORD-11685,2024-07-24,Blake Foster,Notebook Pack,Office Supplies,North,4,12.84,51.36
+ORD-11686,2024-10-19,Riley Quinn,Mouse,Accessories,East,2,24.2,48.4
+ORD-11687,2024-05-12,Cameron Blake,Notebook Pack,Office Supplies,West,5,12.93,64.65
+ORD-11688,2024-03-01,Morgan Ellis,Headphones,Accessories,West,5,81.66,408.3
+ORD-11689,2024-01-21,Casey Nguyen,Laptop,Electronics,North,3,903.01,2709.03
+ORD-11690,2024-11-24,Avery Chen,Keyboard,Accessories,West,1,48.84,48.84
+ORD-11691,2024-11-19,Blake Foster,Notebook Pack,Office Supplies,North,3,12.49,37.47
+ORD-11692,2024-05-15,Casey Nguyen,Desk,Furniture,South,5,191.66,958.3
+ORD-11693,2024-11-16,Alex Rivera,Desk Lamp,Office Supplies,North,1,34.27,34.27
+ORD-11694,2024-03-31,Jamie Torres,Mouse,Accessories,East,3,25.57,76.71
+ORD-11695,2024-02-24,Reese Morgan,Notebook Pack,Office Supplies,North,5,13.19,65.95
+ORD-11696,2024-04-22,Drew Santos,Desk Lamp,Office Supplies,North,4,35.17,140.68
+ORD-11697,2024-03-20,Skyler Adams,Mouse,Accessories,West,4,25.19,100.76
+ORD-11698,2024-02-17,Hayden Cole,Chair,Furniture,West,4,148.02,592.08
+ORD-11699,2024-04-06,Rowan Pierce,Printer,Office Supplies,South,2,125.9,251.8
+ORD-11700,2024-06-07,Morgan Ellis,Keyboard,Accessories,West,1,50.73,50.73
+ORD-11701,2024-02-05,Casey Nguyen,Chair,Furniture,East,2,152.8,305.6
+ORD-11702,2024-02-21,Emerson Walsh,Chair,Furniture,West,4,146.17,584.68
+ORD-11703,2024-07-15,Alex Rivera,Laptop,Electronics,East,4,909.29,3637.16
+ORD-11704,2024-03-08,Avery Chen,Laptop,Electronics,East,1,923.7,923.7
+ORD-11705,2024-01-07,Alex Rivera,Headphones,Accessories,East,5,77.13,385.65
+ORD-11706,2024-12-28,Sam Patel,Notebook Pack,Office Supplies,West,3,13.3,39.9
+ORD-11707,2024-08-15,Morgan Ellis,Keyboard,Accessories,North,5,49.89,249.45
+ORD-11708,2024-01-29,Finley Grant,Desk,Furniture,North,2,199.57,399.14
+ORD-11709,2024-02-22,Finley Grant,Notebook Pack,Office Supplies,North,1,12.5,12.5
+ORD-11710,2024-03-13,Alex Rivera,Monitor,Electronics,West,4,250.28,1001.12
+ORD-11711,2024-03-16,Parker Kim,Laptop,Electronics,North,4,875.39,3501.56
+ORD-11712,2024-12-17,Taylor Brooks,Mouse,Accessories,South,4,26.04,104.16
+ORD-11713,2024-02-22,Cameron Blake,Keyboard,Accessories,North,2,52.44,104.88
+ORD-11714,2024-07-03,Sam Patel,Monitor,Electronics,East,1,252.88,252.88
+ORD-11715,2024-09-28,Drew Santos,Desk Lamp,Office Supplies,West,4,33.77,135.08
+ORD-11716,2024-11-15,Cameron Blake,Chair,Furniture,North,3,144.74,434.22
+ORD-11717,2024-12-04,Parker Kim,Monitor,Electronics,North,4,244.27,977.08
+ORD-11718,2024-12-01,Casey Nguyen,Monitor,Electronics,North,2,257.21,514.42
+ORD-11719,2024-02-04,Taylor Brooks,Keyboard,Accessories,South,4,49.44,197.76
+ORD-11720,2024-03-06,Morgan Ellis,Headphones,Accessories,South,3,77.15,231.45
+ORD-11721,2024-09-03,Quinn Harper,Desk,Furniture,North,4,196.38,785.52
+ORD-11722,2024-07-15,Quinn Harper,Keyboard,Accessories,South,2,51.5,103.0
+ORD-11723,2024-10-01,Avery Chen,Notebook Pack,Office Supplies,South,5,13.03,65.15
+ORD-11724,2024-09-26,Rowan Pierce,Monitor,Electronics,West,4,252.01,1008.04
+ORD-11725,2024-04-14,Alex Rivera,Monitor,Electronics,North,1,243.37,243.37
+ORD-11726,2024-02-26,Jordan Lee,Notebook Pack,Office Supplies,North,2,12.96,25.92
+ORD-11727,2024-05-30,Skyler Adams,Desk,Furniture,West,2,206.96,413.92
+ORD-11728,2024-05-04,Riley Quinn,Notebook Pack,Office Supplies,West,4,13.6,54.4
+ORD-11729,2024-12-22,Casey Nguyen,Laptop,Electronics,South,1,922.22,922.22
+ORD-11730,2024-07-09,Jordan Lee,Laptop,Electronics,East,4,917.64,3670.56
+ORD-11731,2024-03-21,Alex Rivera,Desk Lamp,Office Supplies,West,5,33.5,167.5
+ORD-11732,2024-02-09,Alex Rivera,Desk,Furniture,South,2,192.82,385.64
+ORD-11733,2024-03-12,Emerson Walsh,Keyboard,Accessories,North,4,51.32,205.28
+ORD-11734,2024-08-15,Alex Rivera,Printer,Office Supplies,North,3,128.84,386.52
+ORD-11735,2024-11-05,Morgan Ellis,Monitor,Electronics,West,1,241.39,241.39
+ORD-11736,2024-12-14,Skyler Adams,Laptop,Electronics,North,4,890.67,3562.68
+ORD-11737,2024-08-04,Morgan Ellis,Desk Lamp,Office Supplies,North,2,35.0,70.0
+ORD-11738,2024-04-18,Reese Morgan,Monitor,Electronics,East,2,250.53,501.06
+ORD-11739,2024-11-05,Sam Patel,Mouse,Accessories,South,5,24.72,123.6
+ORD-11740,2024-07-13,Morgan Ellis,Printer,Office Supplies,East,4,127.56,510.24
+ORD-11741,2024-05-18,Taylor Brooks,Desk,Furniture,East,2,202.92,405.84
+ORD-11742,2024-01-15,Avery Chen,Monitor,Electronics,North,3,246.56,739.68
+ORD-11743,2024-04-18,Blake Foster,Keyboard,Accessories,East,1,50.2,50.2
+ORD-11744,2024-11-22,Jordan Lee,Headphones,Accessories,West,2,77.49,154.98
+ORD-11745,2024-10-16,Jordan Lee,Headphones,Accessories,South,5,76.67,383.35
+ORD-11746,2024-06-07,Alex Rivera,Laptop,Electronics,North,1,859.31,859.31
+ORD-11747,2024-04-09,Drew Santos,Headphones,Accessories,South,5,83.66,418.3
+ORD-11748,2024-06-18,Quinn Harper,Desk,Furniture,East,1,209.47,209.47
+ORD-11749,2024-01-13,Rowan Pierce,Notebook Pack,Office Supplies,South,2,13.39,26.78
+ORD-11750,2024-05-28,Morgan Ellis,Printer,Office Supplies,West,1,131.11,131.11
+ORD-11751,2024-04-28,Riley Quinn,Printer,Office Supplies,West,1,124.51,124.51
+ORD-11752,2024-09-21,Blake Foster,Keyboard,Accessories,North,5,52.46,262.3
+ORD-11753,2024-05-28,Parker Kim,Printer,Office Supplies,South,3,133.7,401.1
+ORD-11754,2024-05-02,Riley Quinn,Laptop,Electronics,East,4,935.15,3740.6
+ORD-11755,2024-02-19,Alex Rivera,Keyboard,Accessories,West,4,50.32,201.28
+ORD-11756,2024-09-12,Taylor Brooks,Headphones,Accessories,South,1,80.37,80.37
+ORD-11757,2024-03-23,Sam Patel,Desk,Furniture,North,3,193.38,580.14
+ORD-11758,2024-02-06,Morgan Ellis,Desk Lamp,Office Supplies,South,1,34.51,34.51
+ORD-11759,2024-08-14,Casey Nguyen,Headphones,Accessories,East,3,83.88,251.64
+ORD-11760,2024-05-26,Reese Morgan,Desk Lamp,Office Supplies,South,3,34.95,104.85
+ORD-11761,2024-08-13,Parker Kim,Desk Lamp,Office Supplies,North,2,36.45,72.9
+ORD-11762,2024-09-16,Skyler Adams,Desk,Furniture,North,4,191.66,766.64
+ORD-11763,2024-05-05,Finley Grant,Laptop,Electronics,East,1,910.85,910.85
+ORD-11764,2024-07-11,Morgan Ellis,Keyboard,Accessories,South,3,51.75,155.25
+ORD-11765,2024-12-08,Sam Patel,Monitor,Electronics,North,4,243.07,972.28
+ORD-11766,2024-08-26,Taylor Brooks,Printer,Office Supplies,East,5,129.58,647.9
+ORD-11767,2024-08-09,Riley Quinn,Keyboard,Accessories,South,4,51.15,204.6
+ORD-11768,2024-11-05,Hayden Cole,Desk,Furniture,West,3,191.28,573.84
+ORD-11769,2024-01-20,Finley Grant,Printer,Office Supplies,West,4,124.98,499.92
+ORD-11770,2024-06-12,Rowan Pierce,Printer,Office Supplies,East,2,125.38,250.76
+ORD-11771,2024-07-04,Quinn Harper,Desk Lamp,Office Supplies,South,1,35.95,35.95
+ORD-11772,2024-12-16,Quinn Harper,Mouse,Accessories,North,1,23.88,23.88
+ORD-11773,2024-03-13,Sam Patel,Headphones,Accessories,North,1,81.08,81.08
+ORD-11774,2024-08-02,Emerson Walsh,Chair,Furniture,West,4,143.72,574.88
+ORD-11775,2024-02-17,Quinn Harper,Headphones,Accessories,North,1,77.46,77.46
+ORD-11776,2024-08-02,Hayden Cole,Headphones,Accessories,South,3,77.31,231.93
+ORD-11777,2024-12-22,Quinn Harper,Notebook Pack,Office Supplies,North,2,13.24,26.48
+ORD-11778,2024-10-14,Blake Foster,Desk Lamp,Office Supplies,West,1,34.6,34.6
+ORD-11779,2024-11-11,Casey Nguyen,Monitor,Electronics,North,5,255.56,1277.8
+ORD-11780,2024-03-16,Hayden Cole,Desk,Furniture,North,4,190.27,761.08
+ORD-11781,2024-05-14,Emerson Walsh,Monitor,Electronics,East,4,257.29,1029.16
+ORD-11782,2024-11-20,Skyler Adams,Printer,Office Supplies,East,2,135.75,271.5
+ORD-11783,2024-08-03,Finley Grant,Laptop,Electronics,West,2,874.67,1749.34
+ORD-11784,2024-04-17,Riley Quinn,Desk Lamp,Office Supplies,East,3,34.56,103.68
+ORD-11785,2024-06-03,Cameron Blake,Desk,Furniture,East,1,206.27,206.27
+ORD-11786,2024-07-30,Quinn Harper,Printer,Office Supplies,North,4,131.93,527.72
+ORD-11787,2024-09-24,Drew Santos,Desk,Furniture,East,4,206.55,826.2
+ORD-11788,2024-03-31,Finley Grant,Keyboard,Accessories,West,3,49.78,149.34
+ORD-11789,2024-12-03,Quinn Harper,Notebook Pack,Office Supplies,North,3,12.91,38.73
+ORD-11790,2024-02-14,Taylor Brooks,Desk Lamp,Office Supplies,East,1,36.52,36.52
+ORD-11791,2024-02-23,Hayden Cole,Laptop,Electronics,East,4,910.45,3641.8
+ORD-11792,2024-12-07,Cameron Blake,Printer,Office Supplies,South,1,130.03,130.03
+ORD-11793,2024-10-09,Reese Morgan,Mouse,Accessories,East,4,24.3,97.2
+ORD-11794,2024-06-28,Skyler Adams,Mouse,Accessories,South,1,25.88,25.88
+ORD-11795,2024-04-24,Emerson Walsh,Chair,Furniture,North,3,142.6,427.8
+ORD-11796,2024-06-06,Quinn Harper,Headphones,Accessories,West,3,83.03,249.09
+ORD-11797,2024-01-17,Alex Rivera,Laptop,Electronics,East,4,936.01,3744.04
+ORD-11798,2024-11-03,Drew Santos,Keyboard,Accessories,North,5,51.44,257.2
+ORD-11799,2024-05-03,Finley Grant,Keyboard,Accessories,South,4,52.29,209.16
+ORD-11800,2024-01-27,Rowan Pierce,Mouse,Accessories,South,4,25.28,101.12
+ORD-11801,2024-03-29,Reese Morgan,Keyboard,Accessories,North,4,52.19,208.76
+ORD-11802,2024-02-20,Casey Nguyen,Notebook Pack,Office Supplies,East,2,12.55,25.1
+ORD-11803,2024-10-10,Morgan Ellis,Desk Lamp,Office Supplies,North,3,35.98,107.94
+ORD-11804,2024-08-11,Alex Rivera,Mouse,Accessories,West,1,23.97,23.97
+ORD-11805,2024-02-10,Rowan Pierce,Laptop,Electronics,South,5,910.62,4553.1
+ORD-11806,2024-08-20,Parker Kim,Laptop,Electronics,West,2,921.8,1843.6
+ORD-11807,2024-06-01,Riley Quinn,Mouse,Accessories,West,2,25.37,50.74
+ORD-11808,2024-05-20,Sam Patel,Chair,Furniture,West,1,154.05,154.05
+ORD-11809,2024-02-22,Taylor Brooks,Laptop,Electronics,South,5,912.44,4562.2
+ORD-11810,2024-05-24,Jamie Torres,Desk Lamp,Office Supplies,West,2,33.67,67.34
+ORD-11811,2024-04-16,Reese Morgan,Monitor,Electronics,East,3,239.42,718.26
+ORD-11812,2024-02-07,Hayden Cole,Printer,Office Supplies,East,4,133.83,535.32
+ORD-11813,2024-06-09,Skyler Adams,Mouse,Accessories,West,4,25.46,101.84
+ORD-11814,2024-12-03,Rowan Pierce,Keyboard,Accessories,East,2,48.98,97.96
+ORD-11815,2024-09-04,Blake Foster,Monitor,Electronics,East,3,261.89,785.67
+ORD-11816,2024-03-03,Riley Quinn,Keyboard,Accessories,East,3,50.1,150.3
+ORD-11817,2024-03-19,Riley Quinn,Notebook Pack,Office Supplies,North,5,12.37,61.85
+ORD-11818,2024-06-16,Casey Nguyen,Monitor,Electronics,West,1,259.95,259.95
+ORD-11819,2024-05-17,Jamie Torres,Monitor,Electronics,South,2,255.68,511.36
+ORD-11820,2024-12-28,Finley Grant,Mouse,Accessories,North,3,26.12,78.36
+ORD-11821,2024-08-11,Emerson Walsh,Printer,Office Supplies,South,4,133.18,532.72
+ORD-11822,2024-12-17,Jamie Torres,Mouse,Accessories,South,2,24.37,48.74
+ORD-11823,2024-06-08,Morgan Ellis,Monitor,Electronics,West,5,252.08,1260.4
+ORD-11824,2024-08-04,Blake Foster,Printer,Office Supplies,North,4,129.13,516.52
+ORD-11825,2024-07-15,Quinn Harper,Desk,Furniture,West,5,202.45,1012.25
+ORD-11826,2024-08-18,Morgan Ellis,Desk Lamp,Office Supplies,East,1,34.48,34.48
+ORD-11827,2024-05-30,Blake Foster,Notebook Pack,Office Supplies,North,4,12.67,50.68
+ORD-11828,2024-06-14,Quinn Harper,Chair,Furniture,West,2,142.94,285.88
+ORD-11829,2024-12-02,Parker Kim,Desk,Furniture,North,2,194.9,389.8
+ORD-11830,2024-01-05,Drew Santos,Keyboard,Accessories,East,1,51.39,51.39
+ORD-11831,2024-06-13,Avery Chen,Desk,Furniture,East,5,194.27,971.35
+ORD-11832,2024-09-26,Riley Quinn,Chair,Furniture,East,2,146.74,293.48
+ORD-11833,2024-12-09,Sam Patel,Notebook Pack,Office Supplies,South,5,12.7,63.5
+ORD-11834,2024-04-11,Riley Quinn,Chair,Furniture,East,3,147.26,441.78
+ORD-11835,2024-08-03,Taylor Brooks,Printer,Office Supplies,East,3,129.97,389.91
+ORD-11836,2024-10-29,Reese Morgan,Printer,Office Supplies,West,3,125.72,377.16
+ORD-11837,2024-11-25,Rowan Pierce,Desk Lamp,Office Supplies,East,1,33.31,33.31
+ORD-11838,2024-01-19,Finley Grant,Printer,Office Supplies,East,4,127.19,508.76
+ORD-11839,2024-08-28,Taylor Brooks,Desk,Furniture,South,1,202.89,202.89
+ORD-11840,2024-07-23,Sam Patel,Headphones,Accessories,North,3,78.19,234.57
+ORD-11841,2024-06-01,Skyler Adams,Printer,Office Supplies,South,4,131.45,525.8
+ORD-11842,2024-02-22,Alex Rivera,Monitor,Electronics,West,5,258.57,1292.85
+ORD-11843,2024-02-23,Drew Santos,Laptop,Electronics,South,2,929.28,1858.56
+ORD-11844,2024-07-07,Finley Grant,Mouse,Accessories,East,2,24.17,48.34
+ORD-11845,2024-02-26,Jordan Lee,Laptop,Electronics,North,1,878.36,878.36
+ORD-11846,2024-07-13,Jamie Torres,Monitor,Electronics,West,5,244.08,1220.4
+ORD-11847,2024-03-05,Drew Santos,Keyboard,Accessories,West,1,50.41,50.41
+ORD-11848,2024-11-22,Skyler Adams,Desk Lamp,Office Supplies,East,4,36.35,145.4
+ORD-11849,2024-09-01,Hayden Cole,Notebook Pack,Office Supplies,North,5,13.03,65.15
+ORD-11850,2024-04-25,Sam Patel,Desk,Furniture,North,4,205.44,821.76
+ORD-11851,2024-10-12,Avery Chen,Headphones,Accessories,West,3,81.68,245.04
+ORD-11852,2024-01-31,Riley Quinn,Monitor,Electronics,East,4,239.37,957.48
+ORD-11853,2024-04-06,Hayden Cole,Mouse,Accessories,East,4,24.91,99.64
+ORD-11854,2024-09-27,Emerson Walsh,Desk,Furniture,North,5,194.16,970.8
+ORD-11855,2024-09-15,Taylor Brooks,Headphones,Accessories,West,2,81.66,163.32
+ORD-11856,2024-08-19,Blake Foster,Mouse,Accessories,West,4,26.03,104.12
+ORD-11857,2024-08-04,Morgan Ellis,Chair,Furniture,North,3,145.31,435.93
+ORD-11858,2024-08-24,Taylor Brooks,Desk Lamp,Office Supplies,East,2,35.51,71.02
+ORD-11859,2024-04-05,Jamie Torres,Mouse,Accessories,East,4,23.78,95.12
+ORD-11860,2024-06-29,Jamie Torres,Printer,Office Supplies,East,4,132.09,528.36
+ORD-11861,2024-04-18,Casey Nguyen,Notebook Pack,Office Supplies,South,4,12.45,49.8
+ORD-11862,2024-01-28,Skyler Adams,Notebook Pack,Office Supplies,North,3,12.9,38.7
+ORD-11863,2024-08-04,Riley Quinn,Desk,Furniture,North,4,191.95,767.8
+ORD-11864,2024-05-21,Emerson Walsh,Mouse,Accessories,South,5,24.75,123.75
+ORD-11865,2024-11-26,Avery Chen,Notebook Pack,Office Supplies,East,1,12.9,12.9
+ORD-11866,2024-10-21,Jamie Torres,Mouse,Accessories,West,1,24.03,24.03
+ORD-11867,2024-04-25,Blake Foster,Monitor,Electronics,South,3,250.79,752.37
+ORD-11868,2024-12-20,Jamie Torres,Chair,Furniture,South,2,148.38,296.76
+ORD-11869,2024-06-26,Cameron Blake,Mouse,Accessories,North,2,24.17,48.34
+ORD-11870,2024-12-24,Blake Foster,Laptop,Electronics,South,5,863.47,4317.35
+ORD-11871,2024-03-28,Drew Santos,Headphones,Accessories,East,2,82.81,165.62
+ORD-11872,2024-03-13,Alex Rivera,Keyboard,Accessories,South,4,48.43,193.72
+ORD-11873,2024-05-15,Sam Patel,Chair,Furniture,West,2,147.5,295.0
+ORD-11874,2024-10-25,Alex Rivera,Laptop,Electronics,South,4,908.45,3633.8
+ORD-11875,2024-01-09,Rowan Pierce,Mouse,Accessories,North,1,24.92,24.92
+ORD-11876,2024-03-16,Taylor Brooks,Mouse,Accessories,East,2,25.05,50.1
+ORD-11877,2024-08-19,Hayden Cole,Headphones,Accessories,North,3,82.42,247.26
+ORD-11878,2024-05-09,Parker Kim,Notebook Pack,Office Supplies,South,4,12.67,50.68
+ORD-11879,2024-12-29,Drew Santos,Laptop,Electronics,South,3,929.49,2788.47
+ORD-11880,2024-11-23,Alex Rivera,Monitor,Electronics,West,5,244.24,1221.2
+ORD-11881,2024-07-01,Hayden Cole,Chair,Furniture,East,2,155.33,310.66
+ORD-11882,2024-07-03,Riley Quinn,Mouse,Accessories,East,4,25.18,100.72
+ORD-11883,2024-11-23,Taylor Brooks,Mouse,Accessories,North,4,26.04,104.16
+ORD-11884,2024-09-26,Morgan Ellis,Notebook Pack,Office Supplies,North,4,13.51,54.04
+ORD-11885,2024-10-28,Quinn Harper,Desk,Furniture,North,4,207.75,831.0
+ORD-11886,2024-09-23,Drew Santos,Headphones,Accessories,East,5,77.51,387.55
+ORD-11887,2024-06-26,Cameron Blake,Chair,Furniture,East,5,154.42,772.1
+ORD-11888,2024-08-26,Casey Nguyen,Laptop,Electronics,North,2,899.89,1799.78
+ORD-11889,2024-06-04,Hayden Cole,Desk Lamp,Office Supplies,North,2,35.19,70.38
+ORD-11890,2024-08-20,Jordan Lee,Monitor,Electronics,West,1,257.48,257.48
+ORD-11891,2024-01-28,Hayden Cole,Headphones,Accessories,North,1,82.59,82.59
+ORD-11892,2024-01-26,Jamie Torres,Laptop,Electronics,West,1,893.72,893.72
+ORD-11893,2024-12-06,Finley Grant,Desk,Furniture,West,5,207.56,1037.8
+ORD-11894,2024-04-10,Quinn Harper,Monitor,Electronics,East,2,255.32,510.64
+ORD-11895,2024-06-30,Avery Chen,Headphones,Accessories,South,4,77.74,310.96
+ORD-11896,2024-05-13,Cameron Blake,Chair,Furniture,North,1,148.48,148.48
+ORD-11897,2024-10-23,Casey Nguyen,Keyboard,Accessories,West,3,50.31,150.93
+ORD-11898,2024-04-12,Cameron Blake,Headphones,Accessories,North,5,77.08,385.4
+ORD-11899,2024-10-06,Morgan Ellis,Monitor,Electronics,South,4,244.92,979.68
+ORD-11900,2024-08-14,Drew Santos,Chair,Furniture,North,5,143.93,719.65
+ORD-11901,2024-08-03,Quinn Harper,Printer,Office Supplies,South,4,128.09,512.36
+ORD-11902,2024-08-03,Sam Patel,Laptop,Electronics,West,1,937.12,937.12
+ORD-11903,2024-10-24,Emerson Walsh,Desk Lamp,Office Supplies,North,2,36.41,72.82
+ORD-11904,2024-05-30,Jordan Lee,Keyboard,Accessories,South,5,50.59,252.95
+ORD-11905,2024-08-24,Emerson Walsh,Keyboard,Accessories,South,1,49.5,49.5
+ORD-11906,2024-11-28,Taylor Brooks,Laptop,Electronics,North,3,862.61,2587.83
+ORD-11907,2024-10-16,Hayden Cole,Desk Lamp,Office Supplies,North,3,33.58,100.74
+ORD-11908,2024-12-11,Emerson Walsh,Laptop,Electronics,East,5,865.92,4329.6
+ORD-11909,2024-09-10,Casey Nguyen,Mouse,Accessories,West,5,25.03,125.15
+ORD-11910,2024-01-04,Hayden Cole,Keyboard,Accessories,West,3,48.99,146.97
+ORD-11911,2024-11-05,Taylor Brooks,Monitor,Electronics,East,2,239.17,478.34
+ORD-11912,2024-01-13,Emerson Walsh,Mouse,Accessories,South,4,24.25,97.0
+ORD-11913,2024-06-02,Reese Morgan,Chair,Furniture,South,1,143.33,143.33
+ORD-11914,2024-05-13,Blake Foster,Keyboard,Accessories,South,5,51.59,257.95
+ORD-11915,2024-11-21,Alex Rivera,Desk Lamp,Office Supplies,West,2,33.67,67.34
+ORD-11916,2024-03-28,Emerson Walsh,Keyboard,Accessories,West,2,51.58,103.16
+ORD-11917,2024-12-07,Taylor Brooks,Printer,Office Supplies,South,3,129.74,389.22
+ORD-11918,2024-07-16,Taylor Brooks,Desk,Furniture,South,4,203.34,813.36
+ORD-11919,2024-01-15,Cameron Blake,Chair,Furniture,South,2,154.69,309.38
+ORD-11920,2024-10-24,Cameron Blake,Monitor,Electronics,East,1,251.6,251.6
+ORD-11921,2024-03-12,Skyler Adams,Desk Lamp,Office Supplies,South,3,34.8,104.4
+ORD-11922,2024-07-02,Emerson Walsh,Headphones,Accessories,West,2,76.06,152.12
+ORD-11923,2024-07-18,Emerson Walsh,Desk,Furniture,East,5,208.04,1040.2
+ORD-11924,2024-12-01,Rowan Pierce,Keyboard,Accessories,North,3,50.77,152.31
+ORD-11925,2024-05-22,Cameron Blake,Printer,Office Supplies,South,2,132.79,265.58
+ORD-11926,2024-07-11,Hayden Cole,Monitor,Electronics,West,4,260.39,1041.56
+ORD-11927,2024-12-03,Emerson Walsh,Desk Lamp,Office Supplies,North,5,35.72,178.6
+ORD-11928,2024-10-24,Parker Kim,Keyboard,Accessories,South,5,50.98,254.9
+ORD-11929,2024-04-28,Taylor Brooks,Monitor,Electronics,East,2,238.61,477.22
+ORD-11930,2024-06-14,Avery Chen,Printer,Office Supplies,West,4,135.63,542.52
+ORD-11931,2024-07-15,Quinn Harper,Monitor,Electronics,East,2,259.98,519.96
+ORD-11932,2024-01-20,Sam Patel,Laptop,Electronics,South,1,910.06,910.06
+ORD-11933,2024-03-30,Drew Santos,Desk,Furniture,East,1,202.12,202.12
+ORD-11934,2024-10-11,Riley Quinn,Printer,Office Supplies,West,5,128.4,642.0
+ORD-11935,2024-04-25,Riley Quinn,Headphones,Accessories,West,3,79.92,239.76
+ORD-11936,2024-02-14,Rowan Pierce,Chair,Furniture,East,2,154.7,309.4
+ORD-11937,2024-01-03,Parker Kim,Monitor,Electronics,South,2,242.58,485.16
+ORD-11938,2024-06-23,Morgan Ellis,Desk Lamp,Office Supplies,South,1,35.15,35.15
+ORD-11939,2024-08-30,Emerson Walsh,Mouse,Accessories,North,5,25.82,129.1
+ORD-11940,2024-03-11,Sam Patel,Desk,Furniture,South,5,202.36,1011.8
+ORD-11941,2024-10-18,Sam Patel,Chair,Furniture,West,1,151.87,151.87
+ORD-11942,2024-09-12,Avery Chen,Notebook Pack,Office Supplies,East,1,12.73,12.73
+ORD-11943,2024-04-24,Cameron Blake,Desk Lamp,Office Supplies,North,1,35.13,35.13
+ORD-11944,2024-03-21,Cameron Blake,Chair,Furniture,East,1,153.04,153.04
+ORD-11945,2024-11-08,Emerson Walsh,Notebook Pack,Office Supplies,North,5,13.09,65.45
+ORD-11946,2024-12-23,Taylor Brooks,Chair,Furniture,South,5,151.77,758.85
+ORD-11947,2024-06-22,Quinn Harper,Headphones,Accessories,North,1,81.22,81.22
+ORD-11948,2024-03-12,Riley Quinn,Mouse,Accessories,North,1,24.58,24.58
+ORD-11949,2024-10-15,Blake Foster,Laptop,Electronics,East,1,876.2,876.2
+ORD-11950,2024-11-02,Blake Foster,Desk,Furniture,East,4,209.61,838.44
+ORD-11951,2024-05-18,Jordan Lee,Notebook Pack,Office Supplies,East,2,12.96,25.92
+ORD-11952,2024-11-28,Parker Kim,Laptop,Electronics,South,2,899.68,1799.36
+ORD-11953,2024-01-11,Jordan Lee,Printer,Office Supplies,East,2,127.43,254.86
+ORD-11954,2024-12-15,Alex Rivera,Mouse,Accessories,South,4,25.08,100.32
+ORD-11955,2024-12-22,Casey Nguyen,Laptop,Electronics,South,4,889.83,3559.32
+ORD-11956,2024-08-12,Taylor Brooks,Chair,Furniture,North,1,150.73,150.73
+ORD-11957,2024-01-30,Avery Chen,Desk,Furniture,West,4,193.86,775.44
+ORD-11958,2024-07-30,Finley Grant,Monitor,Electronics,East,2,252.21,504.42
+ORD-11959,2024-01-30,Sam Patel,Laptop,Electronics,East,2,933.58,1867.16
+ORD-11960,2024-01-23,Drew Santos,Keyboard,Accessories,North,3,49.68,149.04
+ORD-11961,2024-05-29,Casey Nguyen,Desk Lamp,Office Supplies,South,2,35.53,71.06
+ORD-11962,2024-02-09,Jamie Torres,Printer,Office Supplies,West,1,132.04,132.04
+ORD-11963,2024-04-22,Skyler Adams,Printer,Office Supplies,North,3,132.66,397.98
+ORD-11964,2024-11-30,Avery Chen,Desk,Furniture,North,3,205.59,616.77
+ORD-11965,2024-02-23,Jordan Lee,Desk,Furniture,North,5,203.95,1019.75
+ORD-11966,2024-09-05,Jamie Torres,Chair,Furniture,East,5,153.07,765.35
+ORD-11967,2024-04-28,Cameron Blake,Mouse,Accessories,West,5,26.02,130.1
+ORD-11968,2024-01-19,Avery Chen,Monitor,Electronics,South,2,246.8,493.6
+ORD-11969,2024-09-12,Jordan Lee,Printer,Office Supplies,North,1,135.88,135.88
+ORD-11970,2024-02-13,Jordan Lee,Headphones,Accessories,North,3,80.7,242.1
+ORD-11971,2024-07-14,Reese Morgan,Desk Lamp,Office Supplies,South,1,34.58,34.58
+ORD-11972,2024-04-04,Quinn Harper,Laptop,Electronics,East,4,875.19,3500.76
+ORD-11973,2024-01-14,Blake Foster,Headphones,Accessories,North,3,76.24,228.72
+ORD-11974,2024-04-20,Alex Rivera,Headphones,Accessories,North,5,82.47,412.35
+ORD-11975,2024-01-30,Taylor Brooks,Desk Lamp,Office Supplies,South,4,34.76,139.04
+ORD-11976,2024-08-25,Quinn Harper,Headphones,Accessories,North,5,82.86,414.3
+ORD-11977,2024-05-01,Casey Nguyen,Keyboard,Accessories,East,4,52.29,209.16
+ORD-11978,2024-02-13,Avery Chen,Headphones,Accessories,North,3,82.39,247.17
+ORD-11979,2024-11-11,Jamie Torres,Desk,Furniture,North,1,201.41,201.41
+ORD-11980,2024-01-07,Taylor Brooks,Headphones,Accessories,North,5,81.26,406.3
+ORD-11981,2024-04-01,Skyler Adams,Desk Lamp,Office Supplies,South,3,35.55,106.65
+ORD-11982,2024-01-19,Parker Kim,Laptop,Electronics,South,4,894.58,3578.32
+ORD-11983,2024-10-23,Sam Patel,Notebook Pack,Office Supplies,North,1,12.62,12.62
+ORD-11984,2024-08-13,Morgan Ellis,Desk Lamp,Office Supplies,North,1,35.17,35.17
+ORD-11985,2024-03-06,Avery Chen,Headphones,Accessories,West,4,78.07,312.28
+ORD-11986,2024-04-29,Taylor Brooks,Keyboard,Accessories,East,1,51.85,51.85
+ORD-11987,2024-10-23,Drew Santos,Keyboard,Accessories,East,4,50.91,203.64
+ORD-11988,2024-05-12,Jamie Torres,Notebook Pack,Office Supplies,East,1,13.27,13.27
+ORD-11989,2024-11-03,Avery Chen,Desk,Furniture,North,1,200.8,200.8
+ORD-11990,2024-02-27,Emerson Walsh,Monitor,Electronics,East,4,239.43,957.72
+ORD-11991,2024-07-09,Quinn Harper,Mouse,Accessories,East,5,24.25,121.25
+ORD-11992,2024-01-13,Drew Santos,Chair,Furniture,North,2,155.63,311.26
+ORD-11993,2024-08-28,Cameron Blake,Desk,Furniture,East,3,209.49,628.47
+ORD-11994,2024-03-17,Rowan Pierce,Keyboard,Accessories,East,3,49.33,147.99
+ORD-11995,2024-09-18,Emerson Walsh,Monitor,Electronics,North,3,252.72,758.16
+ORD-11996,2024-01-17,Casey Nguyen,Mouse,Accessories,South,5,24.69,123.45
+ORD-11997,2024-10-16,Emerson Walsh,Monitor,Electronics,South,2,261.37,522.74
+ORD-11998,2024-01-27,Blake Foster,Notebook Pack,Office Supplies,South,5,13.29,66.45
+ORD-11999,2024-05-17,Riley Quinn,Notebook Pack,Office Supplies,North,3,13.02,39.06
+ORD-12000,2024-04-28,Skyler Adams,Mouse,Accessories,North,3,24.56,73.68
